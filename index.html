@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CeMAP 1 UKFR Memory Revision Lab</title>
+  <meta name="description" content="Standalone CeMAP 1 UKFR revision app with a 30-day memory-optimised plan, framework-first notes, grounded question bank, wrong-answer retry and mock mode." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <div class="kicker" style="color:#c7d2fe">Standalone GitHub Pages-ready study app</div>
+      <h1>CeMAP 1 UKFR Memory Revision Lab</h1>
+      <p>Built as a CeMAP 1-only UKFR app from the UKFR textbook, the CeMAP 1 revision guide, and existing extracted study assets. It keeps full content coverage but presents it for memory: framework-first daily pages, chunked notes, comparison tables, must-memorise facts, trap notes, quick recall checks, MCQ drills, wrong-answer retry, and mock mode.</p>
+      <div class="hero-meta" id="heroMeta"></div>
+    </header>
+
+    <div class="layout">
+      <aside class="panel sidebar">
+        <div class="sidebar-head">
+          <h2>30-day planner</h2>
+          <div class="chips">
+            <span class="chip" id="overallDone">0 / 30 complete</span>
+            <span class="chip muted" id="questionCount">0 questions</span>
+          </div>
+        </div>
+        <div class="sidebar-scroll" id="dayList"></div>
+      </aside>
+
+      <main class="main">
+        <section class="panel">
+          <div class="toolbar">
+            <button class="tabbtn on" data-tab="dashboard">Dashboard</button>
+            <button class="tabbtn alt" data-tab="daily">Daily study</button>
+            <button class="tabbtn alt" data-tab="topics">Topic tests</button>
+            <button class="tabbtn alt" data-tab="weak">Weak-area retry</button>
+            <button class="tabbtn alt" data-tab="mock">Mock mode</button>
+          </div>
+        </section>
+
+        <section class="panel content section on" id="dashboard"></section>
+        <section class="panel content section" id="daily"></section>
+        <section class="panel content section" id="topics"></section>
+        <section class="panel content section" id="weak"></section>
+        <section class="panel content section" id="mock"></section>
+      </main>
+    </div>
+
+    <div class="footer">Rewritten revision content, grounded question bank, static files only. Safe to publish on GitHub Pages as-is.</div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
