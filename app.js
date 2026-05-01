@@ -129,19 +129,23 @@ function renderHero() {
 function renderDayList() {
   byId('overallDone').textContent = `${getCompletedCount()} / ${DATA.plan.length} complete`;
   byId('questionCount').textContent = `${DATA.meta.questionCount} questions`;
-  byId('dayList').innerHTML = DATA.plan.map(day => {
-    const score = state.dayScores[day.day];
-    return `
-      <button class="day-card ${day.day === currentDay ? 'active' : ''}" onclick="openDay(${day.day})">
-        <div class="day-row">
-          <div class="day-title">Day ${day.day} · Week ${day.week}</div>
-          <span class="chip ${state.completedDays[day.day] ? 'done' : (score != null ? 'warn' : 'muted')}">${state.completedDays[day.day] ? 'Done' : (score != null ? score + '%' : 'Open')}</span>
-        </div>
-        <div class="small"><strong>${escapeHtml(day.title)}</strong></div>
-        <div class="day-sub">${escapeHtml(day.summary)}</div>
-      </button>
-    `;
-  }).join('');
+  byId('dayList').innerHTML = `
+    <div class="day-grid-compact">
+      ${DATA.plan.map(day => {
+        const done = state.completedDays[day.day];
+        const score = state.dayScores[day.day];
+        return `
+          <button
+            class="day-compact ${day.day === currentDay ? 'active' : ''} ${done ? 'done' : ''}"
+            onclick="openDay(${day.day})"
+            title="Day ${day.day}: ${escapeHtml(day.title)}"
+          >
+            ${day.day}
+          </button>
+        `;
+      }).join('')}
+    </div>
+  `;
 }
 
 function renderDashboard() {
