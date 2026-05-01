@@ -100,34 +100,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not turn Official policy into conduct regulation. BoE/MPC is not the FCA, PRA, FOS or FSCS."
       },
       "deepDive": [
-        "Learn the industry as a flow of funds from savers to borrowers and wider users of capital.",
-        "Know the difference between retail institutions, wholesale markets, mutuals and proprietary firms.",
-        "Keep monetary policy separate from conduct regulation.",
-        "Think of the industry as a routing system: surplus money moves from savers and investors to households, firms and governments that need funding.",
-        "When CeMAP asks about institutions, answer the ownership or market-function point first before adding detail.",
-        "Keep macro policy separate from supervision: the Bank of England and MPC shape the backdrop, while conduct/prudential bodies supervise firms.",
-        "Map the flow: savers → institutions/markets → borrowers and users of capital. This makes institution questions easier because you answer from role, not from memorised buzzwords.",
-        "When the question names mutuals, proprietary firms, retail banks or wholesale players, ownership and customer base usually come before fine detail."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "FLOW = Funds, Lenders, Official policy, Wider economy.",
-        "Mutual = owned by members; proprietary = owned by shareholders.",
-        "Money market = short-term liquidity; capital market = longer-term securities and funding.",
-        "Monetary policy is linked to Bank Rate / MPC; fiscal policy is linked to tax and government spending.",
-        "Bank of England / MPC = macro backdrop, not day-to-day conduct supervision."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "Do not mix FCA/PRA roles into Bank of England questions.",
-        "Mutual vs proprietary is usually an ownership question first.",
-        "Confusing the Bank of England with the FCA or PRA.",
-        "Treating every financial institution as if it performs the same role.",
-        "Choosing a true statement about markets that does not answer the exact institution/body being tested.",
-        "Do not answer “regulator” when the question is actually about central-banking or market function."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "FLOW = Funds, Lenders, Official policy, Wider economy.",
-        "Mutual = owned by members; proprietary = owned by shareholders.",
-        "Do not mix FCA/PRA roles into Bank of England questions."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": null,
@@ -211,34 +214,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not call fiscal policy a Bank of England function, and do not dump all securities into the money market."
       },
       "deepDive": [
-        "Money markets are short-term; capital markets are linked with longer-term funding.",
-        "Inflation matters because it affects the real value of money.",
-        "Fiscal policy and monetary policy are different levers.",
-        "Think of the industry as a routing system: surplus money moves from savers and investors to households, firms and governments that need funding.",
-        "When CeMAP asks about institutions, answer the ownership or market-function point first before adding detail.",
-        "Keep macro policy separate from supervision: the Bank of England and MPC shape the backdrop, while conduct/prudential bodies supervise firms.",
-        "Inflation questions are usually about purchasing power. A nominal return can still be a poor real return if inflation is high.",
-        "Money-market vs capital-market confusion is often solved by asking whether the instrument is mainly short-term liquidity or longer-term funding."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "M-I-P = Markets, Inflation, Policy.",
-        "Mutual = owned by members; proprietary = owned by shareholders.",
-        "Money market = short-term liquidity; capital market = longer-term securities and funding.",
-        "Monetary policy is linked to Bank Rate / MPC; fiscal policy is linked to tax and government spending.",
-        "Fiscal policy = government tax/spending; monetary policy = rates / money conditions."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "Do not call fiscal policy a Bank of England function.",
-        "Do not treat all securities as money-market instruments.",
-        "Confusing the Bank of England with the FCA or PRA.",
-        "Treating every financial institution as if it performs the same role.",
-        "Choosing a true statement about markets that does not answer the exact institution/body being tested.",
-        "Do not treat “policy” as automatically meaning the Bank of England."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "M-I-P = Markets, Inflation, Policy.",
-        "Mutual = owned by members; proprietary = owned by shareholders.",
-        "Do not call fiscal policy a Bank of England function."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 1,
@@ -326,34 +332,40 @@ window.CEMAP1_DATA = {
         "trap": "A wrapper such as an ISA affects tax treatment; it is not a tax family or asset class."
       },
       "deepDive": [
-        "Residence and domicile are tax-status concepts.",
-        "Sort taxes by what they apply to: income, gains, estates and transactions.",
-        "ISA questions are usually wrapper questions, not risk questions.",
-        "Most CeMAP tax questions are won by classification before calculation: ask whether the stem is about income, gains, estates or transactions.",
-        "Wrappers such as ISAs change tax treatment, but they do not change the underlying product risk by themselves.",
-        "Residence, domicile, allowances and nil-rate concepts appear because CeMAP expects you to recognise the tax trigger before the detailed rule.",
-        "Residence and domicile are status labels that affect tax treatment; they are not product features or conduct terms.",
-        "The cleanest way to revise this day is by sorting taxes into events: earning, disposing, transferring on death, or buying property."
+        "Tax questions = classification FIRST: Income Tax (earned/savings/dividend received); CGT (disposal gains); IHT (estate/transfer on death); SDLT (property transaction); CT (company profits).",
+        "Residence: 183+ days in UK tax year = UK resident. Domicile: country of permanent home — UK domicile = IHT on worldwide assets.",
+        "Income Tax bands 2024/25: Personal Allowance £12,570 (reduces £1 per £2 above £100,000, gone at £125,140+). Basic 20%, Higher 40%, Additional 45%.",
+        "Savings income: Personal Allowance first, then Savings Allowance (Basic £1,000, Higher £500, Additional £0). Dividend: Allowance £500, then 8.75%/33.75%/39.35%.",
+        "CGT: Annual exempt £3,000 (individuals). Chattels exempt if £6,000 or less. Gain = disposal proceeds minus allowable costs minus annual exempt.",
+        "IHT: Nil-rate band £325,000. Taper relief (3-4yr=40%/32%, 4-5=24%/16%, 5-6=16%/8%, 6-7=8%/0%). Excess above nil-rate taxed at 40%. Gift with reservation rules apply.",
+        "IHT exemptions: £3,000 annual + previous year; Wedding £5,000 children/£2,500 grandchildren/£1,000 others. Normal expenditure from income exemption.",
+        "SDLT: 0% first £250k, 5% £250k-£925k, 10% £925k-£1.5m, 12% above £1.5m. First-time buyers: 0% £425k, 5% £425k-£625k.",
+        "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "I-G-E-T = Income, Gains, Estates, Transactions.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "Personal allowance, CGT exempt amount, IHT nil-rate band and SDLT thresholds are classic factual recall areas.",
-        "Dividend and savings-income questions are often separated on purpose — do not blend them.",
-        "ISA appears as a wrapper concept even when the day is mainly about tax foundations."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k",
+        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
+        "ISA transfers between providers don't count toward annual limit",
+        "Personal allowance vs marriage allowance vs blind person's allowance"
       ],
       "commonMistakes": [
-        "A wrapper is not an asset class.",
-        "Residence questions are not conduct-regulation questions.",
-        "Picking a familiar tax label without checking what event triggers it.",
-        "Assuming a tax wrapper means low risk or guaranteed growth.",
-        "Rushing number-based questions and importing a figure from the wrong tax family.",
-        "Do not let wrapper language drag you away from the underlying tax question."
+        "Dividend rules ≠ savings rules — keep completely separate",
+        "Forgetting PA reduction above £100,000",
+        "IHT taper relief: wrong years = wrong percentage — learn exact schedule",
+        "SDLT is property TRANSACTION tax — not income/gain/capital tax",
+        "Blending income tax and CGT rules in same answer",
+        "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "I-G-E-T = Income, Gains, Estates, Transactions.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "A wrapper is not an asset class."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k"
       ],
       "jumpTargets": {
         "prevDay": 2,
@@ -432,34 +444,40 @@ window.CEMAP1_DATA = {
         "trap": "Do not import dividend treatment into savings-interest questions just because the numbers look familiar."
       },
       "deepDive": [
-        "Know the role of the personal allowance.",
-        "Keep earned income, savings income and dividend income separate.",
-        "CeMAP likes number-based trap questions.",
-        "Most CeMAP tax questions are won by classification before calculation: ask whether the stem is about income, gains, estates or transactions.",
-        "Wrappers such as ISAs change tax treatment, but they do not change the underlying product risk by themselves.",
-        "Residence, domicile, allowances and nil-rate concepts appear because CeMAP expects you to recognise the tax trigger before the detailed rule.",
-        "CeMAP likes tax-ordering questions because candidates often recognise the number but not the category it belongs to.",
-        "Train yourself to identify whether the income is earned, savings or dividend income before touching the options."
+        "Tax questions = classification FIRST: Income Tax (earned/savings/dividend received); CGT (disposal gains); IHT (estate/transfer on death); SDLT (property transaction); CT (company profits).",
+        "Residence: 183+ days in UK tax year = UK resident. Domicile: country of permanent home — UK domicile = IHT on worldwide assets.",
+        "Income Tax bands 2024/25: Personal Allowance £12,570 (reduces £1 per £2 above £100,000, gone at £125,140+). Basic 20%, Higher 40%, Additional 45%.",
+        "Savings income: Personal Allowance first, then Savings Allowance (Basic £1,000, Higher £500, Additional £0). Dividend: Allowance £500, then 8.75%/33.75%/39.35%.",
+        "CGT: Annual exempt £3,000 (individuals). Chattels exempt if £6,000 or less. Gain = disposal proceeds minus allowable costs minus annual exempt.",
+        "IHT: Nil-rate band £325,000. Taper relief (3-4yr=40%/32%, 4-5=24%/16%, 5-6=16%/8%, 6-7=8%/0%). Excess above nil-rate taxed at 40%. Gift with reservation rules apply.",
+        "IHT exemptions: £3,000 annual + previous year; Wedding £5,000 children/£2,500 grandchildren/£1,000 others. Normal expenditure from income exemption.",
+        "SDLT: 0% first £250k, 5% £250k-£925k, 10% £925k-£1.5m, 12% above £1.5m. First-time buyers: 0% £425k, 5% £425k-£625k.",
+        "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "ALLOWANCE → TYPE OF INCOME → APPLY THE RIGHT RULE.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "Personal allowance, CGT exempt amount, IHT nil-rate band and SDLT thresholds are classic factual recall areas.",
-        "Dividend and savings-income questions are often separated on purpose — do not blend them.",
-        "Personal allowance is the standard starting point for income-tax thinking."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k",
+        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
+        "ISA transfers between providers don't count toward annual limit",
+        "Personal allowance vs marriage allowance vs blind person's allowance"
       ],
       "commonMistakes": [
-        "Do not confuse dividend points with savings-interest points.",
-        "Slow down whenever figures appear.",
-        "Picking a familiar tax label without checking what event triggers it.",
-        "Assuming a tax wrapper means low risk or guaranteed growth.",
-        "Rushing number-based questions and importing a figure from the wrong tax family.",
-        "Do not import dividend rules into ordinary savings-interest questions."
+        "Dividend rules ≠ savings rules — keep completely separate",
+        "Forgetting PA reduction above £100,000",
+        "IHT taper relief: wrong years = wrong percentage — learn exact schedule",
+        "SDLT is property TRANSACTION tax — not income/gain/capital tax",
+        "Blending income tax and CGT rules in same answer",
+        "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "ALLOWANCE → TYPE OF INCOME → APPLY THE RIGHT RULE.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "Do not confuse dividend points with savings-interest points."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k"
       ],
       "jumpTargets": {
         "prevDay": 3,
@@ -547,34 +565,40 @@ window.CEMAP1_DATA = {
         "trap": "Do not treat SDLT as a general ownership tax or confuse probate/estate administration with IHT."
       },
       "deepDive": [
-        "CGT is about chargeable gains on disposal.",
-        "IHT is the estate/transfer tax topic.",
-        "SDLT is a property transaction tax; corporation tax is about company profits.",
-        "Most CeMAP tax questions are won by classification before calculation: ask whether the stem is about income, gains, estates or transactions.",
-        "Wrappers such as ISAs change tax treatment, but they do not change the underlying product risk by themselves.",
-        "Residence, domicile, allowances and nil-rate concepts appear because CeMAP expects you to recognise the tax trigger before the detailed rule.",
-        "This day is best revised as a trigger map: disposal = CGT, estate transfer = IHT, property purchase = SDLT, company profit = corporation tax.",
-        "If a question feels too easy, check whether it is trying to lure you into confusing probate/estate administration with IHT."
+        "Tax questions = classification FIRST: Income Tax (earned/savings/dividend received); CGT (disposal gains); IHT (estate/transfer on death); SDLT (property transaction); CT (company profits).",
+        "Residence: 183+ days in UK tax year = UK resident. Domicile: country of permanent home — UK domicile = IHT on worldwide assets.",
+        "Income Tax bands 2024/25: Personal Allowance £12,570 (reduces £1 per £2 above £100,000, gone at £125,140+). Basic 20%, Higher 40%, Additional 45%.",
+        "Savings income: Personal Allowance first, then Savings Allowance (Basic £1,000, Higher £500, Additional £0). Dividend: Allowance £500, then 8.75%/33.75%/39.35%.",
+        "CGT: Annual exempt £3,000 (individuals). Chattels exempt if £6,000 or less. Gain = disposal proceeds minus allowable costs minus annual exempt.",
+        "IHT: Nil-rate band £325,000. Taper relief (3-4yr=40%/32%, 4-5=24%/16%, 5-6=16%/8%, 6-7=8%/0%). Excess above nil-rate taxed at 40%. Gift with reservation rules apply.",
+        "IHT exemptions: £3,000 annual + previous year; Wedding £5,000 children/£2,500 grandchildren/£1,000 others. Normal expenditure from income exemption.",
+        "SDLT: 0% first £250k, 5% £250k-£925k, 10% £925k-£1.5m, 12% above £1.5m. First-time buyers: 0% £425k, 5% £425k-£625k.",
+        "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "GAIN → ESTATE → TRANSACTION → COMPANY.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "Personal allowance, CGT exempt amount, IHT nil-rate band and SDLT thresholds are classic factual recall areas.",
-        "Dividend and savings-income questions are often separated on purpose — do not blend them.",
-        "Corporation tax belongs to company profits, not personal income."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k",
+        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
+        "ISA transfers between providers don't count toward annual limit",
+        "Personal allowance vs marriage allowance vs blind person's allowance"
       ],
       "commonMistakes": [
-        "IHT is not the same as probate.",
-        "SDLT is not a tax on income.",
-        "Picking a familiar tax label without checking what event triggers it.",
-        "Assuming a tax wrapper means low risk or guaranteed growth.",
-        "Rushing number-based questions and importing a figure from the wrong tax family.",
-        "Do not treat SDLT as a tax on ownership in general; it is tied to the transaction."
+        "Dividend rules ≠ savings rules — keep completely separate",
+        "Forgetting PA reduction above £100,000",
+        "IHT taper relief: wrong years = wrong percentage — learn exact schedule",
+        "SDLT is property TRANSACTION tax — not income/gain/capital tax",
+        "Blending income tax and CGT rules in same answer",
+        "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "GAIN → ESTATE → TRANSACTION → COMPANY.",
-        "Income Tax = income received; CGT = disposal gains; IHT = estate/transfer tax; SDLT = property transaction tax.",
-        "IHT is not the same as probate."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k"
       ],
       "jumpTargets": {
         "prevDay": 4,
@@ -655,34 +679,51 @@ window.CEMAP1_DATA = {
         "trap": "Do not choose “guaranteed” unless the wording truly gives a guarantee."
       },
       "deepDive": [
-        "Cash-like holdings usually mean liquidity and lower volatility.",
-        "Gilts and bonds are debt-style investments.",
-        "Equities are ownership-linked and more volatile.",
-        "CeMAP product questions are usually suitability questions in disguise: what need does the product meet, what risk remains, and how liquid is it?",
-        "Learn the comparison pairs cold: cash vs equities, term vs whole of life, critical illness vs income protection, buildings vs contents, MPPI vs income protection.",
-        "A wrapper, fund structure or repayment method is not the same thing as the underlying asset or protection objective.",
-        "Product questions here are mostly contrast questions: liquidity vs growth, debt vs ownership, lower volatility vs higher volatility.",
-        "A debt security gives the investor a creditor-style position; an equity gives an ownership-style position."
+        "Product questions = suitability in disguise: What need? What risk remains? How liquid? Answer all three.",
+        "Cash/deposits: Low risk, FSCS £85,000, liquid. BUT inflation erodes real value — money saved may lose purchasing power over time.",
+        "Gilts: UK government bonds. Low risk, income, capital stable if held to maturity. Corporate bonds: risk/reward — higher yield because higher risk than gilts.",
+        "Equities: ownership shares. No guaranteed dividend. If company fails, equity holders LAST to recover (after all creditors). Direct equity = high risk, hard to diversify.",
+        "Unit trust: trust structure, open-ended (more units created/redemed), subject to FCA diversification rules, bid-offer spread. OEIC: company structure, single price, no bid-offer spread.",
+        "Investment trust: closed-ended company, shares trade on exchange. Price can trade at premium/discount to NAV. Unlike unit trusts, can borrow (gearing).",
+        "ISA = WRAPPER (tax-efficient container). Junior ISA £9,000/yr. Lifetime ISA £4,000/yr (home or retirement, 25% gov bonus). Transfer between providers allowed without using allowance.",
+        "Term assurance: fixed period, lump sum on death within term. Level = same payout; Decreasing = reduces (mortgage protection). No investment element — pure protection.",
+        "Whole of life: lifetime cover. Guaranteed sum on death + potential bonuses. More expensive than term because covers whole life.",
+        "Critical illness: diagnosis of SPECIFIED conditions only. Lump sum. NOT income. Must meet strict definitions — not just having the illness.",
+        "Income protection: monthly income if cannot work due to illness/injury. Pays after deferred period until recovery/retirement/death. NOT for unemployment. More comprehensive than MPPI.",
+        "MPPI: mortgage payment protection — short-term (12-24 months max), covers mortgage payments ONLY, not general living expenses. Income protection covers broader income.",
+        "Buildings insurance: covers structure (rebuild cost, not market value). Contents: personal belongings. Combined or separate policies available.",
+        "DC pension: retirement benefit = contributions + returns minus charges. No guaranteed income. Depends on fund value at retirement. Employee bears investment risk.",
+        "DB pension: benefit = final salary × service fraction (e.g. 1/60th per year). Employer bears investment/ longevity risk. HMRC tax relief on contributions.",
+        "Auto-enrolment: 22 to State Pension age, earnings £10,000+/year must be enrolled. Minimum contributions: employer 3%, employee 5%, tax relief 1% = total 8% (with tax relief = 9% effective).",
+        "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "P-R-L = Purpose, Risk, Liquidity.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Term assurance covers a fixed period; whole-of-life is intended to remain in force for life.",
-        "Critical illness tends to be lump sum; income protection is earnings replacement over time.",
-        "Cash is usually more liquid; equities usually bring more volatility."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Income protection = monthly income, deferred period, until recovery/retirement",
+        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
+        "DC = contributions+returns = fund value; DB = final salary × service fraction",
+        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
+        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
       ],
       "commonMistakes": [
-        "A gilt is not a pooled fund.",
-        "Equities are not guaranteed.",
-        "Treating diversification as the removal of all risk.",
-        "Mixing up wrapper, product and asset class in the same answer.",
-        "Assuming low starting payments or popular products automatically make them suitable.",
-        "Do not choose “guaranteed” unless the wording really supports it."
+        "Critical illness = lump sum for specified conditions (not monthly income)",
+        "MPPI = mortgage payments only (not general income protection)",
+        "ISA is a WRAPPER — doesn't change underlying product risk",
+        "Investment trust ≠ unit trust (closed vs open, company vs trust)",
+        "Converting term = convert later without health evidence; Decreasing term = for repayment mortgages",
+        "Family income benefit = monthly income (not lump sum like level term)",
+        "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "P-R-L = Purpose, Risk, Liquidity.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "A gilt is not a pooled fund."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
       ],
       "jumpTargets": {
         "prevDay": 5,
@@ -770,34 +811,51 @@ window.CEMAP1_DATA = {
         "trap": "Tax efficiency does not remove investment risk or automatically make something suitable."
       },
       "deepDive": [
-        "Know the main collective-investment labels: unit trust, OEIC and investment trust.",
-        "Property may offer growth and income but is less liquid.",
-        "Separate the wrapper from the underlying investment.",
-        "CeMAP product questions are usually suitability questions in disguise: what need does the product meet, what risk remains, and how liquid is it?",
-        "Learn the comparison pairs cold: cash vs equities, term vs whole of life, critical illness vs income protection, buildings vs contents, MPPI vs income protection.",
-        "A wrapper, fund structure or repayment method is not the same thing as the underlying asset or protection objective.",
-        "Wrappers, pooled funds and asset classes are three different layers; CeMAP often tests whether you can keep them separate under time pressure.",
-        "Property can diversify a portfolio, but it still brings valuation and liquidity concerns."
+        "Product questions = suitability in disguise: What need? What risk remains? How liquid? Answer all three.",
+        "Cash/deposits: Low risk, FSCS £85,000, liquid. BUT inflation erodes real value — money saved may lose purchasing power over time.",
+        "Gilts: UK government bonds. Low risk, income, capital stable if held to maturity. Corporate bonds: risk/reward — higher yield because higher risk than gilts.",
+        "Equities: ownership shares. No guaranteed dividend. If company fails, equity holders LAST to recover (after all creditors). Direct equity = high risk, hard to diversify.",
+        "Unit trust: trust structure, open-ended (more units created/redemed), subject to FCA diversification rules, bid-offer spread. OEIC: company structure, single price, no bid-offer spread.",
+        "Investment trust: closed-ended company, shares trade on exchange. Price can trade at premium/discount to NAV. Unlike unit trusts, can borrow (gearing).",
+        "ISA = WRAPPER (tax-efficient container). Junior ISA £9,000/yr. Lifetime ISA £4,000/yr (home or retirement, 25% gov bonus). Transfer between providers allowed without using allowance.",
+        "Term assurance: fixed period, lump sum on death within term. Level = same payout; Decreasing = reduces (mortgage protection). No investment element — pure protection.",
+        "Whole of life: lifetime cover. Guaranteed sum on death + potential bonuses. More expensive than term because covers whole life.",
+        "Critical illness: diagnosis of SPECIFIED conditions only. Lump sum. NOT income. Must meet strict definitions — not just having the illness.",
+        "Income protection: monthly income if cannot work due to illness/injury. Pays after deferred period until recovery/retirement/death. NOT for unemployment. More comprehensive than MPPI.",
+        "MPPI: mortgage payment protection — short-term (12-24 months max), covers mortgage payments ONLY, not general living expenses. Income protection covers broader income.",
+        "Buildings insurance: covers structure (rebuild cost, not market value). Contents: personal belongings. Combined or separate policies available.",
+        "DC pension: retirement benefit = contributions + returns minus charges. No guaranteed income. Depends on fund value at retirement. Employee bears investment risk.",
+        "DB pension: benefit = final salary × service fraction (e.g. 1/60th per year). Employer bears investment/ longevity risk. HMRC tax relief on contributions.",
+        "Auto-enrolment: 22 to State Pension age, earnings £10,000+/year must be enrolled. Minimum contributions: employer 3%, employee 5%, tax relief 1% = total 8% (with tax relief = 9% effective).",
+        "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "WRAPPER ≠ ASSET.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Term assurance covers a fixed period; whole-of-life is intended to remain in force for life.",
-        "Critical illness tends to be lump sum; income protection is earnings replacement over time.",
-        "ISA = wrapper; pooled fund = structure; property = asset class."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Income protection = monthly income, deferred period, until recovery/retirement",
+        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
+        "DC = contributions+returns = fund value; DB = final salary × service fraction",
+        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
+        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
       ],
       "commonMistakes": [
-        "Tax-efficient does not mean risk-free.",
-        "Diversification reduces risk concentration, not all risk.",
-        "Treating diversification as the removal of all risk.",
-        "Mixing up wrapper, product and asset class in the same answer.",
-        "Assuming low starting payments or popular products automatically make them suitable.",
-        "Do not answer “tax efficient” as if it solved suitability or risk."
+        "Critical illness = lump sum for specified conditions (not monthly income)",
+        "MPPI = mortgage payments only (not general income protection)",
+        "ISA is a WRAPPER — doesn't change underlying product risk",
+        "Investment trust ≠ unit trust (closed vs open, company vs trust)",
+        "Converting term = convert later without health evidence; Decreasing term = for repayment mortgages",
+        "Family income benefit = monthly income (not lump sum like level term)",
+        "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "WRAPPER ≠ ASSET.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Tax-efficient does not mean risk-free."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
       ],
       "jumpTargets": {
         "prevDay": 6,
@@ -882,34 +940,51 @@ window.CEMAP1_DATA = {
         "trap": "Do not turn every protection answer into income protection just because “monthly money” sounds useful."
       },
       "deepDive": [
-        "Term assurance mainly solves a fixed-period death risk.",
-        "Whole-of-life covers life rather than a set term.",
-        "Critical illness and income protection solve different problems.",
-        "CeMAP product questions are usually suitability questions in disguise: what need does the product meet, what risk remains, and how liquid is it?",
-        "Learn the comparison pairs cold: cash vs equities, term vs whole of life, critical illness vs income protection, buildings vs contents, MPPI vs income protection.",
-        "A wrapper, fund structure or repayment method is not the same thing as the underlying asset or protection objective.",
-        "Protection becomes easier when you start with the risk event: death, specified illness or loss of earnings. Then choose the product.",
-        "The exam often rewards precision about the style of payout — fixed term, lifetime, lump sum or income."
+        "Product questions = suitability in disguise: What need? What risk remains? How liquid? Answer all three.",
+        "Cash/deposits: Low risk, FSCS £85,000, liquid. BUT inflation erodes real value — money saved may lose purchasing power over time.",
+        "Gilts: UK government bonds. Low risk, income, capital stable if held to maturity. Corporate bonds: risk/reward — higher yield because higher risk than gilts.",
+        "Equities: ownership shares. No guaranteed dividend. If company fails, equity holders LAST to recover (after all creditors). Direct equity = high risk, hard to diversify.",
+        "Unit trust: trust structure, open-ended (more units created/redemed), subject to FCA diversification rules, bid-offer spread. OEIC: company structure, single price, no bid-offer spread.",
+        "Investment trust: closed-ended company, shares trade on exchange. Price can trade at premium/discount to NAV. Unlike unit trusts, can borrow (gearing).",
+        "ISA = WRAPPER (tax-efficient container). Junior ISA £9,000/yr. Lifetime ISA £4,000/yr (home or retirement, 25% gov bonus). Transfer between providers allowed without using allowance.",
+        "Term assurance: fixed period, lump sum on death within term. Level = same payout; Decreasing = reduces (mortgage protection). No investment element — pure protection.",
+        "Whole of life: lifetime cover. Guaranteed sum on death + potential bonuses. More expensive than term because covers whole life.",
+        "Critical illness: diagnosis of SPECIFIED conditions only. Lump sum. NOT income. Must meet strict definitions — not just having the illness.",
+        "Income protection: monthly income if cannot work due to illness/injury. Pays after deferred period until recovery/retirement/death. NOT for unemployment. More comprehensive than MPPI.",
+        "MPPI: mortgage payment protection — short-term (12-24 months max), covers mortgage payments ONLY, not general living expenses. Income protection covers broader income.",
+        "Buildings insurance: covers structure (rebuild cost, not market value). Contents: personal belongings. Combined or separate policies available.",
+        "DC pension: retirement benefit = contributions + returns minus charges. No guaranteed income. Depends on fund value at retirement. Employee bears investment risk.",
+        "DB pension: benefit = final salary × service fraction (e.g. 1/60th per year). Employer bears investment/ longevity risk. HMRC tax relief on contributions.",
+        "Auto-enrolment: 22 to State Pension age, earnings £10,000+/year must be enrolled. Minimum contributions: employer 3%, employee 5%, tax relief 1% = total 8% (with tax relief = 9% effective).",
+        "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "D-I-P = Death, Illness, Paycheque.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Term assurance covers a fixed period; whole-of-life is intended to remain in force for life.",
-        "Critical illness tends to be lump sum; income protection is earnings replacement over time.",
-        "Term assurance = defined period; whole-of-life = life cover; critical illness = specified-condition lump sum; income protection = earnings replacement."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Income protection = monthly income, deferred period, until recovery/retirement",
+        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
+        "DC = contributions+returns = fund value; DB = final salary × service fraction",
+        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
+        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
       ],
       "commonMistakes": [
-        "Critical illness is not monthly income protection.",
-        "Whole of life is not a temporary cover plan.",
-        "Treating diversification as the removal of all risk.",
-        "Mixing up wrapper, product and asset class in the same answer.",
-        "Assuming low starting payments or popular products automatically make them suitable.",
-        "Do not turn every protection answer into income protection."
+        "Critical illness = lump sum for specified conditions (not monthly income)",
+        "MPPI = mortgage payments only (not general income protection)",
+        "ISA is a WRAPPER — doesn't change underlying product risk",
+        "Investment trust ≠ unit trust (closed vs open, company vs trust)",
+        "Converting term = convert later without health evidence; Decreasing term = for repayment mortgages",
+        "Family income benefit = monthly income (not lump sum like level term)",
+        "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "D-I-P = Death, Illness, Paycheque.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Critical illness is not monthly income protection."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
       ],
       "jumpTargets": {
         "prevDay": 7,
@@ -999,34 +1074,51 @@ window.CEMAP1_DATA = {
         "trap": "Do not confuse scheme label with DB/DC structure or with State Pension facts."
       },
       "deepDive": [
-        "Know the pension family names: personal, stakeholder and occupational.",
-        "Understand DB vs DC at a simple pass-mark level.",
-        "Keep pensions framed as retirement-income planning, with annuities as one income option.",
-        "CeMAP product questions are usually suitability questions in disguise: what need does the product meet, what risk remains, and how liquid is it?",
-        "Learn the comparison pairs cold: cash vs equities, term vs whole of life, critical illness vs income protection, buildings vs contents, MPPI vs income protection.",
-        "A wrapper, fund structure or repayment method is not the same thing as the underlying asset or protection objective.",
-        "Keep pensions at pass-mark level: recognise the main scheme labels and what retirement problem they are trying to solve.",
-        "Annuities still belong here as a retirement-income outcome, but do not let one annuity fact crowd out the wider pension basics."
+        "Product questions = suitability in disguise: What need? What risk remains? How liquid? Answer all three.",
+        "Cash/deposits: Low risk, FSCS £85,000, liquid. BUT inflation erodes real value — money saved may lose purchasing power over time.",
+        "Gilts: UK government bonds. Low risk, income, capital stable if held to maturity. Corporate bonds: risk/reward — higher yield because higher risk than gilts.",
+        "Equities: ownership shares. No guaranteed dividend. If company fails, equity holders LAST to recover (after all creditors). Direct equity = high risk, hard to diversify.",
+        "Unit trust: trust structure, open-ended (more units created/redemed), subject to FCA diversification rules, bid-offer spread. OEIC: company structure, single price, no bid-offer spread.",
+        "Investment trust: closed-ended company, shares trade on exchange. Price can trade at premium/discount to NAV. Unlike unit trusts, can borrow (gearing).",
+        "ISA = WRAPPER (tax-efficient container). Junior ISA £9,000/yr. Lifetime ISA £4,000/yr (home or retirement, 25% gov bonus). Transfer between providers allowed without using allowance.",
+        "Term assurance: fixed period, lump sum on death within term. Level = same payout; Decreasing = reduces (mortgage protection). No investment element — pure protection.",
+        "Whole of life: lifetime cover. Guaranteed sum on death + potential bonuses. More expensive than term because covers whole life.",
+        "Critical illness: diagnosis of SPECIFIED conditions only. Lump sum. NOT income. Must meet strict definitions — not just having the illness.",
+        "Income protection: monthly income if cannot work due to illness/injury. Pays after deferred period until recovery/retirement/death. NOT for unemployment. More comprehensive than MPPI.",
+        "MPPI: mortgage payment protection — short-term (12-24 months max), covers mortgage payments ONLY, not general living expenses. Income protection covers broader income.",
+        "Buildings insurance: covers structure (rebuild cost, not market value). Contents: personal belongings. Combined or separate policies available.",
+        "DC pension: retirement benefit = contributions + returns minus charges. No guaranteed income. Depends on fund value at retirement. Employee bears investment risk.",
+        "DB pension: benefit = final salary × service fraction (e.g. 1/60th per year). Employer bears investment/ longevity risk. HMRC tax relief on contributions.",
+        "Auto-enrolment: 22 to State Pension age, earnings £10,000+/year must be enrolled. Minimum contributions: employer 3%, employee 5%, tax relief 1% = total 8% (with tax relief = 9% effective).",
+        "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "PENSION TYPE → RETIREMENT PURPOSE → INCOME OUTCOME.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Term assurance covers a fixed period; whole-of-life is intended to remain in force for life.",
-        "Critical illness tends to be lump sum; income protection is earnings replacement over time.",
-        "Personal / stakeholder / occupational are the core pension labels; DB vs DC is the core structure distinction."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Income protection = monthly income, deferred period, until recovery/retirement",
+        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
+        "DC = contributions+returns = fund value; DB = final salary × service fraction",
+        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
+        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
       ],
       "commonMistakes": [
-        "Do not treat every pension as employer-run.",
-        "Do not confuse what is defined in DB with what is defined in DC.",
-        "Treating diversification as the removal of all risk.",
-        "Mixing up wrapper, product and asset class in the same answer.",
-        "Assuming low starting payments or popular products automatically make them suitable.",
-        "Do not treat a pension as just another generic savings plan with no retirement-income purpose."
+        "Critical illness = lump sum for specified conditions (not monthly income)",
+        "MPPI = mortgage payments only (not general income protection)",
+        "ISA is a WRAPPER — doesn't change underlying product risk",
+        "Investment trust ≠ unit trust (closed vs open, company vs trust)",
+        "Converting term = convert later without health evidence; Decreasing term = for repayment mortgages",
+        "Family income benefit = monthly income (not lump sum like level term)",
+        "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "PENSION TYPE → RETIREMENT PURPOSE → INCOME OUTCOME.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Do not treat every pension as employer-run."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
       ],
       "jumpTargets": {
         "prevDay": 8,
@@ -1116,34 +1208,51 @@ window.CEMAP1_DATA = {
         "trap": "Do not drag in detailed mortgage-paper logic when a short UKFR answer is enough."
       },
       "deepDive": [
-        "MPPI, buildings and contents are classic comparison questions.",
-        "Compact insurance-law principles can produce straightforward marks if remembered as short definitions.",
-        "Interest-only logic matters only at a simple credibility level here.",
-        "CeMAP product questions are usually suitability questions in disguise: what need does the product meet, what risk remains, and how liquid is it?",
-        "Learn the comparison pairs cold: cash vs equities, term vs whole of life, critical illness vs income protection, buildings vs contents, MPPI vs income protection.",
-        "A wrapper, fund structure or repayment method is not the same thing as the underlying asset or protection objective.",
-        "Use this day for the protection clean-up points that still create avoidable errors: MPPI, buildings/contents and short insurance-law principles.",
-        "Keep repayment logic deliberately light: CeMAP 1 only needs the simple warning that capital must still be repaid somehow."
+        "Product questions = suitability in disguise: What need? What risk remains? How liquid? Answer all three.",
+        "Cash/deposits: Low risk, FSCS £85,000, liquid. BUT inflation erodes real value — money saved may lose purchasing power over time.",
+        "Gilts: UK government bonds. Low risk, income, capital stable if held to maturity. Corporate bonds: risk/reward — higher yield because higher risk than gilts.",
+        "Equities: ownership shares. No guaranteed dividend. If company fails, equity holders LAST to recover (after all creditors). Direct equity = high risk, hard to diversify.",
+        "Unit trust: trust structure, open-ended (more units created/redemed), subject to FCA diversification rules, bid-offer spread. OEIC: company structure, single price, no bid-offer spread.",
+        "Investment trust: closed-ended company, shares trade on exchange. Price can trade at premium/discount to NAV. Unlike unit trusts, can borrow (gearing).",
+        "ISA = WRAPPER (tax-efficient container). Junior ISA £9,000/yr. Lifetime ISA £4,000/yr (home or retirement, 25% gov bonus). Transfer between providers allowed without using allowance.",
+        "Term assurance: fixed period, lump sum on death within term. Level = same payout; Decreasing = reduces (mortgage protection). No investment element — pure protection.",
+        "Whole of life: lifetime cover. Guaranteed sum on death + potential bonuses. More expensive than term because covers whole life.",
+        "Critical illness: diagnosis of SPECIFIED conditions only. Lump sum. NOT income. Must meet strict definitions — not just having the illness.",
+        "Income protection: monthly income if cannot work due to illness/injury. Pays after deferred period until recovery/retirement/death. NOT for unemployment. More comprehensive than MPPI.",
+        "MPPI: mortgage payment protection — short-term (12-24 months max), covers mortgage payments ONLY, not general living expenses. Income protection covers broader income.",
+        "Buildings insurance: covers structure (rebuild cost, not market value). Contents: personal belongings. Combined or separate policies available.",
+        "DC pension: retirement benefit = contributions + returns minus charges. No guaranteed income. Depends on fund value at retirement. Employee bears investment risk.",
+        "DB pension: benefit = final salary × service fraction (e.g. 1/60th per year). Employer bears investment/ longevity risk. HMRC tax relief on contributions.",
+        "Auto-enrolment: 22 to State Pension age, earnings £10,000+/year must be enrolled. Minimum contributions: employer 3%, employee 5%, tax relief 1% = total 8% (with tax relief = 9% effective).",
+        "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "COMPARE COVER, THEN CHECK REPAYMENT CREDIBILITY.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Term assurance covers a fixed period; whole-of-life is intended to remain in force for life.",
-        "Critical illness tends to be lump sum; income protection is earnings replacement over time.",
-        "Insurance legal-principle questions are usually won by short keyword definitions."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Income protection = monthly income, deferred period, until recovery/retirement",
+        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
+        "DC = contributions+returns = fund value; DB = final salary × service fraction",
+        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
+        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
       ],
       "commonMistakes": [
-        "Buildings does not mean contents.",
-        "Do not overthink mortgage-paper detail in CeMAP 1.",
-        "Treating diversification as the removal of all risk.",
-        "Mixing up wrapper, product and asset class in the same answer.",
-        "Assuming low starting payments or popular products automatically make them suitable.",
-        "Do not drift into detailed mortgage-paper calculations or advanced repayment-vehicle analysis."
+        "Critical illness = lump sum for specified conditions (not monthly income)",
+        "MPPI = mortgage payments only (not general income protection)",
+        "ISA is a WRAPPER — doesn't change underlying product risk",
+        "Investment trust ≠ unit trust (closed vs open, company vs trust)",
+        "Converting term = convert later without health evidence; Decreasing term = for repayment mortgages",
+        "Family income benefit = monthly income (not lump sum like level term)",
+        "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "COMPARE COVER, THEN CHECK REPAYMENT CREDIBILITY.",
-        "Gilts/bonds are debt investments; equities are ownership-based and more volatile.",
-        "Buildings does not mean contents."
+        "Corporate bonds: higher yield than gilts because risk is higher",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
+        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
       ],
       "jumpTargets": {
         "prevDay": 9,
@@ -1228,33 +1337,41 @@ window.CEMAP1_DATA = {
         "trap": "Do not recommend before the factfind just because one answer sounds commercially decisive."
       },
       "deepDive": [
-        "Factfind first, recommendation later.",
-        "Advice should be evidence-led.",
-        "Objectives and circumstances drive suitability.",
-        "Advice-process marks come from sequence and evidence: gather facts, identify objectives, assess risk/capacity, then recommend and document.",
-        "Suitability is never just product knowledge — it depends on affordability, objectives, attitude to risk, capacity for loss and client circumstances.",
-        "The best conduct answer usually improves understanding, records the rationale and supports ongoing review.",
-        "Good advice starts with factfinding because suitability without facts is guesswork.",
-        "Objectives, needs and financial circumstances are the evidence base that justify any later recommendation."
+        "Factfind before recommendation — ALWAYS. Collect: financial situation, objectives, attitude to risk, capacity for loss, time horizon, existing cover.",
+        "Attitude to risk (ATR): willingness to take investment risk. Measured via risk profile questionnaire. CLIENT'S OWN VIEW of their comfort with volatility.",
+        "Capacity for loss (CFL): financial ability to absorb investment losses without hardship. ASSESSED OBJECTIVELY. Must be assessed SEPARATELY from ATR — they can conflict.",
+        "Suitability report: required after giving personal recommendations. Must explain: recommendation, why it suits, what alternatives considered, how it meets objectives.",
+        "Execution-only: client selects product without advice. Must confirm client understands nature/risks. Cannot advise on execution-only transactions. No suitability required.",
+        "Restricted advice: limited to certain products (tied = one provider; multi-tied = selected panel). Independent = whole of market analysis.",
+        "Ongoing reviews: circumstances change (income, family, health, objectives). Product performance changes. Original suitability can become unsuitable. Regular reviews essential.",
+        "Vulnerable clients: FCA expects firms to identify potential vulnerability and adapt service/process. Can be temporary, situational or permanent. Adapt pace, communication, documentation.",
+        "Professional indemnity: required for advice firms. Covers claims for negligent advice. PII claim = client suffered financial loss due to unsuitable advice.",
+        "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "FIND = Factfind, Identify needs, Narrow options, Document.",
-        "Factfind before recommendation.",
-        "Attitude to risk = willingness/comfort; capacity for loss = financial ability to absorb harm.",
-        "Reviews matter because circumstances, products and suitability can change.",
-        "Factfind first; recommendation later."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market",
+        "Ongoing reviews: circumstances/products/suitability all change over time",
+        "Vulnerable: adapt process, don't assume incapacity",
+        "CPD = 35 hours/year minimum for SPS holders"
       ],
       "commonMistakes": [
-        "Do not recommend before you understand the client.",
-        "Recommending too early before evidence is gathered.",
-        "Treating risk tolerance and capacity for loss as the same concept.",
-        "Choosing the most commercial answer instead of the most client-protective one.",
-        "Do not treat the product pitch as the starting point of the advice process."
+        "Recommending before factfind is complete",
+        "Treating ATR and CFL as the same concept",
+        "Picking higher-return answer just because client is ambitious",
+        "Execution-only: giving advice when should be non-advisory",
+        "Not documenting the rationale for recommendation",
+        "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "FIND = Factfind, Identify needs, Narrow options, Document.",
-        "Factfind before recommendation.",
-        "Do not recommend before you understand the client."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market"
       ],
       "jumpTargets": {
         "prevDay": 10,
@@ -1340,33 +1457,41 @@ window.CEMAP1_DATA = {
         "trap": "Attitude to risk and capacity for loss are different. Do not merge them."
       },
       "deepDive": [
-        "Attitude to risk and capacity for loss are not the same.",
-        "Suitability is about fit, not product complexity.",
-        "Reviews matter because people and products change.",
-        "Advice-process marks come from sequence and evidence: gather facts, identify objectives, assess risk/capacity, then recommend and document.",
-        "Suitability is never just product knowledge — it depends on affordability, objectives, attitude to risk, capacity for loss and client circumstances.",
-        "The best conduct answer usually improves understanding, records the rationale and supports ongoing review.",
-        "This is one of the most exam-relevant conduct distinctions: wanting risk and being able to survive loss are different things.",
-        "Ongoing reviews matter because an originally suitable recommendation can become unsuitable as life changes."
+        "Factfind before recommendation — ALWAYS. Collect: financial situation, objectives, attitude to risk, capacity for loss, time horizon, existing cover.",
+        "Attitude to risk (ATR): willingness to take investment risk. Measured via risk profile questionnaire. CLIENT'S OWN VIEW of their comfort with volatility.",
+        "Capacity for loss (CFL): financial ability to absorb investment losses without hardship. ASSESSED OBJECTIVELY. Must be assessed SEPARATELY from ATR — they can conflict.",
+        "Suitability report: required after giving personal recommendations. Must explain: recommendation, why it suits, what alternatives considered, how it meets objectives.",
+        "Execution-only: client selects product without advice. Must confirm client understands nature/risks. Cannot advise on execution-only transactions. No suitability required.",
+        "Restricted advice: limited to certain products (tied = one provider; multi-tied = selected panel). Independent = whole of market analysis.",
+        "Ongoing reviews: circumstances change (income, family, health, objectives). Product performance changes. Original suitability can become unsuitable. Regular reviews essential.",
+        "Vulnerable clients: FCA expects firms to identify potential vulnerability and adapt service/process. Can be temporary, situational or permanent. Adapt pace, communication, documentation.",
+        "Professional indemnity: required for advice firms. Covers claims for negligent advice. PII claim = client suffered financial loss due to unsuitable advice.",
+        "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "SAFE = Suitable, Affordable, Fair, Explained.",
-        "Factfind before recommendation.",
-        "Attitude to risk = willingness/comfort; capacity for loss = financial ability to absorb harm.",
-        "Reviews matter because circumstances, products and suitability can change.",
-        "Attitude to risk and capacity for loss must be assessed separately."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market",
+        "Ongoing reviews: circumstances/products/suitability all change over time",
+        "Vulnerable: adapt process, don't assume incapacity",
+        "CPD = 35 hours/year minimum for SPS holders"
       ],
       "commonMistakes": [
-        "The higher-return answer is not automatically best.",
-        "Recommending too early before evidence is gathered.",
-        "Treating risk tolerance and capacity for loss as the same concept.",
-        "Choosing the most commercial answer instead of the most client-protective one.",
-        "Do not pick the “higher return” answer just because it sounds more ambitious."
+        "Recommending before factfind is complete",
+        "Treating ATR and CFL as the same concept",
+        "Picking higher-return answer just because client is ambitious",
+        "Execution-only: giving advice when should be non-advisory",
+        "Not documenting the rationale for recommendation",
+        "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "SAFE = Suitable, Affordable, Fair, Explained.",
-        "Factfind before recommendation.",
-        "The higher-return answer is not automatically best."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market"
       ],
       "jumpTargets": {
         "prevDay": 11,
@@ -1449,33 +1574,40 @@ window.CEMAP1_DATA = {
         "trap": "Do not confuse who benefits under an estate with who has legal authority to act."
       },
       "deepDive": [
-        "Legal ownership and beneficial outcomes are not always the same thing.",
-        "A will helps direct estate distribution.",
-        "Intestacy rules apply without a valid will.",
-        "Legal questions are often really about authority, ownership, distribution or scope. Decide which of those four is being tested before reading the options twice.",
-        "A will controls planned distribution; intestacy applies when planning is absent or invalid.",
-        "Authority questions ask who may give instructions or act for another person — not who benefits emotionally or practically.",
-        "Ownership questions become easier once you separate legal title, beneficial outcome and survivorship.",
-        "A will is about directing outcomes; intestacy is about default rules stepping in where planning is absent."
+        "Will: legal document directing estate distribution on death. Must be signed by testator + 2 witnesses (witnesses cannot benefit). Can be revoked at any time during lifetime.",
+        "Intestacy: dying without valid will. Rules determine distribution. Priority: spouse/civil partner → children/descendants → parents → siblings (whole blood) →... If none, whole estate to Crown.",
+        "Joint tenants: ROS (right of survivorship). When one dies, other inherits automatically. CANNOT leave share by will. Severance converts to tenants in common.",
+        "Tenants in common: each owns a DEFINED share. Share CAN be left by will. Equal shares presumed unless deed says otherwise.",
+        "LPA Health and Welfare: authority to make welfare decisions. ONLY used when donor LACKS mental capacity. Cannot be used while donor still has capacity.",
+        "LPA Property and Financial Affairs: authority over property/finances. CAN be used while donor still has capacity if the LPA allows it.",
+        "Agency: agent acts for principal. Actual authority = explicitly agreed. Apparent/ostensible authority = principal leads third party to reasonably believe agent has authority.",
+        "Trustee: holds and manages trust assets for beneficiaries. Duties: act in best interests of beneficiaries, follow trust terms, be impartial, act personally.",
+        "Personal representative (PR): administers estate after death. Executor = named in will. Administrator = appointed by court if intestate. Collects assets, pays debts/tax, distributes.",
+        "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
-        "PLAN OR THE RULES WILL DECIDE.",
-        "Intestacy = death without a valid will.",
-        "Agency and powers of attorney are authority concepts.",
-        "Scope questions are answered by checking whether the rule applies before analysing detail.",
-        "Joint tenancy and tenants in common are ownership patterns, not just vocabulary."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially",
+        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
+        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
+        "TPA 1999: third party can enforce contract term that specifically benefits them"
       ],
       "commonMistakes": [
-        "Do not confuse authority to act with who benefits.",
-        "Confusing beneficiary status with legal authority to act.",
-        "Choosing an answer that is legally true in general but not relevant to the exact issue in the stem.",
-        "Forgetting that bankruptcy/scope points can affect suitability and access, not just legal theory.",
-        "Do not confuse survivorship with the ability to leave a defined share by will."
+        "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
+        "Joint tenancy: cannot leave share by will (ROS applies) — common trap",
+        "Treating intestacy as simple — has detailed priority order",
+        "LPA Health&Welfare can ONLY be used when donor lacks capacity",
+        "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "PLAN OR THE RULES WILL DECIDE.",
-        "Intestacy = death without a valid will.",
-        "Do not confuse authority to act with who benefits."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially"
       ],
       "jumpTargets": {
         "prevDay": 12,
@@ -1549,33 +1681,40 @@ window.CEMAP1_DATA = {
         "trap": "Family relationship or sympathy is not the same as legal authority."
       },
       "deepDive": [
-        "Agency is about authority to act for another.",
-        "LPA questions are authority questions.",
-        "Always ask who is legally able to give instructions.",
-        "Legal questions are often really about authority, ownership, distribution or scope. Decide which of those four is being tested before reading the options twice.",
-        "A will controls planned distribution; intestacy applies when planning is absent or invalid.",
-        "Authority questions ask who may give instructions or act for another person — not who benefits emotionally or practically.",
-        "Agency and LPA questions are authority questions first. Ask who may validly act or instruct.",
-        "Trustees and personal representatives are also authority/control roles, which is why ownership and authority must be kept separate."
+        "Will: legal document directing estate distribution on death. Must be signed by testator + 2 witnesses (witnesses cannot benefit). Can be revoked at any time during lifetime.",
+        "Intestacy: dying without valid will. Rules determine distribution. Priority: spouse/civil partner → children/descendants → parents → siblings (whole blood) →... If none, whole estate to Crown.",
+        "Joint tenants: ROS (right of survivorship). When one dies, other inherits automatically. CANNOT leave share by will. Severance converts to tenants in common.",
+        "Tenants in common: each owns a DEFINED share. Share CAN be left by will. Equal shares presumed unless deed says otherwise.",
+        "LPA Health and Welfare: authority to make welfare decisions. ONLY used when donor LACKS mental capacity. Cannot be used while donor still has capacity.",
+        "LPA Property and Financial Affairs: authority over property/finances. CAN be used while donor still has capacity if the LPA allows it.",
+        "Agency: agent acts for principal. Actual authority = explicitly agreed. Apparent/ostensible authority = principal leads third party to reasonably believe agent has authority.",
+        "Trustee: holds and manages trust assets for beneficiaries. Duties: act in best interests of beneficiaries, follow trust terms, be impartial, act personally.",
+        "Personal representative (PR): administers estate after death. Executor = named in will. Administrator = appointed by court if intestate. Collects assets, pays debts/tax, distributes.",
+        "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
-        "WHO MAY ACT?",
-        "Intestacy = death without a valid will.",
-        "Agency and powers of attorney are authority concepts.",
-        "Scope questions are answered by checking whether the rule applies before analysing detail.",
-        "LPA = authority to act; trustee/personal representative = control/admin role."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially",
+        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
+        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
+        "TPA 1999: third party can enforce contract term that specifically benefits them"
       ],
       "commonMistakes": [
-        "Beneficiary and attorney are not the same thing.",
-        "Confusing beneficiary status with legal authority to act.",
-        "Choosing an answer that is legally true in general but not relevant to the exact issue in the stem.",
-        "Forgetting that bankruptcy/scope points can affect suitability and access, not just legal theory.",
-        "Do not assume the person who benefits is the same person who has authority to act."
+        "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
+        "Joint tenancy: cannot leave share by will (ROS applies) — common trap",
+        "Treating intestacy as simple — has detailed priority order",
+        "LPA Health&Welfare can ONLY be used when donor lacks capacity",
+        "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "WHO MAY ACT?",
-        "Intestacy = death without a valid will.",
-        "Beneficiary and attorney are not the same thing."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially"
       ],
       "jumpTargets": {
         "prevDay": 13,
@@ -1649,33 +1788,40 @@ window.CEMAP1_DATA = {
         "trap": "A technically true sentence can still be the wrong answer if it addresses a different issue."
       },
       "deepDive": [
-        "Bankruptcy can change risk and product access.",
-        "Scope questions ask whether a rule applies before anything else.",
-        "Read the stem carefully.",
-        "Legal questions are often really about authority, ownership, distribution or scope. Decide which of those four is being tested before reading the options twice.",
-        "A will controls planned distribution; intestacy applies when planning is absent or invalid.",
-        "Authority questions ask who may give instructions or act for another person — not who benefits emotionally or practically.",
-        "Scope questions are a gift if you slow down. Many candidates jump to detail before deciding whether the rule applies.",
-        "Bankruptcy can affect access, suitability and risk profile, so it matters beyond pure legal background."
+        "Will: legal document directing estate distribution on death. Must be signed by testator + 2 witnesses (witnesses cannot benefit). Can be revoked at any time during lifetime.",
+        "Intestacy: dying without valid will. Rules determine distribution. Priority: spouse/civil partner → children/descendants → parents → siblings (whole blood) →... If none, whole estate to Crown.",
+        "Joint tenants: ROS (right of survivorship). When one dies, other inherits automatically. CANNOT leave share by will. Severance converts to tenants in common.",
+        "Tenants in common: each owns a DEFINED share. Share CAN be left by will. Equal shares presumed unless deed says otherwise.",
+        "LPA Health and Welfare: authority to make welfare decisions. ONLY used when donor LACKS mental capacity. Cannot be used while donor still has capacity.",
+        "LPA Property and Financial Affairs: authority over property/finances. CAN be used while donor still has capacity if the LPA allows it.",
+        "Agency: agent acts for principal. Actual authority = explicitly agreed. Apparent/ostensible authority = principal leads third party to reasonably believe agent has authority.",
+        "Trustee: holds and manages trust assets for beneficiaries. Duties: act in best interests of beneficiaries, follow trust terms, be impartial, act personally.",
+        "Personal representative (PR): administers estate after death. Executor = named in will. Administrator = appointed by court if intestate. Collects assets, pays debts/tax, distributes.",
+        "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
-        "SCOPE BEFORE DETAIL.",
-        "Intestacy = death without a valid will.",
-        "Agency and powers of attorney are authority concepts.",
-        "Scope questions are answered by checking whether the rule applies before analysing detail.",
-        "Check scope before detail."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially",
+        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
+        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
+        "TPA 1999: third party can enforce contract term that specifically benefits them"
       ],
       "commonMistakes": [
-        "A true statement can still be the wrong answer if it answers a different legal issue.",
-        "Confusing beneficiary status with legal authority to act.",
-        "Choosing an answer that is legally true in general but not relevant to the exact issue in the stem.",
-        "Forgetting that bankruptcy/scope points can affect suitability and access, not just legal theory.",
-        "Do not choose a technically true sentence that answers a different legal issue."
+        "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
+        "Joint tenancy: cannot leave share by will (ROS applies) — common trap",
+        "Treating intestacy as simple — has detailed priority order",
+        "LPA Health&Welfare can ONLY be used when donor lacks capacity",
+        "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "SCOPE BEFORE DETAIL.",
-        "Intestacy = death without a valid will.",
-        "A true statement can still be the wrong answer if it answers a different legal issue."
+        "Intestacy = dying without valid will — detailed priority order applies",
+        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
+        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
+        "Apparent authority: principal leads third party to reasonably believe agent has authority",
+        "Trustee: holds trust assets, must follow trust terms, act impartially"
       ],
       "jumpTargets": {
         "prevDay": 14,
@@ -1765,35 +1911,49 @@ window.CEMAP1_DATA = {
         "trap": "Do not give FOS/FSCS/BoE functions to the FCA or PRA."
       },
       "deepDive": [
-        "FCA = conduct and customer outcomes.",
-        "PRA = prudential safety and soundness.",
-        "Authorisation determines whether regulated business can be carried on properly.",
-        "This topic rewards clean role separation. If you cannot state each body’s job in one line, you are still at risk of losing easy marks.",
-        "FCA/PRA/Consumer Duty/SMCR questions are rarely random: they test conduct, prudential safety, accountability and customer outcomes as separate ideas.",
-        "Financial-promotion and conduct questions usually reward fairness, clarity, permission and customer understanding.",
-        "This is one of the cleanest mark areas in CeMAP: define each body in one line and protect the boundaries between them.",
-        "Authorisation matters because a firm needs the right permission to carry on regulated business."
+        "FCA strategic objectives: (1) market integrity — markets work well; (2) consumer protection — appropriate degree of protection for consumers.",
+        "FCA operational objectives: (1) consumers — secure appropriate protection; (2) competition — promote effective competition in consumers' interests.",
+        "PRA objective: promote safety and soundness of firms. Reduces risk of firm failure harming consumers or financial stability. Prudential = financial safety.",
+        "DUAL REGULATION: FCA = conduct + some prudential. PRA = prudential for insurers, large banks, credit unions. Coordination required.",
+        "Authorisation: firm must have FCA/PRA authorisation + correct permissions for regulated activities carried on. Unauthorised firm = criminal offence to carry on regulated business.",
+        "SMCR (Senior Managers and Certification Regime): clear allocation of responsibilities. Senior managers must have Statement of Responsibilities. FCA/PRA can take action against senior managers PERSONALLY for misconduct.",
+        "Consumer Duty (2023): four outcomes firms must deliver: (1) Products/services — fit for purpose, meet stated needs; (2) Price/value — fair value for costs; (3) Consumer understanding — clear, not misleading communications; (4) Consumer support — adequate support when needed.",
+        "PRIN (Principles for Businesses): 11 high-level principles including: integrity, skill/diligence, management/control, financial prudence, market conduct, customer interests, communications, conflicts, customer relationships, client assets, relations with regulators.",
+        "Financial promotion: must be clear, fair, not misleading. Must be approved by FCA-authorised firm if from unauthorised entity. Social media, websites, apps — all covered.",
+        "Best execution: obtain best result for client.考虑因素: price, costs, speed, likelihood of execution/settlement, size, nature, any other relevant consideration. NOT just lowest price.",
+        "Suitability: personal recommendation = full factfind + written suitability report. Covers: financial situation, objectives, risk attitude, time horizon, needs and demands.",
+        "Appropriateness: non-advised sale of complex products (e.g. some investments, structured products). Basic assessment of client's knowledge/experience. No suitability report needed.",
+        "MCOB: regulated mortgage contracts require adequate explanation, suitability assessment, disclosure of key features. Further advances for ANY purpose = regulated. Consumer buy-to-let = NOT regulated mortgage if landlord has 4+ properties.",
+        "ICOBS: insurers must provide clear, accurate info about essential features. Applies to sale and ongoing administration.",
+        "FOS: handles complaints from eligible complainants. Awards up to £430,000 from April 2024 (+ £430,000 for pension Superannuation claims). NOT a regulator.",
+        "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA = Conduct; PRA = Prudence.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "Consumer Duty = good outcomes for retail customers.",
-        "SMCR = accountability, including Statements of Responsibilities.",
-        "FCA = conduct; PRA = prudential supervision / safety and soundness."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included",
+        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
+        "Suitability: personal recommendation = factfind + suitability report",
+        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
+        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
-        "Do not give FOS or FSCS the regulator role.",
-        "Giving FOS or FSCS a regulator role.",
-        "Reducing Consumer Duty to a disclosure-only exercise.",
-        "Missing authorisation/permission clues in stems about who may carry on regulated activities.",
-        "Do not give complaint, compensation or Bank Rate functions to the regulators."
+        "FOS and FSCS are NOT regulators — FCA/PRA are",
+        "Consumer Duty is NOT just about disclosure — it's about good OUTCOMES",
+        "Missing authorisation clues — if question asks who may do regulated activity, think permission",
+        "FCA vs PRA: FCA=conduct, PRA=prudential — don't mix",
+        "Best execution is best RESULT, not just best PRICE",
+        "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "Say these cold: FCA conduct, PRA prudential, FOS complaints, FSCS failure compensation.",
-        "If the stem asks who may carry on regulated business, think authorisation/permission before service quality.",
-        "FCA = Conduct; PRA = Prudence.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "Do not give FOS or FSCS the regulator role."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included"
       ],
       "jumpTargets": {
         "prevDay": 15,
@@ -1888,35 +2048,49 @@ window.CEMAP1_DATA = {
         "trap": "Do not reduce Consumer Duty to “give a disclosure and move on”."
       },
       "deepDive": [
-        "Consumer Duty is about good outcomes.",
-        "SMCR is about accountability.",
-        "The Principles for Businesses provide high-level standards.",
-        "This topic rewards clean role separation. If you cannot state each body’s job in one line, you are still at risk of losing easy marks.",
-        "FCA/PRA/Consumer Duty/SMCR questions are rarely random: they test conduct, prudential safety, accountability and customer outcomes as separate ideas.",
-        "Financial-promotion and conduct questions usually reward fairness, clarity, permission and customer understanding.",
-        "Consumer Duty, SMCR and the Principles work together as an outcomes-and-accountability cluster.",
-        "The exam often tests whether you understand that good regulation is broader than document delivery or box-ticking."
+        "FCA strategic objectives: (1) market integrity — markets work well; (2) consumer protection — appropriate degree of protection for consumers.",
+        "FCA operational objectives: (1) consumers — secure appropriate protection; (2) competition — promote effective competition in consumers' interests.",
+        "PRA objective: promote safety and soundness of firms. Reduces risk of firm failure harming consumers or financial stability. Prudential = financial safety.",
+        "DUAL REGULATION: FCA = conduct + some prudential. PRA = prudential for insurers, large banks, credit unions. Coordination required.",
+        "Authorisation: firm must have FCA/PRA authorisation + correct permissions for regulated activities carried on. Unauthorised firm = criminal offence to carry on regulated business.",
+        "SMCR (Senior Managers and Certification Regime): clear allocation of responsibilities. Senior managers must have Statement of Responsibilities. FCA/PRA can take action against senior managers PERSONALLY for misconduct.",
+        "Consumer Duty (2023): four outcomes firms must deliver: (1) Products/services — fit for purpose, meet stated needs; (2) Price/value — fair value for costs; (3) Consumer understanding — clear, not misleading communications; (4) Consumer support — adequate support when needed.",
+        "PRIN (Principles for Businesses): 11 high-level principles including: integrity, skill/diligence, management/control, financial prudence, market conduct, customer interests, communications, conflicts, customer relationships, client assets, relations with regulators.",
+        "Financial promotion: must be clear, fair, not misleading. Must be approved by FCA-authorised firm if from unauthorised entity. Social media, websites, apps — all covered.",
+        "Best execution: obtain best result for client.考虑因素: price, costs, speed, likelihood of execution/settlement, size, nature, any other relevant consideration. NOT just lowest price.",
+        "Suitability: personal recommendation = full factfind + written suitability report. Covers: financial situation, objectives, risk attitude, time horizon, needs and demands.",
+        "Appropriateness: non-advised sale of complex products (e.g. some investments, structured products). Basic assessment of client's knowledge/experience. No suitability report needed.",
+        "MCOB: regulated mortgage contracts require adequate explanation, suitability assessment, disclosure of key features. Further advances for ANY purpose = regulated. Consumer buy-to-let = NOT regulated mortgage if landlord has 4+ properties.",
+        "ICOBS: insurers must provide clear, accurate info about essential features. Applies to sale and ongoing administration.",
+        "FOS: handles complaints from eligible complainants. Awards up to £430,000 from April 2024 (+ £430,000 for pension Superannuation claims). NOT a regulator.",
+        "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "OUTCOMES + ACCOUNTABILITY + PRINCIPLES.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "Consumer Duty = good outcomes for retail customers.",
-        "SMCR = accountability, including Statements of Responsibilities.",
-        "SMCR allocates accountability through clear responsibilities."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included",
+        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
+        "Suitability: personal recommendation = factfind + suitability report",
+        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
+        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
-        "Consumer Duty is broader than giving a document.",
-        "Giving FOS or FSCS a regulator role.",
-        "Reducing Consumer Duty to a disclosure-only exercise.",
-        "Missing authorisation/permission clues in stems about who may carry on regulated activities.",
-        "Do not reduce Consumer Duty to a single communication rule."
+        "FOS and FSCS are NOT regulators — FCA/PRA are",
+        "Consumer Duty is NOT just about disclosure — it's about good OUTCOMES",
+        "Missing authorisation clues — if question asks who may do regulated activity, think permission",
+        "FCA vs PRA: FCA=conduct, PRA=prudential — don't mix",
+        "Best execution is best RESULT, not just best PRICE",
+        "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "Consumer Duty is outcomes-focused, not just disclosure-focused.",
-        "SMCR question? Look for clear named accountability, especially Statement of Responsibilities.",
-        "OUTCOMES + ACCOUNTABILITY + PRINCIPLES.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "Consumer Duty is broader than giving a document."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included"
       ],
       "jumpTargets": {
         "prevDay": 16,
@@ -2003,35 +2177,49 @@ window.CEMAP1_DATA = {
         "trap": "A polished sales message can still fail if it is unclear, unbalanced or not properly approved."
       },
       "deepDive": [
-        "Financial promotions must be clear, fair and not misleading.",
-        "Conduct answers often favour transparency and customer understanding.",
-        "Status disclosure matters.",
-        "This topic rewards clean role separation. If you cannot state each body’s job in one line, you are still at risk of losing easy marks.",
-        "FCA/PRA/Consumer Duty/SMCR questions are rarely random: they test conduct, prudential safety, accountability and customer outcomes as separate ideas.",
-        "Financial-promotion and conduct questions usually reward fairness, clarity, permission and customer understanding.",
-        "Financial-promotion questions reward plain-English conduct logic: would a retail client understand this fairly, or be misled?",
-        "Status disclosure matters because customers need to know who is acting, under what status, and what service is being offered."
+        "FCA strategic objectives: (1) market integrity — markets work well; (2) consumer protection — appropriate degree of protection for consumers.",
+        "FCA operational objectives: (1) consumers — secure appropriate protection; (2) competition — promote effective competition in consumers' interests.",
+        "PRA objective: promote safety and soundness of firms. Reduces risk of firm failure harming consumers or financial stability. Prudential = financial safety.",
+        "DUAL REGULATION: FCA = conduct + some prudential. PRA = prudential for insurers, large banks, credit unions. Coordination required.",
+        "Authorisation: firm must have FCA/PRA authorisation + correct permissions for regulated activities carried on. Unauthorised firm = criminal offence to carry on regulated business.",
+        "SMCR (Senior Managers and Certification Regime): clear allocation of responsibilities. Senior managers must have Statement of Responsibilities. FCA/PRA can take action against senior managers PERSONALLY for misconduct.",
+        "Consumer Duty (2023): four outcomes firms must deliver: (1) Products/services — fit for purpose, meet stated needs; (2) Price/value — fair value for costs; (3) Consumer understanding — clear, not misleading communications; (4) Consumer support — adequate support when needed.",
+        "PRIN (Principles for Businesses): 11 high-level principles including: integrity, skill/diligence, management/control, financial prudence, market conduct, customer interests, communications, conflicts, customer relationships, client assets, relations with regulators.",
+        "Financial promotion: must be clear, fair, not misleading. Must be approved by FCA-authorised firm if from unauthorised entity. Social media, websites, apps — all covered.",
+        "Best execution: obtain best result for client.考虑因素: price, costs, speed, likelihood of execution/settlement, size, nature, any other relevant consideration. NOT just lowest price.",
+        "Suitability: personal recommendation = full factfind + written suitability report. Covers: financial situation, objectives, risk attitude, time horizon, needs and demands.",
+        "Appropriateness: non-advised sale of complex products (e.g. some investments, structured products). Basic assessment of client's knowledge/experience. No suitability report needed.",
+        "MCOB: regulated mortgage contracts require adequate explanation, suitability assessment, disclosure of key features. Further advances for ANY purpose = regulated. Consumer buy-to-let = NOT regulated mortgage if landlord has 4+ properties.",
+        "ICOBS: insurers must provide clear, accurate info about essential features. Applies to sale and ongoing administration.",
+        "FOS: handles complaints from eligible complainants. Awards up to £430,000 from April 2024 (+ £430,000 for pension Superannuation claims). NOT a regulator.",
+        "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "CFNM + CUSTOMER UNDERSTANDING.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "Consumer Duty = good outcomes for retail customers.",
-        "SMCR = accountability, including Statements of Responsibilities.",
-        "Financial promotions must be clear, fair and not misleading."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included",
+        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
+        "Suitability: personal recommendation = factfind + suitability report",
+        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
+        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
-        "The slick commercial answer is often the wrong one.",
-        "Giving FOS or FSCS a regulator role.",
-        "Reducing Consumer Duty to a disclosure-only exercise.",
-        "Missing authorisation/permission clues in stems about who may carry on regulated activities.",
-        "Do not assume the most persuasive sales answer is the best regulatory answer."
+        "FOS and FSCS are NOT regulators — FCA/PRA are",
+        "Consumer Duty is NOT just about disclosure — it's about good OUTCOMES",
+        "Missing authorisation clues — if question asks who may do regulated activity, think permission",
+        "FCA vs PRA: FCA=conduct, PRA=prudential — don't mix",
+        "Best execution is best RESULT, not just best PRICE",
+        "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "If a promotion is flashy but unclear, it is usually wrong on conduct logic.",
-        "Unauthorised communicator? Think authorised-person approval, not marketing quality alone.",
-        "CFNM + CUSTOMER UNDERSTANDING.",
-        "FCA = conduct and consumer outcomes; PRA = prudential safety and soundness.",
-        "The slick commercial answer is often the wrong one."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included"
       ],
       "jumpTargets": {
         "prevDay": 17,
@@ -2124,35 +2312,46 @@ window.CEMAP1_DATA = {
         "trap": "Do not route a service complaint to FSCS just because compensation is mentioned."
       },
       "deepDive": [
-        "FOS handles complaints and redress.",
-        "FSCS is about compensation after firm failure within scope.",
-        "Complaint records matter.",
-        "Consumer-protection questions focus on fair treatment after something goes wrong or where harm could arise: complaints, compensation, vulnerability, AML and data handling.",
-        "This area is highly process-driven — firms are expected to escalate, record, support and protect rather than improvise.",
-        "When torn between two options, prefer the answer that preserves evidence, customer understanding and proper escalation.",
-        "This day is all about role purity: complaint route vs failure-compensation route.",
-        "Complaint handling also depends on keeping records that show what happened and how the firm responded."
+        "FSCS limits 2024/25: Deposits £85,000 per person per institution; Investments £85,000; Life insurance 100% of claim; Pensions 100% of claim; Mortgage advice/arrangement — varies.",
+        "Complaints procedure: Stage 1 = firm's internal procedure (5-day acknowledgement, 15-day response or 8 weeks if complex). Stage 2 = FOS if unresolved. Time limits apply.",
+        "Vulnerability: FCA expects firms to identify AND respond to vulnerability. Can be cognitive, physical, health, life events, financial stress. NOT = lacking capacity. Adapt process, pace, communication.",
+        "MLR 2017 (Money Laundering Regulations): firms must have: Customer Due Diligence (CDD) on all clients — verification of identity and address; Enhanced Due Diligence (EDD) for high-risk clients (PEP, high-risk countries); Ongoing transaction monitoring; SARs (Suspicious Activity Reports).",
+        "MLRO (Money Laundering Reporting Officer): receives internal SARs, assesses, decides whether to report to NCA. Must have adequate AML systems and controls.",
+        "POCA 2002 offences: Concealing, Arranging, Acquiring, Possessing, Using, Converting, Transferring criminal property. ALL are offences regardless of underlying crime type.",
+        "Tipping off: alerting a suspect that ML reporting/investigation is happening = criminal offence. Even if charge never brought. Even if person is ultimately found innocent.",
+        "NCA (National Crime Agency): receives SARs from MLROs. Can give consent to proceed or not. Delaying MLRO reporting to get consent first = offence in some cases.",
+        "UK GDPR / DPA 2018: Lawful bases for processing: consent, contract, legal obligation, vital interests, public task, legitimate interests. Data minimisation, purpose limitation, accuracy, storage limitation, security all required.",
+        "ICO (Information Commissioner's Office): data protection regulator. Personal data breach must be notified to ICO within 72 hours if qualifies. High-risk breaches = notify affected individuals directly.",
+        "SAR (Subject Access Request): individual can request all personal data held. Response within 1 month. Usually no fee. Firm must provide all data about that person.",
+        "Consumer Rights Act 2015: Goods = satisfactory quality, fit for purpose, as described. Digital content same rules. Services = performed with reasonable care and skill.",
+        "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "COMPLAINT ≠ FAILURE COMPENSATION.",
-        "FOS = complaints/redress; FSCS = compensation when a firm fails within scope.",
-        "MLRO sits in the AML reporting chain.",
-        "GDPR is about lawful and secure personal-data handling.",
-        "FOS handles complaints/redress; FSCS covers compensation on firm failure within scope."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA",
+        "Tipping off = criminal offence — don't alert suspect to investigation",
+        "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
+        "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
+        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
+        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
       ],
       "commonMistakes": [
-        "Do not use FSCS as a complaints body.",
-        "Using FSCS as if it were a complaints body.",
-        "Assuming vulnerability automatically means incapacity.",
-        "Thinking suspicious activity or data incidents can be handled informally instead of via firm process.",
-        "Do not use FOS and FSCS interchangeably."
+        "FSCS handles firm failure compensation — NOT complaints (FOS does)",
+        "Forgetting vulnerability is broader than mental capacity",
+        "Telling client account is frozen = potential tipping off",
+        "Not knowing the 72-hour ICO breach notification deadline",
+        "Confusing ICO (data regulator) with FOS (complaints) or FSCS (compensation)",
+        "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "Complaint problem = complaint route first; failed-firm problem = FSCS territory.",
-        "FOS is about disputes/redress, not prudential supervision and not failure protection.",
-        "COMPLAINT ≠ FAILURE COMPENSATION.",
-        "FOS = complaints/redress; FSCS = compensation when a firm fails within scope.",
-        "Do not use FSCS as a complaints body."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA"
       ],
       "jumpTargets": {
         "prevDay": 18,
@@ -2241,35 +2440,46 @@ window.CEMAP1_DATA = {
         "trap": "Vulnerability does not automatically equal incapacity."
       },
       "deepDive": [
-        "Vulnerability may require different communication and support.",
-        "A vulnerable client is not automatically incapable.",
-        "Good outcomes often depend on how the process is adapted.",
-        "Consumer-protection questions focus on fair treatment after something goes wrong or where harm could arise: complaints, compensation, vulnerability, AML and data handling.",
-        "This area is highly process-driven — firms are expected to escalate, record, support and protect rather than improvise.",
-        "When torn between two options, prefer the answer that preserves evidence, customer understanding and proper escalation.",
-        "Vulnerability is about adapting process and support, not automatically excluding the client or assuming incapacity.",
-        "Modern UKFR conduct expects pace, communication and support to flex around customer needs."
+        "FSCS limits 2024/25: Deposits £85,000 per person per institution; Investments £85,000; Life insurance 100% of claim; Pensions 100% of claim; Mortgage advice/arrangement — varies.",
+        "Complaints procedure: Stage 1 = firm's internal procedure (5-day acknowledgement, 15-day response or 8 weeks if complex). Stage 2 = FOS if unresolved. Time limits apply.",
+        "Vulnerability: FCA expects firms to identify AND respond to vulnerability. Can be cognitive, physical, health, life events, financial stress. NOT = lacking capacity. Adapt process, pace, communication.",
+        "MLR 2017 (Money Laundering Regulations): firms must have: Customer Due Diligence (CDD) on all clients — verification of identity and address; Enhanced Due Diligence (EDD) for high-risk clients (PEP, high-risk countries); Ongoing transaction monitoring; SARs (Suspicious Activity Reports).",
+        "MLRO (Money Laundering Reporting Officer): receives internal SARs, assesses, decides whether to report to NCA. Must have adequate AML systems and controls.",
+        "POCA 2002 offences: Concealing, Arranging, Acquiring, Possessing, Using, Converting, Transferring criminal property. ALL are offences regardless of underlying crime type.",
+        "Tipping off: alerting a suspect that ML reporting/investigation is happening = criminal offence. Even if charge never brought. Even if person is ultimately found innocent.",
+        "NCA (National Crime Agency): receives SARs from MLROs. Can give consent to proceed or not. Delaying MLRO reporting to get consent first = offence in some cases.",
+        "UK GDPR / DPA 2018: Lawful bases for processing: consent, contract, legal obligation, vital interests, public task, legitimate interests. Data minimisation, purpose limitation, accuracy, storage limitation, security all required.",
+        "ICO (Information Commissioner's Office): data protection regulator. Personal data breach must be notified to ICO within 72 hours if qualifies. High-risk breaches = notify affected individuals directly.",
+        "SAR (Subject Access Request): individual can request all personal data held. Response within 1 month. Usually no fee. Firm must provide all data about that person.",
+        "Consumer Rights Act 2015: Goods = satisfactory quality, fit for purpose, as described. Digital content same rules. Services = performed with reasonable care and skill.",
+        "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "SPOT → ADAPT → SUPPORT.",
-        "A vulnerable client is not automatically incapable.",
-        "Support should be adapted to client needs without removing autonomy unless the facts justify it.",
-        "The best answer usually improves understanding, access, time, and communication clarity.",
-        "Vulnerability handling is an ongoing support issue, not a one-off label."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA",
+        "Tipping off = criminal offence — don't alert suspect to investigation",
+        "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
+        "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
+        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
+        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
       ],
       "commonMistakes": [
-        "Do not assume incapacity unless facts justify it.",
-        "Using FSCS as if it were a complaints body.",
-        "Assuming vulnerability automatically means incapacity.",
-        "Thinking suspicious activity or data incidents can be handled informally instead of via firm process.",
-        "Do not jump from vulnerability straight to lack of capacity."
+        "FSCS handles firm failure compensation — NOT complaints (FOS does)",
+        "Forgetting vulnerability is broader than mental capacity",
+        "Telling client account is frozen = potential tipping off",
+        "Not knowing the 72-hour ICO breach notification deadline",
+        "Confusing ICO (data regulator) with FOS (complaints) or FSCS (compensation)",
+        "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "Support and adapt first; do not strip autonomy without facts.",
-        "The customer-friendly answer is usually the one that slows down, explains, records, and supports.",
-        "SPOT → ADAPT → SUPPORT.",
-        "FOS = complaints/redress; FSCS = compensation when a firm fails within scope.",
-        "Do not assume incapacity unless facts justify it."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA"
       ],
       "jumpTargets": {
         "prevDay": 19,
@@ -2368,36 +2578,46 @@ window.CEMAP1_DATA = {
         "trap": "Do not confront, delete, or handle informally when firm process is required."
       },
       "deepDive": [
-        "Use the firm’s AML reporting route.",
-        "Know what the MLRO does.",
-        "GDPR is about lawful and secure handling of personal data.",
-        "Consumer-protection questions focus on fair treatment after something goes wrong or where harm could arise: complaints, compensation, vulnerability, AML and data handling.",
-        "This area is highly process-driven — firms are expected to escalate, record, support and protect rather than improvise.",
-        "When torn between two options, prefer the answer that preserves evidence, customer understanding and proper escalation.",
-        "AML and GDPR both reward process discipline: spot the issue, follow the route, protect information.",
-        "CeMAP likes practical responsibility questions here — who reports, who escalates, and how data should be handled."
+        "FSCS limits 2024/25: Deposits £85,000 per person per institution; Investments £85,000; Life insurance 100% of claim; Pensions 100% of claim; Mortgage advice/arrangement — varies.",
+        "Complaints procedure: Stage 1 = firm's internal procedure (5-day acknowledgement, 15-day response or 8 weeks if complex). Stage 2 = FOS if unresolved. Time limits apply.",
+        "Vulnerability: FCA expects firms to identify AND respond to vulnerability. Can be cognitive, physical, health, life events, financial stress. NOT = lacking capacity. Adapt process, pace, communication.",
+        "MLR 2017 (Money Laundering Regulations): firms must have: Customer Due Diligence (CDD) on all clients — verification of identity and address; Enhanced Due Diligence (EDD) for high-risk clients (PEP, high-risk countries); Ongoing transaction monitoring; SARs (Suspicious Activity Reports).",
+        "MLRO (Money Laundering Reporting Officer): receives internal SARs, assesses, decides whether to report to NCA. Must have adequate AML systems and controls.",
+        "POCA 2002 offences: Concealing, Arranging, Acquiring, Possessing, Using, Converting, Transferring criminal property. ALL are offences regardless of underlying crime type.",
+        "Tipping off: alerting a suspect that ML reporting/investigation is happening = criminal offence. Even if charge never brought. Even if person is ultimately found innocent.",
+        "NCA (National Crime Agency): receives SARs from MLROs. Can give consent to proceed or not. Delaying MLRO reporting to get consent first = offence in some cases.",
+        "UK GDPR / DPA 2018: Lawful bases for processing: consent, contract, legal obligation, vital interests, public task, legitimate interests. Data minimisation, purpose limitation, accuracy, storage limitation, security all required.",
+        "ICO (Information Commissioner's Office): data protection regulator. Personal data breach must be notified to ICO within 72 hours if qualifies. High-risk breaches = notify affected individuals directly.",
+        "SAR (Subject Access Request): individual can request all personal data held. Response within 1 month. Usually no fee. Firm must provide all data about that person.",
+        "Consumer Rights Act 2015: Goods = satisfactory quality, fit for purpose, as described. Digital content same rules. Services = performed with reasonable care and skill.",
+        "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "AML: NOTICE → REPORT. GDPR: LAWFUL → SECURE.",
-        "MLRO sits in the AML reporting chain.",
-        "Suspicion should be escalated through firm AML process, not handled informally.",
-        "GDPR is about lawful and secure personal-data handling.",
-        "MLRO = AML escalation/reporting role; GDPR = lawful + secure data handling."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA",
+        "Tipping off = criminal offence — don't alert suspect to investigation",
+        "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
+        "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
+        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
+        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
       ],
       "commonMistakes": [
-        "Do not improvise your own AML process.",
-        "Knowing the client does not remove GDPR duties.",
-        "Using FSCS as if it were a complaints body.",
-        "Assuming vulnerability automatically means incapacity.",
-        "Thinking suspicious activity or data incidents can be handled informally instead of via firm process.",
-        "Do not improvise a private solution when the firm process should be used."
+        "FSCS handles firm failure compensation — NOT complaints (FOS does)",
+        "Forgetting vulnerability is broader than mental capacity",
+        "Telling client account is frozen = potential tipping off",
+        "Not knowing the 72-hour ICO breach notification deadline",
+        "Confusing ICO (data regulator) with FOS (complaints) or FSCS (compensation)",
+        "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "AML question? Think notice → internal report → MLRO route.",
-        "GDPR question? Think lawful use, minimum necessary handling, and security.",
-        "AML: NOTICE → REPORT. GDPR: LAWFUL → SECURE.",
-        "FOS = complaints/redress; FSCS = compensation when a firm fails within scope.",
-        "Do not improvise your own AML process."
+        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
+        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
+        "Vulnerability: identify AND adapt — not just incapacity",
+        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "MLRO: ML reporting officer; receives SARs, reports to NCA"
       ],
       "jumpTargets": {
         "prevDay": 20,
@@ -2490,23 +2710,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not answer just because one option contains a familiar keyword."
       },
       "deepDive": [
-        "Classify the question first.",
-        "Use compare-pairs when torn between two answers.",
-        "Mixed days are about classification speed. The fastest gain is to recognise the topic before reading all four options deeply.",
-        "When torn between two plausible answers, rebuild the comparison pair in your head."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "CLASSIFY → COMPARE → COMMIT.",
-        "Classify → compare → commit."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "Do not answer from vibe or familiarity alone.",
-        "Do not answer based on familiarity alone."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "CLASSIFY → COMPARE → COMMIT.",
-        "Classify → compare → commit.",
-        "Do not answer from vibe or familiarity alone."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 21,
@@ -2592,23 +2826,40 @@ window.CEMAP1_DATA = {
         "trap": "Remembering the number is useless if you attach it to the wrong category."
       },
       "deepDive": [
-        "Slow down on figures and wrapper questions.",
-        "Keep product function and tax treatment separate.",
-        "This repair day exists because product and tax errors are often factual but fixable with clean contrast cards.",
-        "Numbers and wrappers are the main trap zones here, so read every figure and label slowly."
+        "Tax questions = classification FIRST: Income Tax (earned/savings/dividend received); CGT (disposal gains); IHT (estate/transfer on death); SDLT (property transaction); CT (company profits).",
+        "Residence: 183+ days in UK tax year = UK resident. Domicile: country of permanent home — UK domicile = IHT on worldwide assets.",
+        "Income Tax bands 2024/25: Personal Allowance £12,570 (reduces £1 per £2 above £100,000, gone at £125,140+). Basic 20%, Higher 40%, Additional 45%.",
+        "Savings income: Personal Allowance first, then Savings Allowance (Basic £1,000, Higher £500, Additional £0). Dividend: Allowance £500, then 8.75%/33.75%/39.35%.",
+        "CGT: Annual exempt £3,000 (individuals). Chattels exempt if £6,000 or less. Gain = disposal proceeds minus allowable costs minus annual exempt.",
+        "IHT: Nil-rate band £325,000. Taper relief (3-4yr=40%/32%, 4-5=24%/16%, 5-6=16%/8%, 6-7=8%/0%). Excess above nil-rate taxed at 40%. Gift with reservation rules apply.",
+        "IHT exemptions: £3,000 annual + previous year; Wedding £5,000 children/£2,500 grandchildren/£1,000 others. Normal expenditure from income exemption.",
+        "SDLT: 0% first £250k, 5% £250k-£925k, 10% £925k-£1.5m, 12% above £1.5m. First-time buyers: 0% £425k, 5% £425k-£625k.",
+        "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "NUMBER → WRAPPER → PRODUCT PURPOSE.",
-        "Keep figures with the correct tax family and keep wrappers separate from products."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k",
+        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
+        "ISA transfers between providers don't count toward annual limit",
+        "Personal allowance vs marriage allowance vs blind person's allowance"
       ],
       "commonMistakes": [
-        "A familiar number may belong to the wrong tax.",
-        "Do not reuse a remembered number without checking which rule it belongs to."
+        "Dividend rules ≠ savings rules — keep completely separate",
+        "Forgetting PA reduction above £100,000",
+        "IHT taper relief: wrong years = wrong percentage — learn exact schedule",
+        "SDLT is property TRANSACTION tax — not income/gain/capital tax",
+        "Blending income tax and CGT rules in same answer",
+        "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "NUMBER → WRAPPER → PRODUCT PURPOSE.",
-        "Keep figures with the correct tax family and keep wrappers separate from products.",
-        "A familiar number may belong to the wrong tax."
+        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
+        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
+        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
+        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k"
       ],
       "jumpTargets": {
         "prevDay": 22,
@@ -2697,23 +2948,49 @@ window.CEMAP1_DATA = {
         "trap": "Do not collapse all customer protection into “the regulator”."
       },
       "deepDive": [
-        "Separate regulator, ombudsman, compensation scheme and MLRO.",
-        "Choose answers that support fairness and understanding.",
-        "This day is a body-role reset. If you can say each body’s job out loud in one sentence, you will cut a lot of careless errors.",
-        "Most near-miss answers here are true facts assigned to the wrong institution."
+        "FCA strategic objectives: (1) market integrity — markets work well; (2) consumer protection — appropriate degree of protection for consumers.",
+        "FCA operational objectives: (1) consumers — secure appropriate protection; (2) competition — promote effective competition in consumers' interests.",
+        "PRA objective: promote safety and soundness of firms. Reduces risk of firm failure harming consumers or financial stability. Prudential = financial safety.",
+        "DUAL REGULATION: FCA = conduct + some prudential. PRA = prudential for insurers, large banks, credit unions. Coordination required.",
+        "Authorisation: firm must have FCA/PRA authorisation + correct permissions for regulated activities carried on. Unauthorised firm = criminal offence to carry on regulated business.",
+        "SMCR (Senior Managers and Certification Regime): clear allocation of responsibilities. Senior managers must have Statement of Responsibilities. FCA/PRA can take action against senior managers PERSONALLY for misconduct.",
+        "Consumer Duty (2023): four outcomes firms must deliver: (1) Products/services — fit for purpose, meet stated needs; (2) Price/value — fair value for costs; (3) Consumer understanding — clear, not misleading communications; (4) Consumer support — adequate support when needed.",
+        "PRIN (Principles for Businesses): 11 high-level principles including: integrity, skill/diligence, management/control, financial prudence, market conduct, customer interests, communications, conflicts, customer relationships, client assets, relations with regulators.",
+        "Financial promotion: must be clear, fair, not misleading. Must be approved by FCA-authorised firm if from unauthorised entity. Social media, websites, apps — all covered.",
+        "Best execution: obtain best result for client.考虑因素: price, costs, speed, likelihood of execution/settlement, size, nature, any other relevant consideration. NOT just lowest price.",
+        "Suitability: personal recommendation = full factfind + written suitability report. Covers: financial situation, objectives, risk attitude, time horizon, needs and demands.",
+        "Appropriateness: non-advised sale of complex products (e.g. some investments, structured products). Basic assessment of client's knowledge/experience. No suitability report needed.",
+        "MCOB: regulated mortgage contracts require adequate explanation, suitability assessment, disclosure of key features. Further advances for ANY purpose = regulated. Consumer buy-to-let = NOT regulated mortgage if landlord has 4+ properties.",
+        "ICOBS: insurers must provide clear, accurate info about essential features. Applies to sale and ongoing administration.",
+        "FOS: handles complaints from eligible complainants. Awards up to £430,000 from April 2024 (+ £430,000 for pension Superannuation claims). NOT a regulator.",
+        "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "WHO DOES WHAT?",
-        "Know FCA / PRA / FOS / FSCS / MLRO as separate roles."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included",
+        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
+        "Suitability: personal recommendation = factfind + suitability report",
+        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
+        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
-        "Do not merge FCA, PRA, FOS and FSCS together.",
-        "Do not collapse every customer-protection function into “the regulator”."
+        "FOS and FSCS are NOT regulators — FCA/PRA are",
+        "Consumer Duty is NOT just about disclosure — it's about good OUTCOMES",
+        "Missing authorisation clues — if question asks who may do regulated activity, think permission",
+        "FCA vs PRA: FCA=conduct, PRA=prudential — don't mix",
+        "Best execution is best RESULT, not just best PRICE",
+        "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "WHO DOES WHAT?",
-        "Know FCA / PRA / FOS / FSCS / MLRO as separate roles.",
-        "Do not merge FCA, PRA, FOS and FSCS together."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included"
       ],
       "jumpTargets": {
         "prevDay": 23,
@@ -2786,23 +3063,41 @@ window.CEMAP1_DATA = {
         "trap": "Do not answer the process half when the stem is really testing authority, or vice versa."
       },
       "deepDive": [
-        "Advice questions are usually solved by process discipline.",
-        "Legal questions usually turn on authority, distribution or scope.",
-        "Advice-process and legal marks come from discipline: what was known, who could act, and what rule applied.",
-        "This mixed day works best if you treat advice questions as evidence questions and legal questions as authority/scope questions."
+        "Factfind before recommendation — ALWAYS. Collect: financial situation, objectives, attitude to risk, capacity for loss, time horizon, existing cover.",
+        "Attitude to risk (ATR): willingness to take investment risk. Measured via risk profile questionnaire. CLIENT'S OWN VIEW of their comfort with volatility.",
+        "Capacity for loss (CFL): financial ability to absorb investment losses without hardship. ASSESSED OBJECTIVELY. Must be assessed SEPARATELY from ATR — they can conflict.",
+        "Suitability report: required after giving personal recommendations. Must explain: recommendation, why it suits, what alternatives considered, how it meets objectives.",
+        "Execution-only: client selects product without advice. Must confirm client understands nature/risks. Cannot advise on execution-only transactions. No suitability required.",
+        "Restricted advice: limited to certain products (tied = one provider; multi-tied = selected panel). Independent = whole of market analysis.",
+        "Ongoing reviews: circumstances change (income, family, health, objectives). Product performance changes. Original suitability can become unsuitable. Regular reviews essential.",
+        "Vulnerable clients: FCA expects firms to identify potential vulnerability and adapt service/process. Can be temporary, situational or permanent. Adapt pace, communication, documentation.",
+        "Professional indemnity: required for advice firms. Covers claims for negligent advice. PII claim = client suffered financial loss due to unsuitable advice.",
+        "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "PROCESS + AUTHORITY.",
-        "Advice = process/evidence; legal = authority/distribution/scope."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market",
+        "Ongoing reviews: circumstances/products/suitability all change over time",
+        "Vulnerable: adapt process, don't assume incapacity",
+        "CPD = 35 hours/year minimum for SPS holders"
       ],
       "commonMistakes": [
-        "Many wrong answers are true but answer the wrong issue.",
-        "Do not be distracted by answers that are partly true but answer the wrong side of the pair."
+        "Recommending before factfind is complete",
+        "Treating ATR and CFL as the same concept",
+        "Picking higher-return answer just because client is ambitious",
+        "Execution-only: giving advice when should be non-advisory",
+        "Not documenting the rationale for recommendation",
+        "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "PROCESS + AUTHORITY.",
-        "Advice = process/evidence; legal = authority/distribution/scope.",
-        "Many wrong answers are true but answer the wrong issue."
+        "Factfind FIRST — never recommend before understanding client",
+        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Suitability report required after personal recommendation",
+        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
+        "Restricted = tied/multi-tied products; Independent = whole of market"
       ],
       "jumpTargets": {
         "prevDay": 24,
@@ -2886,23 +3181,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not spend this day rereading favourite topics instead of fixing repeated mistakes."
       },
       "deepDive": [
-        "Weakness patterns matter more than one-off errors.",
-        "Compare-table memory is more useful than reading long notes now.",
-        "Late-stage revision should focus on repeat-error patterns rather than broad rereading.",
-        "If the same confusion appears twice, convert it into a one-line trigger phrase or contrast card immediately."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "TRIGGER → RECALL → ELIMINATE.",
-        "Weak-tag repair is more valuable than comfort-zone rereading."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "Do not revise only what already feels comfortable.",
-        "Do not spend this day revising only topics you already like."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "TRIGGER → RECALL → ELIMINATE.",
-        "Weak-tag repair is more valuable than comfort-zone rereading.",
-        "Do not revise only what already feels comfortable."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 25,
@@ -2995,23 +3304,37 @@ window.CEMAP1_DATA = {
         "trap": "Mid-paper over-review kills timing and realism."
       },
       "deepDive": [
-        "The goal is pattern detection, not just a score.",
-        "Every wrong answer should teach a contrast.",
-        "Mock review is where the learning happens. A wrong answer should always become a contrast: what did I confuse this with?",
-        "Full-paper stamina matters, but diagnosis after the mock matters more than the raw score alone."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "TIME → ANSWER → REVIEW.",
-        "Use mock errors to create targeted repair notes."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "If you are simulating exam pressure, do not review midway.",
-        "Do not review mid-paper if you are trying to simulate exam conditions."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "TIME → ANSWER → REVIEW.",
-        "Use mock errors to create targeted repair notes.",
-        "If you are simulating exam pressure, do not review midway."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 26,
@@ -3104,23 +3427,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not treat the score alone as revision. The diagnosis is the real value."
       },
       "deepDive": [
-        "Mock practice should shrink uncertainty.",
-        "Use weak-area mode immediately after finishing.",
-        "The second mock should be used to compare error patterns, not just to chase a better percentage.",
-        "Look for whether your mistakes are knowledge gaps, confusion pairs or rushing errors — each has a different fix."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "MOCK → DIAGNOSE → RETRY.",
-        "Mock → diagnose → retry."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "Do not just repeat what you already know.",
-        "Do not repeat the same correction method for every type of mistake."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "MOCK → DIAGNOSE → RETRY.",
-        "Mock → diagnose → retry.",
-        "Do not just repeat what you already know."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 27,
@@ -3210,23 +3547,49 @@ window.CEMAP1_DATA = {
         "trap": "A true statement about one body is still wrong if the stem asked about another."
       },
       "deepDive": [
-        "Memorise the body-role distinctions cold.",
-        "Trust customer-outcome logic when options are close.",
-        "This sprint is about high-yield distinctions that decide final marks quickly under pressure.",
-        "Customer-outcome logic is often the tie-breaker when regulation and protection options look similar."
+        "FCA strategic objectives: (1) market integrity — markets work well; (2) consumer protection — appropriate degree of protection for consumers.",
+        "FCA operational objectives: (1) consumers — secure appropriate protection; (2) competition — promote effective competition in consumers' interests.",
+        "PRA objective: promote safety and soundness of firms. Reduces risk of firm failure harming consumers or financial stability. Prudential = financial safety.",
+        "DUAL REGULATION: FCA = conduct + some prudential. PRA = prudential for insurers, large banks, credit unions. Coordination required.",
+        "Authorisation: firm must have FCA/PRA authorisation + correct permissions for regulated activities carried on. Unauthorised firm = criminal offence to carry on regulated business.",
+        "SMCR (Senior Managers and Certification Regime): clear allocation of responsibilities. Senior managers must have Statement of Responsibilities. FCA/PRA can take action against senior managers PERSONALLY for misconduct.",
+        "Consumer Duty (2023): four outcomes firms must deliver: (1) Products/services — fit for purpose, meet stated needs; (2) Price/value — fair value for costs; (3) Consumer understanding — clear, not misleading communications; (4) Consumer support — adequate support when needed.",
+        "PRIN (Principles for Businesses): 11 high-level principles including: integrity, skill/diligence, management/control, financial prudence, market conduct, customer interests, communications, conflicts, customer relationships, client assets, relations with regulators.",
+        "Financial promotion: must be clear, fair, not misleading. Must be approved by FCA-authorised firm if from unauthorised entity. Social media, websites, apps — all covered.",
+        "Best execution: obtain best result for client.考虑因素: price, costs, speed, likelihood of execution/settlement, size, nature, any other relevant consideration. NOT just lowest price.",
+        "Suitability: personal recommendation = full factfind + written suitability report. Covers: financial situation, objectives, risk attitude, time horizon, needs and demands.",
+        "Appropriateness: non-advised sale of complex products (e.g. some investments, structured products). Basic assessment of client's knowledge/experience. No suitability report needed.",
+        "MCOB: regulated mortgage contracts require adequate explanation, suitability assessment, disclosure of key features. Further advances for ANY purpose = regulated. Consumer buy-to-let = NOT regulated mortgage if landlord has 4+ properties.",
+        "ICOBS: insurers must provide clear, accurate info about essential features. Applies to sale and ongoing administration.",
+        "FOS: handles complaints from eligible complainants. Awards up to £430,000 from April 2024 (+ £430,000 for pension Superannuation claims). NOT a regulator.",
+        "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "BODY → ROLE → CUSTOMER OUTCOME.",
-        "FCA vs PRA and FOS vs FSCS should be instant recall by now."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included",
+        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
+        "Suitability: personal recommendation = factfind + suitability report",
+        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
+        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
-        "A true fact about the wrong body is still wrong.",
-        "Do not let a correct statement about one body steal the answer from the body actually asked about."
+        "FOS and FSCS are NOT regulators — FCA/PRA are",
+        "Consumer Duty is NOT just about disclosure — it's about good OUTCOMES",
+        "Missing authorisation clues — if question asks who may do regulated activity, think permission",
+        "FCA vs PRA: FCA=conduct, PRA=prudential — don't mix",
+        "Best execution is best RESULT, not just best PRICE",
+        "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "BODY → ROLE → CUSTOMER OUTCOME.",
-        "FCA vs PRA and FOS vs FSCS should be instant recall by now.",
-        "A true fact about the wrong body is still wrong."
+        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
+        "Financial promotion: clear, fair, not misleading; social media included"
       ],
       "jumpTargets": {
         "prevDay": 28,
@@ -3319,24 +3682,37 @@ window.CEMAP1_DATA = {
         "trap": "Do not add new material so late that you lose clarity and confidence."
       },
       "deepDive": [
-        "Classification beats panic.",
-        "Compare-pair recall is your final safety net.",
-        "Use one last short mixed drill, then stop cramming.",
-        "The final day should reinforce calm pattern recognition, not create panic by adding new material.",
-        "Your safest last-minute technique is contrast recall: ownership, tax trigger, protection purpose, legal authority, regulatory role."
+        "The UK financial services industry moves money from savers/investors (surplus units) to borrowers/government (deficit units) = financial intermediation.",
+        "Four transformations: Geographic (can't find each other); Aggregation (small savings can't meet large borrowing); Maturity (borrowers need longer than lenders offer); Risk (won't concentrate all risk).",
+        "Bank of England: Bank Rate via MPC (monetary policy); Lender of last resort (emergency bank funding ONLY, not normal business); Manager of UK gold and currency reserves.",
+        "CRITICAL DISTINCTION: BoE does NOT lend for normal business. Retail banks provide normal credit. BoE only acts as emergency lender in crises.",
+        "Money market = short-term <1yr (Treasury bills, interbank). Capital market = longer-term (gilts, corporate bonds, equities).",
+        "Mutual = owned by members (building societies=savers+borrowers; life insurers=policyholders). Proprietary = owned by shareholders (PLC, banks).",
+        "Credit unions: can pay interest on savings (reserve requirement: £50,000 or 5% of total assets whichever greater). Common bond required.",
+        "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "CONTRAST CARDS + CALM EXECUTION.",
-        "Final success comes from clean contrasts and calm execution."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
+        "MPC: 9 members, meets 8x/year, sets Bank Rate",
+        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
       ],
       "commonMistakes": [
-        "If an answer sounds flashy but customer-unfriendly, be suspicious.",
-        "Do not keep cramming right up to the point you lose clarity."
+        "Confusing BoE's lender of last resort with normal bank lending",
+        "Saying BoE regulates financial firms (it doesn't — FCA/PRA do)",
+        "Mixing monetary policy (BoE/MPC) with fiscal policy (government)",
+        "Treating all institutions as performing the same role",
+        "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "CONTRAST CARDS + CALM EXECUTION.",
-        "Final success comes from clean contrasts and calm execution.",
-        "If an answer sounds flashy but customer-unfriendly, be suspicious."
+        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
+        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
+        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "Mutual = members; Proprietary = shareholders",
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
       ],
       "jumpTargets": {
         "prevDay": 29,
