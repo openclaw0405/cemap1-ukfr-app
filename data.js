@@ -3,10 +3,10 @@ window.CEMAP1_DATA = {
     "title": "CeMAP 1 Revision Lab",
     "subtitle": "Standalone CeMAP 1 / UKFR study app grounded in revision-guide mock style, textbook test-your-knowledge themes, and existing extracted UKFR materials.",
     "days": 30,
-    "questionCount": 219,
+    "questionCount": 243,
     "sourceBreakdown": {
       "revisionGuideDerived": 173,
-      "textbookDerived": 46
+      "textbookDerived": 70
     },
     "sources": [
       "CeMAP_1_Revision_Guide_November_2024.pdf",
@@ -3969,7 +3969,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP repeatedly frames the financial-services sector as an intermediary between surplus and deficit sectors."
     },
-    {
+        {
       "id": "ext-002",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -3987,7 +3987,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Base-rate decisions are linked to the Bank of England’s Monetary Policy Committee."
     },
-    {
+        {
       "id": "ext-003",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4005,7 +4005,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "The CeMAP contrast is basic: mutual = members, proprietary = shareholders."
     },
-    {
+        {
       "id": "ext-004",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4023,7 +4023,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Mutuals are member-owned organisations."
     },
-    {
+        {
       "id": "ext-005",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4041,7 +4041,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Retail institutions serve personal customers directly; a building society is the standard exam example."
     },
-    {
+        {
       "id": "ext-006",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4059,7 +4059,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "P2P and direct funding examples are used to illustrate disintermediation."
     },
-    {
+        {
       "id": "ext-007",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4077,7 +4077,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The lender-of-last-resort concept is a core Bank of England function in stressed conditions."
     },
-    {
+        {
       "id": "ext-008",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4095,7 +4095,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Gilts, corporate bonds and equities are associated with capital markets rather than money markets."
     },
-    {
+        {
       "id": "ext-009",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4113,7 +4113,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Money-market instruments are typically short-term and liquidity focused."
     },
-    {
+        {
       "id": "ext-010",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4131,7 +4131,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Inflation risk is about purchasing power, which is a recurring CeMAP theme."
     },
-    {
+        {
       "id": "ext-011",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4149,7 +4149,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Fiscal policy is linked to government taxation and expenditure decisions."
     },
-    {
+        {
       "id": "ext-012",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4167,7 +4167,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Competition is part of the wider market framework and is relevant to customer outcomes."
     },
-    {
+        {
       "id": "ext-013",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4185,7 +4185,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Residence is used in CeMAP as a tax-status concept affecting liability."
     },
-    {
+        {
       "id": "ext-014",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4203,7 +4203,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Domicile is especially associated with inheritance-tax questions."
     },
-    {
+        {
       "id": "ext-015",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4221,7 +4221,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The exam often contrasts income tax with CGT, IHT and SDLT."
     },
-    {
+        {
       "id": "ext-016",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4239,7 +4239,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A disposal that generates a gain is the core CGT event."
     },
-    {
+        {
       "id": "ext-017",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4257,7 +4257,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Inheritance Tax is the estate/transfer tax theme in CeMAP 1."
     },
-    {
+        {
       "id": "ext-018",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4275,7 +4275,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Stamp Duty Land Tax is the transaction tax for relevant property purchases in England."
     },
-    {
+        {
       "id": "ext-019",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4293,7 +4293,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The wrapper point is tax efficiency, not guaranteed performance."
     },
-    {
+        {
       "id": "ext-020",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4311,7 +4311,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP repeatedly separates wrapper benefits from product risk."
     },
-    {
+        {
       "id": "ext-021",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4329,7 +4329,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The personal allowance is an income-tax foundation item."
     },
-    {
+        {
       "id": "ext-022",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4347,7 +4347,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Revision materials often separate earned income, savings interest and dividends."
     },
-    {
+        {
       "id": "ext-023",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4365,7 +4365,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Double-taxation agreements are designed to mitigate being taxed twice on the same income or gains."
     },
-    {
+        {
       "id": "ext-024",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4383,7 +4383,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Corporation Tax is the company-profits tax topic listed in UKFR materials."
     },
-    {
+        {
       "id": "ext-025",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4401,7 +4401,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Gilts are government securities and are typically contrasted with corporate bonds and shares."
     },
-    {
+        {
       "id": "ext-026",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4419,7 +4419,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Equities bring growth potential but also price volatility and capital risk."
     },
-    {
+        {
       "id": "ext-027",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4437,7 +4437,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Liquidity is about ease of converting to cash without major loss in value."
     },
-    {
+        {
       "id": "ext-028",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4455,7 +4455,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Diversification is the key pooled-investment revision point."
     },
-    {
+        {
       "id": "ext-029",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4473,7 +4473,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The core distinction is duration of cover."
     },
-    {
+        {
       "id": "ext-030",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4491,7 +4491,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Term assurance covers a specified term rather than the whole of life."
     },
-    {
+        {
       "id": "ext-031",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4509,7 +4509,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "This is one of the highest-yield protection distinction questions in CeMAP."
     },
-    {
+        {
       "id": "ext-032",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4527,7 +4527,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Income protection is linked to earnings replacement rather than a one-off illness payout."
     },
-    {
+        {
       "id": "ext-033",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4545,7 +4545,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "MPPI is about short-to-medium-term payment support, not permanent replacement of all earnings."
     },
-    {
+        {
       "id": "ext-034",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4563,7 +4563,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Buildings insurance protects the structure; contents insurance protects belongings."
     },
-    {
+        {
       "id": "ext-035",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4581,7 +4581,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Contents cover is for possessions rather than the fabric of the building."
     },
-    {
+        {
       "id": "ext-036",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4599,7 +4599,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "An annuity is a retirement-income product linked to lifespan and option selection."
     },
-    {
+        {
       "id": "ext-037",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4617,7 +4617,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Interest-only leaves capital outstanding, so a credible repayment strategy is essential."
     },
-    {
+        {
       "id": "ext-038",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4635,7 +4635,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Property may offer growth and income, but it is relatively illiquid and expensive to transact."
     },
-    {
+        {
       "id": "ext-039",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4653,7 +4653,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The classic memory anchor is smoothing."
     },
-    {
+        {
       "id": "ext-040",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4671,7 +4671,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "A bond is a debt investment; the issuer borrows from investors."
     },
-    {
+        {
       "id": "ext-041",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4689,7 +4689,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Diversification reduces concentration risk, but it does not eliminate investment risk."
     },
-    {
+        {
       "id": "ext-042",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4707,7 +4707,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "CeMAP often uses broad risk/liquidity comparisons rather than highly technical pricing points."
     },
-    {
+        {
       "id": "ext-043",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4725,7 +4725,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Factfinding is the evidence base for suitable advice."
     },
-    {
+        {
       "id": "ext-044",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4743,7 +4743,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Attitude to risk is about willingness or comfort with risk, not financial resilience."
     },
-    {
+        {
       "id": "ext-045",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4761,7 +4761,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Capacity for loss focuses on the financial impact the client can withstand."
     },
-    {
+        {
       "id": "ext-046",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4779,7 +4779,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Reviewing advice recognises that suitability can change as life changes."
     },
-    {
+        {
       "id": "ext-047",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4797,7 +4797,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Suitability is about the fit between client need and recommendation."
     },
-    {
+        {
       "id": "ext-048",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4815,7 +4815,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Protection advice is about insuring adverse life events and income shocks."
     },
-    {
+        {
       "id": "ext-049",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4833,7 +4833,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Exam technique matters: customer-protective, well-evidenced answers usually win."
     },
-    {
+        {
       "id": "ext-050",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4851,7 +4851,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Record keeping supports suitability, complaints handling and regulatory oversight."
     },
-    {
+        {
       "id": "ext-051",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4869,7 +4869,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A strong conduct answer improves customer understanding rather than assuming it."
     },
-    {
+        {
       "id": "ext-052",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -4887,7 +4887,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The recommendation should follow the client’s objectives and constraints."
     },
-    {
+        {
       "id": "ext-053",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4905,7 +4905,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Wills are central to estate distribution and planning."
     },
-    {
+        {
       "id": "ext-054",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4923,7 +4923,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Intestacy rules apply where there is no valid will."
     },
-    {
+        {
       "id": "ext-055",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4941,7 +4941,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "LPA questions test authority and who may act for another person."
     },
-    {
+        {
       "id": "ext-056",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4959,7 +4959,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Agency is about representation and authority."
     },
-    {
+        {
       "id": "ext-057",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4977,7 +4977,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Bankruptcy can materially alter product options and risk profile."
     },
-    {
+        {
       "id": "ext-058",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -4995,7 +4995,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Authority and ownership are core legal-planning themes."
     },
-    {
+        {
       "id": "ext-059",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5013,7 +5013,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Scope questions are about whether the rule applies before anything else."
     },
-    {
+        {
       "id": "ext-060",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5031,7 +5031,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Many wrong answers are true facts that answer the wrong question."
     },
-    {
+        {
       "id": "ext-061",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5049,7 +5049,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The FCA is the conduct regulator."
     },
-    {
+        {
       "id": "ext-062",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5067,7 +5067,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Safety and soundness is the PRA memory anchor."
     },
-    {
+        {
       "id": "ext-063",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5085,7 +5085,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Consumer Duty focuses on outcomes, not just box-ticking."
     },
-    {
+        {
       "id": "ext-064",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5103,7 +5103,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "SMCR is about responsibility and accountability in firms."
     },
-    {
+        {
       "id": "ext-065",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5121,7 +5121,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "“Clear, fair and not misleading” is the key phrase to remember."
     },
-    {
+        {
       "id": "ext-066",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5139,7 +5139,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "CeMAP may test the difference between direct authorisation and appointed-representative arrangements."
     },
-    {
+        {
       "id": "ext-067",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5157,7 +5157,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The Principles form part of the FCA’s broader standards framework."
     },
-    {
+        {
       "id": "ext-068",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5175,7 +5175,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP expects clean role separation between the two regulators."
     },
-    {
+        {
       "id": "ext-069",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5193,7 +5193,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Authorisation and permission scope are core regulatory concepts."
     },
-    {
+        {
       "id": "ext-070",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5211,7 +5211,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Conduct questions usually reward fair process, transparency and customer understanding."
     },
-    {
+        {
       "id": "ext-071",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5229,7 +5229,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "FOS = complaint handling/redress."
     },
-    {
+        {
       "id": "ext-072",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5247,7 +5247,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "FSCS = compensation on firm failure within scope."
     },
-    {
+        {
       "id": "ext-073",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5265,7 +5265,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The modern conduct focus is support and adaptation, not abandonment."
     },
-    {
+        {
       "id": "ext-074",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5283,7 +5283,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The MLRO sits inside the firm’s AML reporting structure."
     },
-    {
+        {
       "id": "ext-075",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5301,7 +5301,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "CeMAP treats GDPR as a client-data handling and security obligation."
     },
-    {
+        {
       "id": "ext-076",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5319,7 +5319,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Good records support a fair and traceable complaints process."
     },
-    {
+        {
       "id": "ext-077",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5337,7 +5337,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Status disclosure is a transparency and understanding issue."
     },
-    {
+        {
       "id": "ext-078",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5355,7 +5355,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Vulnerability requires thoughtful adaptation, not reflexive exclusion."
     },
-    {
+        {
       "id": "ext-079",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5373,7 +5373,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "AML questions reward proper internal reporting, not improvisation or delay."
     },
-    {
+        {
       "id": "ext-080",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook test-your-knowledge / adapted",
@@ -5391,7 +5391,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Clear communication is central to good customer outcomes."
     },
-    {
+        {
       "id": "ext-081",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5409,7 +5409,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A personal pension is set up by the individual, even if an adviser or provider helps arrange it."
     },
-    {
+        {
       "id": "ext-082",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5427,7 +5427,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Stakeholder pensions are designed to be straightforward, with capped-style charging structures and flexible contributions."
     },
-    {
+        {
       "id": "ext-083",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5445,7 +5445,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Occupational pensions are linked to the workplace/employer setting."
     },
-    {
+        {
       "id": "ext-084",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5463,7 +5463,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Defined benefit focuses on the promised pension benefit; defined contribution focuses on the contributions paid in and investment outcome."
     },
-    {
+        {
       "id": "ext-085",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5481,7 +5481,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The exam-safe framing is later-life provision: building benefits for retirement, often converted into income."
     },
-    {
+        {
       "id": "ext-086",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5499,7 +5499,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "An OEIC is an open-ended investment company, unlike an investment trust which is a closed-ended company."
     },
-    {
+        {
       "id": "ext-087",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5517,7 +5517,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Unit trusts pool investors' money and issue units under a trust-based structure."
     },
-    {
+        {
       "id": "ext-088",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5535,7 +5535,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Investment trusts are closed-ended companies whose shares trade on the market."
     },
-    {
+        {
       "id": "ext-089",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5553,7 +5553,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Joint tenancy is linked with the right of survivorship; tenants in common can leave their share by will."
     },
-    {
+        {
       "id": "ext-090",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5571,7 +5571,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Trustees and personal representatives are legal-role questions about control and administration, not beneficial enjoyment alone."
     },
-    {
+        {
       "id": "ext-091",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5589,7 +5589,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Insurable interest is the requirement for a valid insurance interest in the subject matter."
     },
-    {
+        {
       "id": "ext-092",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5607,7 +5607,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Subrogation lets the insurer step into the insured's shoes to seek recovery from a liable third party after settlement."
     },
-    {
+        {
       "id": "ext-093",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5625,7 +5625,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Indemnity means the insured should be compensated for the loss, not profit from it."
     },
-    {
+        {
       "id": "ext-094",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5643,7 +5643,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Contribution applies where more than one insurer covers the same risk and loss."
     },
-    {
+        {
       "id": "ext-095",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide mock / topic summary",
@@ -5661,7 +5661,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Proximate cause focuses on the dominant effective cause of the loss when deciding policy response."
     },
-    {
+        {
       "id": "qdt-001",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5679,7 +5679,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The FCA is primarily the conduct regulator, and consumer protection sits at the centre of its statutory objectives and wider rulebook."
     },
-    {
+        {
       "id": "qdt-002",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5698,7 +5698,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "The four outcomes are products and services, price and value, consumer understanding, and consumer support."
     },
-    {
+        {
       "id": "qdt-003",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5716,7 +5716,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A Statement of Responsibilities is a core SMCR document and helps allocate accountability within a regulated firm."
     },
-    {
+        {
       "id": "qdt-004",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5735,7 +5735,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "This distinction is a classic CeMAP memory point: complaint redress vs compensation after firm failure."
     },
-    {
+        {
       "id": "qdt-005",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5753,7 +5753,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The key point is the structure of protection: per person, per authorised firm, within the relevant limits and scope."
     },
-    {
+        {
       "id": "qdt-006",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5771,7 +5771,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP focuses on lawful processing, appropriate security, and proper handling of personal data."
     },
-    {
+        {
       "id": "qdt-007",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5789,7 +5789,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The MLRO oversees internal anti-money-laundering reporting and escalates suspicious matters appropriately."
     },
-    {
+        {
       "id": "qdt-008",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5807,7 +5807,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The usual revision anchor is the personal allowance figure and the fact that high income can taper it away."
     },
-    {
+        {
       "id": "qdt-009",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5825,7 +5825,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Capital Gains Tax applies to chargeable gains made on disposal, not ordinary income."
     },
-    {
+        {
       "id": "qdt-010",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5843,7 +5843,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Inheritance Tax is the main CeMAP estate tax topic and is often tested alongside nil-rate band concepts."
     },
-    {
+        {
       "id": "qdt-011",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5861,7 +5861,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "SDLT is the transaction tax commonly tested for property purchases in England."
     },
-    {
+        {
       "id": "qdt-012",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5880,7 +5880,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP commonly tests the wrapper-vs-asset distinction. An ISA is the wrapper, not the underlying investment."
     },
-    {
+        {
       "id": "qdt-013",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5899,7 +5899,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "P2P lending is a common revision warning because normal investment or borrower default risk is not turned into a blanket FSCS guarantee."
     },
-    {
+        {
       "id": "qdt-014",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5917,7 +5917,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Critical illness cover is generally remembered as a lump-sum product triggered by specified serious illnesses."
     },
-    {
+        {
       "id": "qdt-015",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5935,7 +5935,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "An annuity is normally tested as a retirement-income product linked to life expectancy and option selection."
     },
-    {
+        {
       "id": "qdt-016",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5953,7 +5953,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Smoothing is the standard memory cue used to describe the way with-profits bonuses are distributed over time."
     },
-    {
+        {
       "id": "qdt-017",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5972,7 +5972,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The revision point is that consumers answer the questions asked, rather than carry the old duty to volunteer every material fact."
     },
-    {
+        {
       "id": "qdt-018",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -5991,7 +5991,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "The threshold concept is examined to show scope rules. For this app, use it as UKFR background rather than mortgage-specific logic."
     },
-    {
+        {
       "id": "qdt-019",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6009,7 +6009,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Intestacy is about what happens when a person dies without a valid will, including who may inherit under the rules."
     },
-    {
+        {
       "id": "qdt-020",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6027,7 +6027,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Residence and domicile are tax-status concepts. They matter because tax exposure can vary depending on status and circumstances."
     },
-    {
+        {
       "id": "qdt-021",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6046,7 +6046,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Consumer understanding is the outcome that focuses on communications supporting effective, timely and properly informed decisions."
     },
-    {
+        {
       "id": "qdt-022",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6064,7 +6064,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A classic promotions point is that approval by an authorised person may be needed before communication by an unauthorised person."
     },
-    {
+        {
       "id": "qdt-023",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6083,7 +6083,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Service complaints and redress are linked with the Financial Ombudsman Service, not with prudential regulation or failure compensation."
     },
-    {
+        {
       "id": "qdt-024",
       "sourceTag": "textbook-test",
       "sourceLabel": "Textbook / extracted quick-check",
@@ -6101,7 +6101,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CeMAP rewards process discipline here: internal reporting and MLRO escalation, not improvisation."
     },
-    {
+        {
       "id": "src-001",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6119,7 +6119,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The FS industry transfers funds between those with surplus capital and those who need it."
     },
-    {
+        {
       "id": "src-002",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6137,7 +6137,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Building societies are retail banks owned by members, focusing on private customers."
     },
-    {
+        {
       "id": "src-003",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6155,7 +6155,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "P2P bypasses traditional banks = disintermediation (direct lender-borrower connection)."
     },
-    {
+        {
       "id": "src-004",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6173,7 +6173,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Credit unions are regulated by the FCA under the Credit Unions Act 1979."
     },
-    {
+        {
       "id": "src-005",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6191,7 +6191,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "BoE provides emergency liquidity to banks via the Discount Window Facility."
     },
-    {
+        {
       "id": "src-006",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6209,7 +6209,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "The MPC meets 8 times/year to set Bank Rate for the UK's monetary policy."
     },
-    {
+        {
       "id": "src-007",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6227,7 +6227,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "MPC targets 2% CPI inflation. If inflation deviates >1% from target, MPC must write to Chancellor."
     },
-    {
+        {
       "id": "src-008",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6245,7 +6245,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Gilts are long-term government bonds traded in the capital market (FTSE)."
     },
-    {
+        {
       "id": "src-009",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6263,7 +6263,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Gilts are capital market instruments (long-term >1yr); Treasury Bills are money market."
     },
-    {
+        {
       "id": "src-010",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6281,7 +6281,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Eurobonds are international bonds, often fixed-rate, issued outside the borrower's home country."
     },
-    {
+        {
       "id": "src-011",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6299,7 +6299,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Equities offer capital growth (and dividends) but carry higher risk than bonds."
     },
-    {
+        {
       "id": "src-012",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6317,7 +6317,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Residential and commercial property are direct real estate investments."
     },
-    {
+        {
       "id": "src-013",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6336,7 +6336,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "ISAs provide a tax-free environment for savings (Cash ISA) and investments (Stocks & Shares ISA)."
     },
-    {
+        {
       "id": "src-014",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6355,7 +6355,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "The adult ISA subscription limit is £20,000 for 2024/25 (all types combined)."
     },
-    {
+        {
       "id": "src-015",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6373,7 +6373,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "With-profits policies smooth investment returns through regular and final bonuses."
     },
-    {
+        {
       "id": "src-016",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6391,7 +6391,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Unit-linked = value moves with underlying fund; charges are higher but potential returns greater."
     },
-    {
+        {
       "id": "src-017",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6409,7 +6409,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "State Pension age is 66 for both men and women (2020-2026), rising to 67 by 2028."
     },
-    {
+        {
       "id": "src-018",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6427,7 +6427,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Critical Illness Cover pays a lump sum on diagnosis of specified serious illness (e.g., cancer, heart attack)."
     },
-    {
+        {
       "id": "src-019",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6445,7 +6445,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "FCA has three operational objectives: Consumer Protection, Market Integrity, and Competition."
     },
-    {
+        {
       "id": "src-020",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6463,7 +6463,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "PRA (Prudential Regulation Authority) focuses on safety and soundness of deposit-takers."
     },
-    {
+        {
       "id": "src-021",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6481,7 +6481,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Senior Managers & Certification Regime applies to all FCA/PRA regulated firms."
     },
-    {
+        {
       "id": "src-022",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6499,7 +6499,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Senior Managers must have a Statement of Responsibilities, approved by the FCA."
     },
-    {
+        {
       "id": "src-023",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6517,7 +6517,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Consumer Duty has 4 outcomes: Products & Services, Price & Value, Consumer Understanding, Consumer Support."
     },
-    {
+        {
       "id": "src-024",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6535,7 +6535,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "FSMA 2000 requires all financial promotions to be clear, fair and not misleading."
     },
-    {
+        {
       "id": "src-025",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6553,7 +6553,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "FSCS protects deposits up to £85,000 per person per institution (from 2016)."
     },
-    {
+        {
       "id": "src-026",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6571,7 +6571,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "FOS compensation limit is £430,000 (from April 2024) per upheld claim."
     },
-    {
+        {
       "id": "src-027",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6589,7 +6589,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Vulnerable clients (health, life events, financial difficulty) need additional care under Consumer Duty."
     },
-    {
+        {
       "id": "src-028",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6607,7 +6607,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Consumer Rights Act covers goods, services, and digital content — not financial services."
     },
-    {
+        {
       "id": "src-029",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6625,7 +6625,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "A regulated mortgage (MCOB) requires: credit + land + borrower is an individual/trustee."
     },
-    {
+        {
       "id": "src-030",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6643,7 +6643,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "CCA 1974 regulates consumer credit agreements below £25,000 (and all consumer hires)."
     },
-    {
+        {
       "id": "src-031",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6662,7 +6662,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Class 2 NICs abolished from 6 April 2024; self-employed still pay Class 4."
     },
-    {
+        {
       "id": "src-032",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6680,7 +6680,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "CGT AEA is £12,300 for 2024/25 (basic rate taxpayer; lower for higher rate)."
     },
-    {
+        {
       "id": "src-033",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6698,7 +6698,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "IHT nil-rate band is £325,000; above this, rate is 40% (25% on certain trusts)."
     },
-    {
+        {
       "id": "src-034",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6716,7 +6716,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "IHT at 40% applies to estate value above the nil-rate band of £325,000."
     },
-    {
+        {
       "id": "src-035",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6734,7 +6734,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "FTB relief: no SDLT on first £425,000 (max £625,000 property), 5% on £425k-£625k."
     },
-    {
+        {
       "id": "src-036",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6753,7 +6753,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Residential property CGT: 18% (basic) and 28% (higher/additional rate) from 2024/25."
     },
-    {
+        {
       "id": "src-037",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6771,7 +6771,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "An annuity pays income for life or a set term; once purchased, most are irrevocable."
     },
-    {
+        {
       "id": "src-038",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6789,7 +6789,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Relevant Life Assurance is a death-in-service benefit paid to the employer (then to dependants)."
     },
-    {
+        {
       "id": "src-039",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6807,7 +6807,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Stable employment is generally positive; vulnerability flags include health, life events, financial stress."
     },
-    {
+        {
       "id": "src-040",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6825,7 +6825,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "GDPR: report to ICO within 72 hours of becoming aware of a personal data breach."
     },
-    {
+        {
       "id": "src-041",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6843,7 +6843,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "GDPR Tier 2: up to £17.5m or 4% of total annual worldwide turnover."
     },
-    {
+        {
       "id": "src-042",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6861,7 +6861,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "<strong>答案：Market integrity + Consumer protection</strong><br>FCA法定目標：①市場誠信 ②消費者保護。PRA目標才是Safety and soundness。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-043",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6879,7 +6879,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：4個 Outcomes</strong><br>Consumer Duty（2023年7月生效）4個outcomes：①Products & Services ②Price & Value ③Consumer Understanding ④Consumer Support。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-044",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6897,7 +6897,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：Statement of Responsibilities</strong><br>Senior Managers必須有Statement of Responsibilities，明確列出負責的監管職能。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-045",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6915,7 +6915,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：£430,000（2024年4月起）</strong><br>FOS最高補償上限£430,000。FSCS存款保障上限£85,000。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-046",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6933,7 +6933,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：£85,000 per person</strong><br>FSCS對存款保障上限£85,000 per person（每個金融機構）。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-047",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6951,7 +6951,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：£17.5 million 或 4% 全球營業額（以較高者為準）</strong><br>GDPR兩級罰款：最高級£17.5m/4%營業額；較低級£8.7m/2%營業額。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-048",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6969,7 +6969,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：Money Laundering Reporting Officer（MLRO）</strong><br>POCA 2002要求任命MLRO，負責監督反洗黑錢合規、接收內部SAR、向外匯報可疑交易。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-049",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -6987,7 +6987,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：£12,570</strong><br>2024/25年度Personal Allowance為£12,570。收入超過£100,000，PA按每£2收入減少£1遞減。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-050",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7005,7 +7005,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：£12,300</strong><br>CGT年度免稅額£12,300（2024/25）。基本稅率納稅人18%，高薪納稅人28%。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-051",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7023,7 +7023,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：£325,000</strong><br>IHT零稅率帶£325,000。超過部分40%稅率。Residence Nil-Rate Band額外£175,000。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-052",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7041,7 +7041,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：£250,000</strong><br>首置買家SDLT免稅額£250,000（房產價值£425,000以下部分）。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-053",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7060,7 +7060,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：£20,000</strong><br>2024/25年度ISA訂閱上限£20,000。Cash ISA/Stocks & Shares ISA/Innovative Finance ISA可自由分配。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-054",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7078,7 +7078,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "<strong>答案：P2P借貸</strong><br>P2P借貸不受FSCS保障。銀行存款受£85,000保障，政府債券由政府擔保。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-055",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7096,7 +7096,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：確診指定疾病即時支付一筆過款項</strong><br>Critical Illness Cover確診指定嚴重疾病時一次性支付款項。建議以Trust形式寫入。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-056",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7114,7 +7114,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "<strong>答案：永久支付直到投保人死亡</strong><br>Annuity在投保人生存期間支付，死亡後停止（除非有保證期）。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-057",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7132,7 +7132,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：平滑回報（smoothing）</strong><br>With-Profits Endowment通過平滑機制分配紅利，減少回報波動。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-058",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7150,7 +7150,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：消費者只需回答被問及的問題</strong><br>Consumer Insurance Act 2012改變了披露責任：消費者只需如實回答被問及的問題。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-059",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7168,7 +7168,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：非公司借款人 + 信用額低於 £25,000</strong><br>CCA 1974監管：借款人是個人 + 信用額低於£25,000。住宅按揭受FSMA + MCOB監管。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-060",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7186,7 +7186,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：£25,000</strong><br>CCA 1974監管信用額低於£25,000的非公司借款人信貸協議。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-061",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7204,7 +7204,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "<strong>答案：第一 £250,000 + 一半剩餘</strong><br>配偶優先：第一£250,000遺產 + 剩餘財產的一半。另一半由子女均分。 [From RG MCQ]"
     },
-    {
+        {
       "id": "src-062",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7222,7 +7222,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q62."
     },
-    {
+        {
       "id": "src-063",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7240,7 +7240,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q63."
     },
-    {
+        {
       "id": "src-064",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7258,7 +7258,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q64."
     },
-    {
+        {
       "id": "src-065",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7276,7 +7276,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q65."
     },
-    {
+        {
       "id": "src-066",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7294,7 +7294,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q66."
     },
-    {
+        {
       "id": "src-067",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7312,7 +7312,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q67."
     },
-    {
+        {
       "id": "src-068",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7330,7 +7330,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q68."
     },
-    {
+        {
       "id": "src-069",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7348,7 +7348,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q69."
     },
-    {
+        {
       "id": "src-070",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7366,7 +7366,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q70."
     },
-    {
+        {
       "id": "src-071",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7384,7 +7384,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q71."
     },
-    {
+        {
       "id": "src-072",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7402,7 +7402,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q72."
     },
-    {
+        {
       "id": "src-073",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7420,7 +7420,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q73."
     },
-    {
+        {
       "id": "src-074",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7438,7 +7438,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q74."
     },
-    {
+        {
       "id": "src-075",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7456,7 +7456,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q75."
     },
-    {
+        {
       "id": "src-076",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7474,7 +7474,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q76."
     },
-    {
+        {
       "id": "src-077",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7492,7 +7492,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q77."
     },
-    {
+        {
       "id": "src-078",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7510,7 +7510,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q78."
     },
-    {
+        {
       "id": "src-079",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7528,7 +7528,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q79."
     },
-    {
+        {
       "id": "src-080",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7546,7 +7546,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q80."
     },
-    {
+        {
       "id": "src-081",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7564,7 +7564,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q81."
     },
-    {
+        {
       "id": "src-082",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7582,7 +7582,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q82."
     },
-    {
+        {
       "id": "src-083",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7600,7 +7600,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q83."
     },
-    {
+        {
       "id": "src-084",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7618,7 +7618,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q84."
     },
-    {
+        {
       "id": "src-085",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7636,7 +7636,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q85."
     },
-    {
+        {
       "id": "src-086",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7654,7 +7654,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q86."
     },
-    {
+        {
       "id": "src-087",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7672,7 +7672,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q87."
     },
-    {
+        {
       "id": "src-088",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7690,7 +7690,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q88."
     },
-    {
+        {
       "id": "src-089",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7708,7 +7708,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q89."
     },
-    {
+        {
       "id": "src-090",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7726,7 +7726,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q90."
     },
-    {
+        {
       "id": "src-091",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7744,7 +7744,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q91."
     },
-    {
+        {
       "id": "src-092",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7762,7 +7762,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q92."
     },
-    {
+        {
       "id": "src-093",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7780,7 +7780,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q93."
     },
-    {
+        {
       "id": "src-094",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7798,7 +7798,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q94."
     },
-    {
+        {
       "id": "src-095",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7816,7 +7816,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q95."
     },
-    {
+        {
       "id": "src-096",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7834,7 +7834,7 @@ window.CEMAP1_DATA = {
       "a": 2,
       "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q96."
     },
-    {
+        {
       "id": "src-097",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7852,7 +7852,7 @@ window.CEMAP1_DATA = {
       "a": 0,
       "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q97."
     },
-    {
+        {
       "id": "src-098",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7870,7 +7870,7 @@ window.CEMAP1_DATA = {
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q98."
     },
-    {
+        {
       "id": "src-099",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7888,7 +7888,7 @@ window.CEMAP1_DATA = {
       "a": 1,
       "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q99."
     },
-    {
+        {
       "id": "src-100",
       "sourceTag": "revision-guide",
       "sourceLabel": "Revision guide / extracted study bank",
@@ -7905,7 +7905,31 @@ window.CEMAP1_DATA = {
       ],
       "a": 3,
       "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q100."
-    }
+    },
+            {"id": "cyu-oe-001", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["money", "functions-of-money"], "q": "The three main functions of money are: medium of exchange, unit of account, and store of value. Which function enables a person to compare the price of different goods or services?", "opts": ["A. Medium of exchange", "B. Unit of account", "C. Store of value", "D. Standard of deferred payment"], "a": 1, "ex": "Unit of account is the function that allows the price of one item to be compared with the price of another — the common denominator for measuring value."},
+            {"id": "cyu-oe-002", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["IHT", "gifts", "taper-relief"], "q": "Joan made a gift of £350,000 (net of annual exemptions) to her daughter. She had made no other lifetime gifts. Joan died between 4–5 years after making the gift. The nil-rate band is £325,000 and the full IHT rate is 40%. Under the taper rule, the effective rate is 60% of the full rate. How much IHT is due on this gift?", "opts": ["A. £5,000", "B. £6,000", "C. £8,000", "D. £10,000"], "a": 1, "ex": "The excess over the nil-rate band is £25,000 (£350,000 – £325,000). Taper relief for death 4–5 years after the gift = 60% of full rate. IHT = £25,000 × 40% × 60% = £6,000."},
+            {"id": "cyu-oe-003", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["corporate-bonds", "gilts", "risk-reward"], "q": "Why do corporate bonds generally pay higher rates of interest than similar gilts?", "opts": ["A. Corporate bonds have a longer maturity period than gilts", "B. Corporate bonds are backed by the UK government", "C. Corporate bonds carry higher risk, so investors demand greater reward", "D. Corporate bonds pay interest monthly rather than annually"], "a": 2, "ex": "Corporate bonds are riskier than gilts (which are government-backed). The relationship between risk and reward means the greater the risk, the greater the return investors expect."},
+            {"id": "cyu-oe-004", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["investment-bonds", "non-qualifying-policies", "life-assurance"], "q": "What is the key feature of investment bonds that makes them non-qualifying policies for life insurance purposes?", "opts": ["A. They pay a regular monthly income", "B. They involve a single lump-sum payment rather than regular premiums", "C. They are linked to stock market indices", "D. They have a minimum term of 10 years"], "a": 1, "ex": "Investment bonds involve a single lump-sum payment at the outset. Since regular premiums are not made, they are classified as non-qualifying policies."},
+            {"id": "cyu-oe-005", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["general-insurance", "underinsurance", "average-condition"], "q": "Charlene's home contents are insured for £25,000 but are actually worth £50,000. She is burgled and the loss costs £20,000 to replace. Under the average condition of insurance, how much can she claim?", "opts": ["A. £20,000", "B. £15,000", "C. £12,500", "D. £10,000"], "a": 3, "ex": "Under the average condition, if underinsured (insured for half the value), the claim is proportionally reduced. Claim = £20,000 × (£25,000/£50,000) = £10,000."},
+            {"id": "cyu-oe-006", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["stakeholder-pension", "pension-regulation"], "q": "Stakeholder pensions were targeted at individuals earning between £9,000 and £20,000 per annum. Why did stakeholder pensions fail to fulfil the government's intentions?", "opts": ["A. The government set contribution limits too high for low earners", "B. The restrictions on charges meant advisers found it uneconomic to give advice on stakeholder products", "C. Stakeholder pensions had poor investment returns compared to personal pensions", "D. The target group preferred to invest in property rather than pensions"], "a": 1, "ex": "The government restricted charges on stakeholder pensions to keep them affordable, but this made them uneconomical for advisers to recommend, resulting in poor take-up among the intended audience."},
+            {"id": "cyu-oe-007", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["IHT", "exempt-gifts", "annual-exemption"], "q": "Which of the following gifts are generally exempt from Inheritance Tax (IHT)?", "opts": ["A. All gifts made to children over 18", "B. Annual exemption gifts up to £3,000 per year", "C. Gifts made within 7 years of death only", "D. All gifts to registered charities"], "a": 1, "ex": "Gifts using the annual exemption of up to £3,000 per year (and £3,000 from the previous year if unused) are exempt from IHT."},
+            {"id": "cyu-oe-008", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["IHT", "life-assurance", "whole-of-life"], "q": "For IHT planning purposes, which type of life assurance policy is generally used?", "opts": ["A. Term assurance", "B. Family income benefit", "C. Whole of life assurance", "D. Endowment assurance"], "a": 2, "ex": "Whole of life assurance pays out on death whenever that occurs, making it suitable for IHT planning — particularly when written in trust to keep the proceeds outside the estate."},
+            {"id": "cyu-oe-009", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA", "supervision", "regulatory-oversight"], "q": "Why do some firms receive dedicated supervisory oversight from the FCA?", "opts": ["A. Because they have voluntarily opted into the FCA's supervision programme", "B. Due to their size, customer numbers and market presence, which poses greater risk of harm to consumers", "C. Because they have requested additional regulatory guidance", "D. Due to their small size and limited financial resources"], "a": 1, "ex": "The FCA's supervision model focuses on firms whose size, customer base and market presence create greater potential for consumer harm if things go wrong."},
+            {"id": "cyu-oe-010", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["Bank-of-England", "monetary-policy", "financial-system"], "q": "What are the main functions of the Bank of England in the UK financial system?", "opts": ["A. Issuer of banknotes, bank to the government, and lender of last resort", "B. Provider of mortgage finance to homebuyers", "C. Regulator of all UK financial advisers", "D. Manager of the UK's foreign exchange reserves for trading purposes"], "a": 0, "ex": "The Bank of England's main functions are: issuing banknotes, acting as banker to the government, and acting as lender of last resort to banks."},
+            {"id": "cyu-oe-011", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA", "regulatory-objectives", "consumer-protection"], "q": "What are the FCA's three operational objectives?", "opts": ["A. Market efficiency, investor profitability, and financial stability", "B. Consumer protection, market integrity, and promoting competition", "C. Reducing government borrowing costs, protecting pension funds, and preventing bank failures", "D. Ensuring universal access to banking, fair credit pricing, and transparency"], "a": 1, "ex": "The FCA's three operational objectives are: (1) consumer protection — securing an appropriate degree of protection; (2) market integrity — protecting and enhancing the integrity of the UK financial system; and (3) promoting competition — effective competition in consumers' interests."},
+            {"id": "cyu-oe-012", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA", "regulation", "supervision"], "q": "What is the key difference between regulation and supervision?", "opts": ["A. Regulation sets rules; supervision enforces them through ongoing monitoring", "B. Supervision sets rules; regulation monitors compliance", "C. There is no difference — they are the same thing", "D. Regulation is voluntary; supervision is mandatory"], "a": 0, "ex": "Regulation establishes the rules and framework; supervision is the ongoing monitoring and enforcement of those rules through direct engagement with firms."},
+            {"id": "cyu-oe-013", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA-Handbook", "ICOBS", "insurance-regulation"], "q": "Where in the FCA Handbook is the requirement to provide insurance policyholders with clear and accurate information about essential features of products found?", "opts": ["A. In the Mortgage Conduct of Business (MCOB) sourcebook", "B. In the Insurance: Conduct of Business sourcebook (ICOBS)", "C. In the Consumer Credit sourcebook (CONC)", "D. In the Principles for Businesses"], "a": 1, "ex": "ICOBS (Insurance: Conduct of Business Sourcebook) sets out the rules for how insurers and intermediaries should treat customers when selling and providing information about general insurance products."},
+            {"id": "cyu-oe-014", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA-Handbook", "cancellation-rights", "consumer-protection"], "q": "Where in the FCA Handbook are the rules relating to cancellation rights for financial products addressed?", "opts": ["A. In the FCA's Principles for Businesses", "B. In the relevant product-specific sourcebook such as ICOBS, MCOB or CONC", "C. In the Supervision manual (SUP)", "D. In the Enforcement guide (EG)"], "a": 1, "ex": "Cancellation rights are addressed in the product-specific sourcebooks — ICOBS for insurance, MCOB for mortgages, and CONC for consumer credit — not in the general Principles."},
+            {"id": "cyu-oe-015", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["mortgage-products", "flexible-mortgage", "overpayments"], "q": "Which type of mortgage product might be most suitable for a client who often receives irregular income from overtime and bonuses and is keen to pay off their mortgage as soon as possible?", "opts": ["A. A standard repayment mortgage with a low interest rate", "B. A flexible mortgage that allows overpayments without penalty", "C. An interest-only mortgage with a low monthly payment", "D. A lifetime mortgage that does not require monthly repayments"], "a": 1, "ex": "A flexible mortgage allows the client to make overpayments when they receive overtime or bonuses, enabling them to pay off the mortgage faster while managing their irregular income."},
+            {"id": "cyu-oe-016", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["with-profits", "life-assurance", "policyholder"], "q": "What is meant by 'with-profits' business in the context of life assurance policies?", "opts": ["A. A savings product that pays out a guaranteed lump sum on maturity", "B. A life policy issued by a life assurance company where the policyholder receives a share of the company's profits", "C. An investment trust that distributes profits to shareholders quarterly", "D. A corporate bond that pays regular interest plus a bonus distribution"], "a": 1, "ex": "With-profits business relates to certain life policies issued by life assurance companies. In addition to the sum assured, the policyholder receives a share of the profits of the life company, payable during the term (reversionary bonuses) or at maturity/claim (terminal bonus)."},
+            {"id": "cyu-oe-017", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["CRD-IV", "CRR", "PRA", "FCA", "bank-regulation"], "q": "CRD IV consists of two pieces of legislation: the Capital Requirements Regulation (CRR) and the Capital Requirements Directive (CRD). What is the key difference in how they were implemented in the UK?", "opts": ["A. Both CRR and CRD were implemented in the same way, through primary legislation only", "B. The CRR is directly applicable in the UK; the CRD was implemented via the PRA and FCA Handbooks, giving the UK some discretion", "C. The CRD is directly applicable; the CRR was left to member states to implement individually", "D. Neither required implementation in the UK as they were voluntary frameworks"], "a": 1, "ex": "The CRR is a Regulation and was directly applicable across the EU without need for national implementing legislation. The CRD is a Directive, so the UK government had some discretion as to how to implement its requirements — these were included in the PRA and FCA Handbooks."},
+            {"id": "cyu-oe-018", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["mortgage-regulation", "MCOB", "SLP"], "q": "The Standards of Lending Practice do not apply to mortgages. Which FCA Handbook sourcebook specifically covers mortgage conduct?", "opts": ["A. The Insurance: Conduct of Business sourcebook (ICOBS)", "B. The Consumer Credit sourcebook (CONC)", "C. The Mortgage Conduct of Business sourcebook (MCOB)", "D. The Prudential sourcebook for Mortgages (PRU-M)"], "a": 2, "ex": "MCOB (Mortgage Conduct of Business) is the FCA Handbook sourcebook that sets out the rules for mortgage lending, including affordability assessments, disclosure requirements, and the requirement to confirm a credible repayment strategy for interest-only mortgages."},
+            {"id": "cyu-oe-019", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["clearing-bank", "PRA", "FCA", "bank-regulation"], "q": "A major clearing bank has its headquarters in London but operates in many other countries. Which regulators supervise this type of institution?", "opts": ["A. The PRA only", "B. The PRA and the FPC (Financial Policy Committee) only", "C. The FCA only", "D. The PRA and the FCA"], "a": 3, "ex": "Major clearing banks are dual-regulated by both the PRA (Prudential Regulation Authority) for prudential supervision and the FCA (Financial Conduct Authority) for conduct supervision."},
+            {"id": "cyu-oe-020", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA-Handbook", "TC", "intermediary-knowledge"], "q": "Which section of the FCA Handbook addresses the requirements for financial intermediaries to have the necessary general, commercial and professional knowledge and skills?", "opts": ["A. The Prudential sourcebook (PRU)", "B. The Training and Competence (TC) section in the High Level Standards area", "C. The Conduct of Business sourcebook (COBS)", "D. The Supervision manual (SUP)"], "a": 1, "ex": "The Training and Competence (TC) sourcebook, located in the High Level Standards area of the FCA Handbook, sets out requirements for firms to ensure their staff have the necessary knowledge and skills for the regulated activities they perform."},
+            {"id": "cyu-oe-021", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["EU-law", "Directive", "Regulation"], "q": "EU Directives and EU Regulations are both forms of EU law. What is the key distinction between them?", "opts": ["A. Both are directly applicable in all member states without any national implementation", "B. A Regulation is directly applicable; a Directive is binding as to outcome but leaves the method of implementation to each member state", "C. A Directive is directly applicable; a Regulation requires unanimous approval from all member states", "D. There is no practical difference — the terms are used interchangeably"], "a": 1, "ex": "An EU Regulation is directly applicable across all member states without need for national legislation. An EU Directive sets a binding outcome that all member states must achieve, but each state can choose the form and method of implementation within its own national law."},
+            {"id": "cyu-oe-022", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["principal-private-residence", "IHT", "Lydia", "main-residence"], "q": "Ella and Martin purchased a property primarily as a business investment for their daughter Lydia to live in while at university. Why might this property NOT qualify for principal private residence (PPR) relief from Capital Gains Tax?", "opts": ["A. Because Lydia is not a direct relative of Ella and Martin", "B. Because the property was purchased purely as a business investment rather than as Ella and Martin's primary residence", "C. Because students are exempt from Capital Gains Tax on all property", "D. Because the property was purchased using a mortgage rather than cash"], "a": 1, "ex": "PPR relief applies where the property is the owner's main residence. If the primary motivation was a business investment rather than personal use as a residence, the relief may not apply — even if a family member lives there. Ella and Martin's primary motivation was investment, not residence."},
+            {"id": "cyu-oe-023", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["agency-law", "Martin", "Joanne", "estate-agent"], "q": "Joanne told her estate agent Martin to 'do whatever is necessary' to sell her property, then went abroad for six weeks. Martin accepted an offer £15,000 below the asking price without contacting her. What type of authority did Martin most likely have in relation to the potential buyers?", "opts": ["A. Actual authority — because Joanne explicitly told him to do whatever was necessary", "B. No authority at all — he had no right to act on Joanne's behalf", "C. Apparent authority — buyers could reasonably believe he had authority to accept offers, even if he lacked actual authority", "D. Implied authority — automatically granted to all registered estate agents"], "a": 2, "ex": "Martin did not have actual authority to accept such a significantly reduced offer without consulting Joanne. However, he may have had apparent (or ostensible) authority — buyers dealing with him could reasonably believe he had the power to accept offers on Joanne's behalf. Whether Joanne would be bound by his decision depends on whether she ratified his actions."},
+            {"id": "cyu-oe-024", "sourceTag": "textbook-oe", "sourceLabel": "Open-ended CYU converted to MCQ", "kind": "converted-oe", "tags": ["FCA", "Principles-for-Businesses", "conduct"], "q": "The FCA's regulatory regime is based on a set of Principles for Businesses. How many principles form the foundation of this regime, including the Consumer Duty?", "opts": ["A. 5 principles", "B. 8 principles", "C. 11 principles", "D. 12 principles"], "a": 3, "ex": "The FCA's Principles for Businesses consist of 11 principles (including the Consumer Duty), which establish the fundamental obligations firms must meet in all their activities."}
   ],
   "studyModes": {
     "dailyPassMark": 70,
