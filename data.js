@@ -3,9 +3,9 @@ window.CEMAP1_DATA = {
     "title": "CeMAP 1 Revision Lab",
     "subtitle": "Standalone CeMAP 1 / UKFR study app grounded in revision-guide mock style, textbook test-your-knowledge themes, and existing extracted UKFR materials.",
     "days": 30,
-    "questionCount": 180,
+    "questionCount": 219,
     "sourceBreakdown": {
-      "revisionGuideDerived": 134,
+      "revisionGuideDerived": 173,
       "textbookDerived": 46
     },
     "sources": [
@@ -1096,7 +1096,8 @@ window.CEMAP1_DATA = {
         "ext-092",
         "ext-093",
         "ext-094",
-        "ext-095"
+        "ext-095",
+        "src-092"
       ],
       "frameworkDetails": {
         "name": "COMPARE COVER, THEN CHECK REPAYMENT CREDIBILITY",
@@ -1196,7 +1197,11 @@ window.CEMAP1_DATA = {
         "ext-047",
         "ext-050",
         "ext-052",
-        "src-026"
+        "src-026",
+        "src-062",
+        "src-065",
+        "src-067",
+        "src-089"
       ],
       "frameworkDetails": {
         "name": "FIND",
@@ -1304,7 +1309,11 @@ window.CEMAP1_DATA = {
         "ext-046",
         "ext-048",
         "ext-049",
-        "ext-051"
+        "ext-051",
+        "src-068",
+        "src-070",
+        "src-086",
+        "src-099"
       ],
       "frameworkDetails": {
         "name": "SAFE",
@@ -1415,7 +1424,9 @@ window.CEMAP1_DATA = {
         "ext-053",
         "ext-054",
         "ext-089",
-        "src-060"
+        "src-060",
+        "src-096",
+        "src-097"
       ],
       "frameworkDetails": {
         "name": "PLAN OR THE RULES WILL DECIDE",
@@ -1518,7 +1529,8 @@ window.CEMAP1_DATA = {
         "ext-056",
         "ext-058",
         "ext-089",
-        "ext-090"
+        "ext-090",
+        "src-098"
       ],
       "frameworkDetails": {
         "name": "WHO MAY ACT?",
@@ -1729,7 +1741,12 @@ window.CEMAP1_DATA = {
         "ext-068",
         "ext-069",
         "src-018",
-        "src-019"
+        "src-019",
+        "src-063",
+        "src-064",
+        "src-066",
+        "src-088",
+        "src-095"
       ],
       "frameworkDetails": {
         "name": "FCA = Conduct; PRA = Prudence",
@@ -1842,7 +1859,13 @@ window.CEMAP1_DATA = {
         "ext-067",
         "src-020",
         "src-021",
-        "src-022"
+        "src-022",
+        "src-071",
+        "src-073",
+        "src-074",
+        "src-075",
+        "src-091",
+        "src-100"
       ],
       "frameworkDetails": {
         "name": "OUTCOMES + ACCOUNTABILITY + PRINCIPLES",
@@ -1957,7 +1980,11 @@ window.CEMAP1_DATA = {
         "ext-070",
         "ext-077",
         "src-023",
-        "src-041"
+        "src-041",
+        "src-076",
+        "src-078",
+        "src-082",
+        "src-087"
       ],
       "frameworkDetails": {
         "name": "CFNM + CUSTOMER UNDERSTANDING",
@@ -2070,7 +2097,11 @@ window.CEMAP1_DATA = {
         "ext-072",
         "ext-076",
         "src-024",
-        "src-025"
+        "src-025",
+        "src-069",
+        "src-072",
+        "src-090",
+        "src-094"
       ],
       "frameworkDetails": {
         "name": "COMPLAINT ≠ FAILURE COMPENSATION",
@@ -2183,7 +2214,11 @@ window.CEMAP1_DATA = {
         "ext-073",
         "ext-078",
         "ext-080",
-        "src-038"
+        "src-038",
+        "src-077",
+        "src-079",
+        "src-080",
+        "src-093"
       ],
       "frameworkDetails": {
         "name": "SPOT → ADAPT → SUPPORT",
@@ -2302,7 +2337,11 @@ window.CEMAP1_DATA = {
         "ext-079",
         "src-039",
         "src-040",
-        "src-047"
+        "src-047",
+        "src-081",
+        "src-083",
+        "src-084",
+        "src-085"
       ],
       "frameworkDetails": {
         "name": "AML: NOTICE → REPORT. GDPR: LAWFUL → SECURE.",
@@ -3315,1549 +3354,6 @@ window.CEMAP1_DATA = {
     }
   ],
   "questionBank": [
-    {
-      "id": "src-001",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "The main function of the financial services industry is to:",
-      "opts": [
-        "Regulate banks",
-        "Transfer funds between individuals, businesses and government",
-        "Issue government bonds",
-        "Set interest rates"
-      ],
-      "a": 1,
-      "ex": "The FS industry transfers funds between those with surplus capital and those who need it."
-    },
-    {
-      "id": "src-002",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "Which of the following is a retail banking institution?",
-      "opts": [
-        "Investment bank",
-        "Building society",
-        "Wholesale bank",
-        "Pension fund"
-      ],
-      "a": 1,
-      "ex": "Building societies are retail banks owned by members, focusing on private customers."
-    },
-    {
-      "id": "src-003",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "Peer-to-Peer lending is an example of:",
-      "opts": [
-        "Disintermediation",
-        "Intermediation",
-        "Bank intermediation",
-        "Wholesale banking"
-      ],
-      "a": 0,
-      "ex": "P2P bypasses traditional banks = disintermediation (direct lender-borrower connection)."
-    },
-    {
-      "id": "src-004",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "Credit unions are regulated by which body?",
-      "opts": [
-        "PRA",
-        "FCA",
-        "Bank of England",
-        "HMTreasury"
-      ],
-      "a": 1,
-      "ex": "Credit unions are regulated by the FCA under the Credit Unions Act 1979."
-    },
-    {
-      "id": "src-005",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "The Bank of England acts as Lender of Last Resort to:",
-      "opts": [
-        "Individual borrowers",
-        "Commercial banks",
-        "Retail customers",
-        "Government departments"
-      ],
-      "a": 1,
-      "ex": "BoE provides emergency liquidity to banks via the Discount Window Facility."
-    },
-    {
-      "id": "src-006",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "Which body sets the Bank of England base rate?",
-      "opts": [
-        "FCA",
-        "MPC (Monetary Policy Committee)",
-        "PRA",
-        "HM Treasury"
-      ],
-      "a": 1,
-      "ex": "The MPC meets 8 times/year to set Bank Rate for the UK's monetary policy."
-    },
-    {
-      "id": "src-007",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "The inflation target set by the UK government for the MPC is:",
-      "opts": [
-        "1%",
-        "2%",
-        "3%",
-        "5%"
-      ],
-      "a": 1,
-      "ex": "MPC targets 2% CPI inflation. If inflation deviates >1% from target, MPC must write to Chancellor."
-    },
-    {
-      "id": "src-008",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Government securities (Gilts) are traded in the:",
-      "opts": [
-        "Money market",
-        "Capital market",
-        "Retail market",
-        "Interbank market"
-      ],
-      "a": 1,
-      "ex": "Gilts are long-term government bonds traded in the capital market (FTSE)."
-    },
-    {
-      "id": "src-009",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "industry"
-      ],
-      "q": "Which of the following is NOT a money market instrument?",
-      "opts": [
-        "Treasury Bill",
-        "Commercial Paper",
-        "UK Government Gilt",
-        "Bank Deposit"
-      ],
-      "a": 2,
-      "ex": "Gilts are capital market instruments (long-term >1yr); Treasury Bills are money market."
-    },
-    {
-      "id": "src-010",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "A corporate bond with a fixed rate of interest paid semi-annually is called a:",
-      "opts": [
-        "Equity",
-        "Eurobond",
-        "Convertible bond",
-        "Index-linked gilt"
-      ],
-      "a": 1,
-      "ex": "Eurobonds are international bonds, often fixed-rate, issued outside the borrower's home country."
-    },
-    {
-      "id": "src-011",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "The main advantage of investing in equities is:",
-      "opts": [
-        "Guaranteed income",
-        "Capital growth potential",
-        "Low risk",
-        "Tax efficiency"
-      ],
-      "a": 1,
-      "ex": "Equities offer capital growth (and dividends) but carry higher risk than bonds."
-    },
-    {
-      "id": "src-012",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Commercial property is classified as what type of investment?",
-      "opts": [
-        "Cash",
-        "Bonds",
-        "Real estate",
-        "Collective investment"
-      ],
-      "a": 2,
-      "ex": "Residential and commercial property are direct real estate investments."
-    },
-    {
-      "id": "src-013",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products",
-        "tax"
-      ],
-      "q": "An ISA (Individual Savings Account) wrapper provides:",
-      "opts": [
-        "Higher returns than normal accounts",
-        "Tax-free returns",
-        "Government guarantee",
-        "Fixed interest rates"
-      ],
-      "a": 1,
-      "ex": "ISAs provide a tax-free environment for savings (Cash ISA) and investments (Stocks & Shares ISA)."
-    },
-    {
-      "id": "src-014",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products",
-        "tax"
-      ],
-      "q": "The annual ISA subscription limit for 2024/25 is:",
-      "opts": [
-        "£10,000",
-        "£15,000",
-        "£20,000",
-        "£25,000"
-      ],
-      "a": 2,
-      "ex": "The adult ISA subscription limit is £20,000 for 2024/25 (all types combined)."
-    },
-    {
-      "id": "src-015",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "A With-Profits endowment policy aims to:",
-      "opts": [
-        "Provide maximum returns immediately",
-        "Smooth returns via bonuses",
-        "Provide pure protection",
-        "Eliminate investment risk"
-      ],
-      "a": 1,
-      "ex": "With-profits policies smooth investment returns through regular and final bonuses."
-    },
-    {
-      "id": "src-016",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Unit-linked endowment policies are also known as:",
-      "opts": [
-        "With-profits",
-        "Non-profit",
-        "Investment-linked",
-        "Capital guaranteed"
-      ],
-      "a": 2,
-      "ex": "Unit-linked = value moves with underlying fund; charges are higher but potential returns greater."
-    },
-    {
-      "id": "src-017",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "The State Pension age in the UK is currently:",
-      "opts": [
-        "60 (women), 65 (men)",
-        "66 for both",
-        "67 for both",
-        "68 for both"
-      ],
-      "a": 2,
-      "ex": "State Pension age is 66 for both men and women (2020-2026), rising to 67 by 2028."
-    },
-    {
-      "id": "src-018",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "A critical illness policy pays out:",
-      "opts": [
-        "Monthly income on disability",
-        "A lump sum on diagnosis of a specified illness",
-        "Annuity payments",
-        "Death benefit only"
-      ],
-      "a": 1,
-      "ex": "Critical Illness Cover pays a lump sum on diagnosis of specified serious illness (e.g., cancer, heart attack)."
-    },
-    {
-      "id": "src-019",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "The FCA's primary operational objective is:",
-      "opts": [
-        "Maximum profit for banks",
-        "Market integrity + Consumer protection",
-        "Low interest rates",
-        "Economic growth"
-      ],
-      "a": 1,
-      "ex": "FCA has three operational objectives: Consumer Protection, Market Integrity, and Competition."
-    },
-    {
-      "id": "src-020",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "The PRA's primary objective is:",
-      "opts": [
-        "Consumer protection",
-        "Safety and soundness of firms",
-        "Competition in markets",
-        "Financial inclusion"
-      ],
-      "a": 1,
-      "ex": "PRA (Prudential Regulation Authority) focuses on safety and soundness of deposit-takers."
-    },
-    {
-      "id": "src-021",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "SMCR applies to:",
-      "opts": [
-        "All financial services firms",
-        "Banks only",
-        "Insurance companies only",
-        "Investment firms only"
-      ],
-      "a": 0,
-      "ex": "Senior Managers & Certification Regime applies to all FCA/PRA regulated firms."
-    },
-    {
-      "id": "src-022",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "Under SMCR, a Senior Manager must have a:",
-      "opts": [
-        "Annual bonus",
-        "Statement of Responsibilities",
-        "FCA approval number",
-        "Professional indemnity insurance"
-      ],
-      "a": 1,
-      "ex": "Senior Managers must have a Statement of Responsibilities, approved by the FCA."
-    },
-    {
-      "id": "src-023",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "The Consumer Duty requires firms to act to deliver:",
-      "opts": [
-        "Maximum profits",
-        "Good outcomes for retail customers",
-        "Best execution only",
-        "Lowest costs always"
-      ],
-      "a": 1,
-      "ex": "Consumer Duty has 4 outcomes: Products & Services, Price & Value, Consumer Understanding, Consumer Support."
-    },
-    {
-      "id": "src-024",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "A financial promotion must be:",
-      "opts": [
-        "Approved by the FCA before publication",
-        "Clear, fair and not misleading",
-        "Written in legal jargon",
-        "Filed with Companies House"
-      ],
-      "a": 1,
-      "ex": "FSMA 2000 requires all financial promotions to be clear, fair and not misleading."
-    },
-    {
-      "id": "src-025",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "The FSCS deposit protection limit is:",
-      "opts": [
-        "£50,000",
-        "£75,000",
-        "£85,000",
-        "£100,000"
-      ],
-      "a": 2,
-      "ex": "FSCS protects deposits up to £85,000 per person per institution (from 2016)."
-    },
-    {
-      "id": "src-026",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "The FOS compensation limit for claims is:",
-      "opts": [
-        "£250,000",
-        "£350,000",
-        "£430,000",
-        "£500,000"
-      ],
-      "a": 2,
-      "ex": "FOS compensation limit is £430,000 (from April 2024) per upheld claim."
-    },
-    {
-      "id": "src-027",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "advice-process"
-      ],
-      "q": "A vulnerability flag in a factfind indicates:",
-      "opts": [
-        "The client is fraudulent",
-        "The client may need additional support or protection",
-        "The advisor must reject the client",
-        "The case needs special pricing"
-      ],
-      "a": 1,
-      "ex": "Vulnerable clients (health, life events, financial difficulty) need additional care under Consumer Duty."
-    },
-    {
-      "id": "src-028",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "The Consumer Rights Act 2015 covers:",
-      "opts": [
-        "Financial services only",
-        "Goods, services and digital content",
-        "Mortgages only",
-        "Insurance only"
-      ],
-      "a": 1,
-      "ex": "Consumer Rights Act covers goods, services, and digital content — not financial services."
-    },
-    {
-      "id": "src-029",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "A regulated mortgage contract must be for:",
-      "opts": [
-        "Business purposes only",
-        "Purchase or redemption of land",
-        "Speculation only",
-        "Car finance only"
-      ],
-      "a": 1,
-      "ex": "A regulated mortgage (MCOB) requires: credit + land + borrower is an individual/trustee."
-    },
-    {
-      "id": "src-030",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "The Consumer Credit Act 1974 covers loans below:",
-      "opts": [
-        "£10,000",
-        "£25,000",
-        "£50,000",
-        "£100,000"
-      ],
-      "a": 1,
-      "ex": "CCA 1974 regulates consumer credit agreements below £25,000 (and all consumer hires)."
-    },
-    {
-      "id": "src-031",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products",
-        "tax"
-      ],
-      "q": "Class 2 National Insurance Contributions for self-employed were:",
-      "opts": [
-        "Still required at £3.45/week",
-        "Abolished from 2024/25",
-        "Set at £12.50/week",
-        "Voluntary only"
-      ],
-      "a": 1,
-      "ex": "Class 2 NICs abolished from 6 April 2024; self-employed still pay Class 4."
-    },
-    {
-      "id": "src-032",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "The CGT annual exempt amount for 2024/25 is:",
-      "opts": [
-        "£6,000",
-        "£10,300",
-        "£12,300",
-        "£15,000"
-      ],
-      "a": 2,
-      "ex": "CGT AEA is £12,300 for 2024/25 (basic rate taxpayer; lower for higher rate)."
-    },
-    {
-      "id": "src-033",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "The IHT nil-rate band is:",
-      "opts": [
-        "£125,000",
-        "£250,000",
-        "£325,000",
-        "£500,000"
-      ],
-      "a": 2,
-      "ex": "IHT nil-rate band is £325,000; above this, rate is 40% (25% on certain trusts)."
-    },
-    {
-      "id": "src-034",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "Inheritance Tax is charged at 40% on the value of an estate above the:",
-      "opts": [
-        "Annual exempt amount",
-        "Nil-rate band",
-        "Available nil-rate band",
-        "Residence nil-rate band"
-      ],
-      "a": 1,
-      "ex": "IHT at 40% applies to estate value above the nil-rate band of £325,000."
-    },
-    {
-      "id": "src-035",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "The SDLT first-time buyer relief raises the threshold to:",
-      "opts": [
-        "£300,000",
-        "£425,000",
-        "£500,000",
-        "£625,000"
-      ],
-      "a": 1,
-      "ex": "FTB relief: no SDLT on first £425,000 (max £625,000 property), 5% on £425k-£625k."
-    },
-    {
-      "id": "src-036",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products",
-        "tax"
-      ],
-      "q": "Capital Gains Tax on residential property is now charged at:",
-      "opts": [
-        "18% and 28%",
-        "20% and 28%",
-        "24%",
-        "10% and 20%"
-      ],
-      "a": 0,
-      "ex": "Residential property CGT: 18% (basic) and 28% (higher/additional rate) from 2024/25."
-    },
-    {
-      "id": "src-037",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Annuities provide:",
-      "opts": [
-        "A guaranteed lump sum",
-        "Income for a set term or lifetime",
-        "Capital growth",
-        "Tax-free withdrawals"
-      ],
-      "a": 1,
-      "ex": "An annuity pays income for life or a set term; once purchased, most are irrevocable."
-    },
-    {
-      "id": "src-038",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "A relevant life assurance policy is:",
-      "opts": [
-        "A personal policy",
-        "A business policy paying to the employer",
-        "A state benefit",
-        "A pension contribution"
-      ],
-      "a": 1,
-      "ex": "Relevant Life Assurance is a death-in-service benefit paid to the employer (then to dependants)."
-    },
-    {
-      "id": "src-039",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "Which is NOT a vulnerable client indicator?",
-      "opts": [
-        "Health conditions affecting finances",
-        "Recent bereavement",
-        "Stable employment",
-        "Cognitive decline"
-      ],
-      "a": 2,
-      "ex": "Stable employment is generally positive; vulnerability flags include health, life events, financial stress."
-    },
-    {
-      "id": "src-040",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "GDPR requires data breaches to be reported to ICO within:",
-      "opts": [
-        "24 hours",
-        "48 hours",
-        "72 hours",
-        "7 days"
-      ],
-      "a": 2,
-      "ex": "GDPR: report to ICO within 72 hours of becoming aware of a personal data breach."
-    },
-    {
-      "id": "src-041",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "GDPR maximum fine is the greater of:",
-      "opts": [
-        "£500,000 or 1% global turnover",
-        "£10m or 2% global turnover",
-        "£17.5m or 4% global turnover",
-        "£1m or 0.5% global turnover"
-      ],
-      "a": 2,
-      "ex": "GDPR Tier 2: up to £17.5m or 4% of total annual worldwide turnover."
-    },
-    {
-      "id": "src-042",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "FCA的兩個法定目標是什麼？",
-      "opts": [
-        "Market integrity + Consumer protection",
-        "Price stability + Economic growth",
-        "Safety + Soundness",
-        "Competition + Innovation"
-      ],
-      "a": 0,
-      "ex": "<strong>答案：Market integrity + Consumer protection</strong><br>FCA法定目標：①市場誠信 ②消費者保護。PRA目標才是Safety and soundness。 [From RG MCQ]"
-    },
-    {
-      "id": "src-043",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "Consumer Duty包含多少個 Outcomes？",
-      "opts": [
-        "2個",
-        "3個",
-        "4個",
-        "5個"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：4個 Outcomes</strong><br>Consumer Duty（2023年7月生效）4個outcomes：①Products & Services ②Price & Value ③Consumer Understanding ④Consumer Support。 [From RG MCQ]"
-    },
-    {
-      "id": "src-044",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "regulation"
-      ],
-      "q": "SMCR中，Senior Managers需要準備什麼文件？",
-      "opts": [
-        "Compliance statement",
-        "Statement of Responsibilities",
-        "Conduct rules certification",
-        "Regulatory business plan"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：Statement of Responsibilities</strong><br>Senior Managers必須有Statement of Responsibilities，明確列出負責的監管職能。 [From RG MCQ]"
-    },
-    {
-      "id": "src-045",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "FOS對金融投訴的最高補償限額是多少？",
-      "opts": [
-        "£150,000",
-        "£350,000",
-        "£430,000",
-        "£500,000"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：£430,000（2024年4月起）</strong><br>FOS最高補償上限£430,000。FSCS存款保障上限£85,000。 [From RG MCQ]"
-    },
-    {
-      "id": "src-046",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "FSCS存款保障計劃的上限是多少？",
-      "opts": [
-        "£50,000",
-        "£75,000",
-        "£85,000",
-        "£100,000"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：£85,000 per person</strong><br>FSCS對存款保障上限£85,000 per person（每個金融機構）。 [From RG MCQ]"
-    },
-    {
-      "id": "src-047",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "GDPR最高罰款是多少？",
-      "opts": [
-        "£5 million",
-        "£10 million",
-        "£17.5 million or 4% 全球營業額",
-        "£50 million"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：£17.5 million 或 4% 全球營業額（以較高者為準）</strong><br>GDPR兩級罰款：最高級£17.5m/4%營業額；較低級£8.7m/2%營業額。 [From RG MCQ]"
-    },
-    {
-      "id": "src-048",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "POCA 2002中，MLRO的職責是什麼？",
-      "opts": [
-        "Marketing compliance",
-        "Money Laundering Reporting Officer（洗黑錢舉報主任）",
-        "Mortgages product layout",
-        "Regulatory capital management"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：Money Laundering Reporting Officer（MLRO）</strong><br>POCA 2002要求任命MLRO，負責監督反洗黑錢合規、接收內部SAR、向外匯報可疑交易。 [From RG MCQ]"
-    },
-    {
-      "id": "src-049",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "2024/25 Income Tax Personal Allowance 是多少？",
-      "opts": [
-        "£10,570",
-        "£12,570",
-        "£14,570",
-        "£12,500"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：£12,570</strong><br>2024/25年度Personal Allowance為£12,570。收入超過£100,000，PA按每£2收入減少£1遞減。 [From RG MCQ]"
-    },
-    {
-      "id": "src-050",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "CGT Annual Exempt Amount 是多少？",
-      "opts": [
-        "£6,000",
-        "£12,300",
-        "£24,600",
-        "£3,000"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：£12,300</strong><br>CGT年度免稅額£12,300（2024/25）。基本稅率納稅人18%，高薪納稅人28%。 [From RG MCQ]"
-    },
-    {
-      "id": "src-051",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "IHT Nil-Rate Band 是多少？",
-      "opts": [
-        "£162,500",
-        "£250,000",
-        "£325,000",
-        "£500,000"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：£325,000</strong><br>IHT零稅率帶£325,000。超過部分40%稅率。Residence Nil-Rate Band額外£175,000。 [From RG MCQ]"
-    },
-    {
-      "id": "src-052",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "tax"
-      ],
-      "q": "SDLT首置免稅額是多少？",
-      "opts": [
-        "£125,000",
-        "£250,000",
-        "£425,000",
-        "£500,000"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：£250,000</strong><br>首置買家SDLT免稅額£250,000（房產價值£425,000以下部分）。 [From RG MCQ]"
-    },
-    {
-      "id": "src-053",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products",
-        "tax"
-      ],
-      "q": "2024/25 ISA 訂閱上限是多少？",
-      "opts": [
-        "£15,000",
-        "£17,000",
-        "£20,000",
-        "£25,000"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：£20,000</strong><br>2024/25年度ISA訂閱上限£20,000。Cash ISA/Stocks & Shares ISA/Innovative Finance ISA可自由分配。 [From RG MCQ]"
-    },
-    {
-      "id": "src-054",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "以下哪種產品不受 FSCS 保障？",
-      "opts": [
-        "銀行存款",
-        "政府債券",
-        "P2P借貸",
-        "人壽保險"
-      ],
-      "a": 2,
-      "ex": "<strong>答案：P2P借貸</strong><br>P2P借貸不受FSCS保障。銀行存款受£85,000保障，政府債券由政府擔保。 [From RG MCQ]"
-    },
-    {
-      "id": "src-055",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Critical Illness Cover 的主要特點是？",
-      "opts": [
-        "每月支付固定金額直到死亡",
-        "確診指定疾病即時支付一筆過款項",
-        "支付醫療費用實報實銷",
-        "只保障意外死亡"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：確診指定疾病即時支付一筆過款項</strong><br>Critical Illness Cover確診指定嚴重疾病時一次性支付款項。建議以Trust形式寫入。 [From RG MCQ]"
-    },
-    {
-      "id": "src-056",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "Annuity（年金）的主要特點是？",
-      "opts": [
-        "永久支付直到投保人死亡",
-        "支付固定年期",
-        "可隨時提取",
-        "投資性質為主"
-      ],
-      "a": 0,
-      "ex": "<strong>答案：永久支付直到投保人死亡</strong><br>Annuity在投保人生存期間支付，死亡後停止（除非有保證期）。 [From RG MCQ]"
-    },
-    {
-      "id": "src-057",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "products"
-      ],
-      "q": "With-Profits Endowment 的紅利分配方式是？",
-      "opts": [
-        "固定利率",
-        "平滑回報（smoothing）",
-        "每年遞增",
-        "與通脹掛鉤"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：平滑回報（smoothing）</strong><br>With-Profits Endowment通過平滑機制分配紅利，減少回報波動。 [From RG MCQ]"
-    },
-    {
-      "id": "src-058",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "Consumer Insurance Act 2012的主要改變是？",
-      "opts": [
-        "強制所有保險使用標準表格",
-        "消費者只需回答被問及的問題",
-        "所有保費必須公開",
-        "保險投訴時效延長至3年"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：消費者只需回答被問及的問題</strong><br>Consumer Insurance Act 2012改變了披露責任：消費者只需如實回答被問及的問題。 [From RG MCQ]"
-    },
-    {
-      "id": "src-059",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "Consumer Credit Act 1974監管的信貸協議是？",
-      "opts": [
-        "所有公司借貸",
-        "非公司借款人 + 信用額低於 £25,000",
-        "所有住宅按揭",
-        "所有商業貸款"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：非公司借款人 + 信用額低於 £25,000</strong><br>CCA 1974監管：借款人是個人 + 信用額低於£25,000。住宅按揭受FSMA + MCOB監管。 [From RG MCQ]"
-    },
-    {
-      "id": "src-060",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "Consumer Credit Act 1974監管的信貸協議門檻是？",
-      "opts": [
-        "£10,000",
-        "£25,000",
-        "£50,000",
-        "£100,000"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：£25,000</strong><br>CCA 1974監管信用額低於£25,000的非公司借款人信貸協議。 [From RG MCQ]"
-    },
-    {
-      "id": "src-061",
-      "sourceTag": "revision-guide",
-      "sourceLabel": "Revision guide / extracted study bank",
-      "kind": "source-derived",
-      "tags": [
-        "legal"
-      ],
-      "q": "Intestacy（無遺囑）下，配偶優先繼承權是多少？",
-      "opts": [
-        "全部遺產",
-        "第一 £250,000 + 一半剩餘",
-        "一半遺產",
-        "£125,000"
-      ],
-      "a": 1,
-      "ex": "<strong>答案：第一 £250,000 + 一半剩餘</strong><br>配偶優先：第一£250,000遺產 + 剩餘財產的一半。另一半由子女均分。 [From RG MCQ]"
-    },
-    {
-      "id": "qdt-001",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "regulation"
-      ],
-      "q": "Which FCA objective is most closely linked to protecting retail customers?",
-      "opts": [
-        "Safety and soundness",
-        "Consumer protection",
-        "Fiscal policy",
-        "Monetary policy"
-      ],
-      "a": 1,
-      "ex": "The FCA is primarily the conduct regulator, and consumer protection sits at the centre of its statutory objectives and wider rulebook."
-    },
-    {
-      "id": "qdt-002",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "regulation",
-        "consumer-protection"
-      ],
-      "q": "How many Consumer Duty outcomes are normally tested in current CeMAP 1 revision?",
-      "opts": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "a": 2,
-      "ex": "The four outcomes are products and services, price and value, consumer understanding, and consumer support."
-    },
-    {
-      "id": "qdt-003",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "regulation"
-      ],
-      "q": "Under SMCR, which document sets out what a senior manager is responsible for?",
-      "opts": [
-        "Compliance certificate",
-        "Statement of Responsibilities",
-        "Complaints register",
-        "Product governance plan"
-      ],
-      "a": 1,
-      "ex": "A Statement of Responsibilities is a core SMCR document and helps allocate accountability within a regulated firm."
-    },
-    {
-      "id": "qdt-004",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection",
-        "regulation"
-      ],
-      "q": "What is the key difference between FOS and FSCS?",
-      "opts": [
-        "FOS sets conduct rules; FSCS sets prudential rules",
-        "FOS resolves complaints; FSCS can pay compensation when firms fail",
-        "FOS only covers banks; FSCS only covers insurers",
-        "There is no difference"
-      ],
-      "a": 1,
-      "ex": "This distinction is a classic CeMAP memory point: complaint redress vs compensation after firm failure."
-    },
-    {
-      "id": "qdt-005",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "Which statement best describes the FSCS deposit limit commonly tested in revision?",
-      "opts": [
-        "A protection limit applies per eligible person per authorised institution",
-        "Every investment is fully guaranteed",
-        "It applies only to mortgage balances",
-        "It covers market losses on shares"
-      ],
-      "a": 0,
-      "ex": "The key point is the structure of protection: per person, per authorised firm, within the relevant limits and scope."
-    },
-    {
-      "id": "qdt-006",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "Under GDPR, what is the strongest general rule for advisers handling client data?",
-      "opts": [
-        "Use data however is commercially useful",
-        "Process personal data lawfully and securely",
-        "Keep data forever without review",
-        "Share data freely inside any group company"
-      ],
-      "a": 1,
-      "ex": "CeMAP focuses on lawful processing, appropriate security, and proper handling of personal data."
-    },
-    {
-      "id": "qdt-007",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "What does MLRO stand for?",
-      "opts": [
-        "Mortgage Lending Review Officer",
-        "Money Laundering Reporting Officer",
-        "Market Liquidity Reporting Office",
-        "Member Lending Resolution Officer"
-      ],
-      "a": 1,
-      "ex": "The MLRO oversees internal anti-money-laundering reporting and escalates suspicious matters appropriately."
-    },
-    {
-      "id": "qdt-008",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax"
-      ],
-      "q": "What is the personal allowance usually remembered as for 2024/25 CeMAP revision?",
-      "opts": [
-        "£10,570",
-        "£12,570",
-        "£14,570",
-        "£15,000"
-      ],
-      "a": 1,
-      "ex": "The usual revision anchor is the personal allowance figure and the fact that high income can taper it away."
-    },
-    {
-      "id": "qdt-009",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax"
-      ],
-      "q": "CGT is most closely associated with:",
-      "opts": [
-        "Income received from employment",
-        "Chargeable gains on disposal of assets",
-        "VAT on purchases",
-        "Insurance premiums"
-      ],
-      "a": 1,
-      "ex": "Capital Gains Tax applies to chargeable gains made on disposal, not ordinary income."
-    },
-    {
-      "id": "qdt-010",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax"
-      ],
-      "q": "Which tax is most closely associated with estates and transfers on death?",
-      "opts": [
-        "VAT",
-        "Corporation Tax",
-        "Inheritance Tax",
-        "Council Tax"
-      ],
-      "a": 2,
-      "ex": "Inheritance Tax is the main CeMAP estate tax topic and is often tested alongside nil-rate band concepts."
-    },
-    {
-      "id": "qdt-011",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax"
-      ],
-      "q": "Which tax is most directly linked to property purchases in England?",
-      "opts": [
-        "Capital Gains Tax",
-        "Insurance Premium Tax",
-        "Stamp Duty Land Tax",
-        "Income Tax"
-      ],
-      "a": 2,
-      "ex": "SDLT is the transaction tax commonly tested for property purchases in England."
-    },
-    {
-      "id": "qdt-012",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax",
-        "products"
-      ],
-      "q": "An ISA is best described as:",
-      "opts": [
-        "A type of equity",
-        "A tax wrapper",
-        "A government bond",
-        "A life assurance policy"
-      ],
-      "a": 1,
-      "ex": "CeMAP commonly tests the wrapper-vs-asset distinction. An ISA is the wrapper, not the underlying investment."
-    },
-    {
-      "id": "qdt-013",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "products",
-        "consumer-protection"
-      ],
-      "q": "Which option is least likely to carry FSCS protection against investment-style loss?",
-      "opts": [
-        "A bank deposit in scope",
-        "An eligible insurance contract in scope",
-        "Peer-to-peer lending performance",
-        "A protected cash account"
-      ],
-      "a": 2,
-      "ex": "P2P lending is a common revision warning because normal investment or borrower default risk is not turned into a blanket FSCS guarantee."
-    },
-    {
-      "id": "qdt-014",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "products"
-      ],
-      "q": "Critical illness cover is mainly designed to:",
-      "opts": [
-        "Provide a life-long pension income",
-        "Pay a lump sum on diagnosis of a specified serious condition",
-        "Repay all debts automatically",
-        "Cover normal GP visits"
-      ],
-      "a": 1,
-      "ex": "Critical illness cover is generally remembered as a lump-sum product triggered by specified serious illnesses."
-    },
-    {
-      "id": "qdt-015",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "products"
-      ],
-      "q": "What is the usual CeMAP memory hook for an annuity?",
-      "opts": [
-        "Tax-free capital growth only",
-        "Income while the annuitant remains alive",
-        "A high-liquidity cash wrapper",
-        "Guaranteed inheritance for children"
-      ],
-      "a": 1,
-      "ex": "An annuity is normally tested as a retirement-income product linked to life expectancy and option selection."
-    },
-    {
-      "id": "qdt-016",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "products"
-      ],
-      "q": "With-profits funds are often linked with which feature?",
-      "opts": [
-        "Purely fixed interest",
-        "Smoothing of returns",
-        "No investment risk",
-        "Daily dealing only"
-      ],
-      "a": 1,
-      "ex": "Smoothing is the standard memory cue used to describe the way with-profits bonuses are distributed over time."
-    },
-    {
-      "id": "qdt-017",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection",
-        "legal"
-      ],
-      "q": "Under the Consumer Insurance Act changes, what is the consumer mainly expected to do?",
-      "opts": [
-        "Volunteer every possible fact unprompted",
-        "Answer the insurer’s clear questions honestly",
-        "Draft the insurer’s underwriting policy",
-        "Guarantee the claim will be paid"
-      ],
-      "a": 1,
-      "ex": "The revision point is that consumers answer the questions asked, rather than carry the old duty to volunteer every material fact."
-    },
-    {
-      "id": "qdt-018",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "legal",
-        "consumer-protection"
-      ],
-      "q": "Why do older CeMAP materials mention a Consumer Credit Act threshold?",
-      "opts": [
-        "To separate certain consumer-credit agreements from other types of regulated borrowing",
-        "To calculate mortgage affordability",
-        "To set the Bank Rate",
-        "To determine probate"
-      ],
-      "a": 0,
-      "ex": "The threshold concept is examined to show scope rules. For this app, use it as UKFR background rather than mortgage-specific logic."
-    },
-    {
-      "id": "qdt-019",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "legal"
-      ],
-      "q": "Intestacy questions usually test what core idea?",
-      "opts": [
-        "How investment funds are priced",
-        "How an estate may be distributed when no valid will exists",
-        "How insurers set premiums",
-        "How the PRA sets capital rules"
-      ],
-      "a": 1,
-      "ex": "Intestacy is about what happens when a person dies without a valid will, including who may inherit under the rules."
-    },
-    {
-      "id": "qdt-020",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "tax"
-      ],
-      "q": "Why are residence and domicile important in CeMAP 1 tax questions?",
-      "opts": [
-        "They affect tax treatment",
-        "They decide complaint jurisdiction only",
-        "They set mortgage interest rates",
-        "They replace estate planning"
-      ],
-      "a": 0,
-      "ex": "Residence and domicile are tax-status concepts. They matter because tax exposure can vary depending on status and circumstances."
-    },
-    {
-      "id": "qdt-021",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "regulation",
-        "consumer-protection"
-      ],
-      "q": "Which Consumer Duty outcome is most closely linked to helping retail customers make effective, timely and informed decisions?",
-      "opts": [
-        "Consumer understanding",
-        "Consumer support",
-        "Products and services",
-        "Price and value"
-      ],
-      "a": 0,
-      "ex": "Consumer understanding is the outcome that focuses on communications supporting effective, timely and properly informed decisions."
-    },
-    {
-      "id": "qdt-022",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "regulation"
-      ],
-      "q": "If an unauthorised firm wants a financial promotion communicated lawfully, what is the key exam clue?",
-      "opts": [
-        "It only needs to look professional",
-        "It must be approved by an authorised person",
-        "It must mention the FSCS",
-        "It must avoid all product comparisons"
-      ],
-      "a": 1,
-      "ex": "A classic promotions point is that approval by an authorised person may be needed before communication by an unauthorised person."
-    },
-    {
-      "id": "qdt-023",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection",
-        "regulation"
-      ],
-      "q": "A customer complaint about a firm’s service is most closely associated with which route if unresolved internally?",
-      "opts": [
-        "PRA capital rules",
-        "FSCS deposit protection",
-        "Financial Ombudsman Service",
-        "Monetary Policy Committee"
-      ],
-      "a": 2,
-      "ex": "Service complaints and redress are linked with the Financial Ombudsman Service, not with prudential regulation or failure compensation."
-    },
-    {
-      "id": "qdt-024",
-      "sourceTag": "textbook-test",
-      "sourceLabel": "Textbook / extracted quick-check",
-      "kind": "adapted",
-      "tags": [
-        "consumer-protection"
-      ],
-      "q": "An employee who spots suspicious activity should normally do what first within the firm process?",
-      "opts": [
-        "Confront the client immediately",
-        "Use the internal AML reporting route to the MLRO",
-        "Send the file to the FSCS",
-        "Delete the records to avoid a breach"
-      ],
-      "a": 1,
-      "ex": "CeMAP rewards process discipline here: internal reporting and MLRO escalation, not improvisation."
-    },
     {
       "id": "ext-001",
       "sourceTag": "revision-guide",
@@ -6567,6 +5063,2251 @@ window.CEMAP1_DATA = {
       ],
       "a": 0,
       "ex": "Proximate cause focuses on the dominant effective cause of the loss when deciding policy response."
+    },
+    {
+      "id": "qdt-001",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Which FCA objective is most closely linked to protecting retail customers?",
+      "opts": [
+        "Safety and soundness",
+        "Consumer protection",
+        "Fiscal policy",
+        "Monetary policy"
+      ],
+      "a": 1,
+      "ex": "The FCA is primarily the conduct regulator, and consumer protection sits at the centre of its statutory objectives and wider rulebook."
+    },
+    {
+      "id": "qdt-002",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "regulation",
+        "consumer-protection"
+      ],
+      "q": "How many Consumer Duty outcomes are normally tested in current CeMAP 1 revision?",
+      "opts": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "ex": "The four outcomes are products and services, price and value, consumer understanding, and consumer support."
+    },
+    {
+      "id": "qdt-003",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Under SMCR, which document sets out what a senior manager is responsible for?",
+      "opts": [
+        "Compliance certificate",
+        "Statement of Responsibilities",
+        "Complaints register",
+        "Product governance plan"
+      ],
+      "a": 1,
+      "ex": "A Statement of Responsibilities is a core SMCR document and helps allocate accountability within a regulated firm."
+    },
+    {
+      "id": "qdt-004",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection",
+        "regulation"
+      ],
+      "q": "What is the key difference between FOS and FSCS?",
+      "opts": [
+        "FOS sets conduct rules; FSCS sets prudential rules",
+        "FOS resolves complaints; FSCS can pay compensation when firms fail",
+        "FOS only covers banks; FSCS only covers insurers",
+        "There is no difference"
+      ],
+      "a": 1,
+      "ex": "This distinction is a classic CeMAP memory point: complaint redress vs compensation after firm failure."
+    },
+    {
+      "id": "qdt-005",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Which statement best describes the FSCS deposit limit commonly tested in revision?",
+      "opts": [
+        "A protection limit applies per eligible person per authorised institution",
+        "Every investment is fully guaranteed",
+        "It applies only to mortgage balances",
+        "It covers market losses on shares"
+      ],
+      "a": 0,
+      "ex": "The key point is the structure of protection: per person, per authorised firm, within the relevant limits and scope."
+    },
+    {
+      "id": "qdt-006",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Under GDPR, what is the strongest general rule for advisers handling client data?",
+      "opts": [
+        "Use data however is commercially useful",
+        "Process personal data lawfully and securely",
+        "Keep data forever without review",
+        "Share data freely inside any group company"
+      ],
+      "a": 1,
+      "ex": "CeMAP focuses on lawful processing, appropriate security, and proper handling of personal data."
+    },
+    {
+      "id": "qdt-007",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "What does MLRO stand for?",
+      "opts": [
+        "Mortgage Lending Review Officer",
+        "Money Laundering Reporting Officer",
+        "Market Liquidity Reporting Office",
+        "Member Lending Resolution Officer"
+      ],
+      "a": 1,
+      "ex": "The MLRO oversees internal anti-money-laundering reporting and escalates suspicious matters appropriately."
+    },
+    {
+      "id": "qdt-008",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax"
+      ],
+      "q": "What is the personal allowance usually remembered as for 2024/25 CeMAP revision?",
+      "opts": [
+        "£10,570",
+        "£12,570",
+        "£14,570",
+        "£15,000"
+      ],
+      "a": 1,
+      "ex": "The usual revision anchor is the personal allowance figure and the fact that high income can taper it away."
+    },
+    {
+      "id": "qdt-009",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax"
+      ],
+      "q": "CGT is most closely associated with:",
+      "opts": [
+        "Income received from employment",
+        "Chargeable gains on disposal of assets",
+        "VAT on purchases",
+        "Insurance premiums"
+      ],
+      "a": 1,
+      "ex": "Capital Gains Tax applies to chargeable gains made on disposal, not ordinary income."
+    },
+    {
+      "id": "qdt-010",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax"
+      ],
+      "q": "Which tax is most closely associated with estates and transfers on death?",
+      "opts": [
+        "VAT",
+        "Corporation Tax",
+        "Inheritance Tax",
+        "Council Tax"
+      ],
+      "a": 2,
+      "ex": "Inheritance Tax is the main CeMAP estate tax topic and is often tested alongside nil-rate band concepts."
+    },
+    {
+      "id": "qdt-011",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax"
+      ],
+      "q": "Which tax is most directly linked to property purchases in England?",
+      "opts": [
+        "Capital Gains Tax",
+        "Insurance Premium Tax",
+        "Stamp Duty Land Tax",
+        "Income Tax"
+      ],
+      "a": 2,
+      "ex": "SDLT is the transaction tax commonly tested for property purchases in England."
+    },
+    {
+      "id": "qdt-012",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax",
+        "products"
+      ],
+      "q": "An ISA is best described as:",
+      "opts": [
+        "A type of equity",
+        "A tax wrapper",
+        "A government bond",
+        "A life assurance policy"
+      ],
+      "a": 1,
+      "ex": "CeMAP commonly tests the wrapper-vs-asset distinction. An ISA is the wrapper, not the underlying investment."
+    },
+    {
+      "id": "qdt-013",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "products",
+        "consumer-protection"
+      ],
+      "q": "Which option is least likely to carry FSCS protection against investment-style loss?",
+      "opts": [
+        "A bank deposit in scope",
+        "An eligible insurance contract in scope",
+        "Peer-to-peer lending performance",
+        "A protected cash account"
+      ],
+      "a": 2,
+      "ex": "P2P lending is a common revision warning because normal investment or borrower default risk is not turned into a blanket FSCS guarantee."
+    },
+    {
+      "id": "qdt-014",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "products"
+      ],
+      "q": "Critical illness cover is mainly designed to:",
+      "opts": [
+        "Provide a life-long pension income",
+        "Pay a lump sum on diagnosis of a specified serious condition",
+        "Repay all debts automatically",
+        "Cover normal GP visits"
+      ],
+      "a": 1,
+      "ex": "Critical illness cover is generally remembered as a lump-sum product triggered by specified serious illnesses."
+    },
+    {
+      "id": "qdt-015",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "products"
+      ],
+      "q": "What is the usual CeMAP memory hook for an annuity?",
+      "opts": [
+        "Tax-free capital growth only",
+        "Income while the annuitant remains alive",
+        "A high-liquidity cash wrapper",
+        "Guaranteed inheritance for children"
+      ],
+      "a": 1,
+      "ex": "An annuity is normally tested as a retirement-income product linked to life expectancy and option selection."
+    },
+    {
+      "id": "qdt-016",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "products"
+      ],
+      "q": "With-profits funds are often linked with which feature?",
+      "opts": [
+        "Purely fixed interest",
+        "Smoothing of returns",
+        "No investment risk",
+        "Daily dealing only"
+      ],
+      "a": 1,
+      "ex": "Smoothing is the standard memory cue used to describe the way with-profits bonuses are distributed over time."
+    },
+    {
+      "id": "qdt-017",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection",
+        "legal"
+      ],
+      "q": "Under the Consumer Insurance Act changes, what is the consumer mainly expected to do?",
+      "opts": [
+        "Volunteer every possible fact unprompted",
+        "Answer the insurer’s clear questions honestly",
+        "Draft the insurer’s underwriting policy",
+        "Guarantee the claim will be paid"
+      ],
+      "a": 1,
+      "ex": "The revision point is that consumers answer the questions asked, rather than carry the old duty to volunteer every material fact."
+    },
+    {
+      "id": "qdt-018",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "legal",
+        "consumer-protection"
+      ],
+      "q": "Why do older CeMAP materials mention a Consumer Credit Act threshold?",
+      "opts": [
+        "To separate certain consumer-credit agreements from other types of regulated borrowing",
+        "To calculate mortgage affordability",
+        "To set the Bank Rate",
+        "To determine probate"
+      ],
+      "a": 0,
+      "ex": "The threshold concept is examined to show scope rules. For this app, use it as UKFR background rather than mortgage-specific logic."
+    },
+    {
+      "id": "qdt-019",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "legal"
+      ],
+      "q": "Intestacy questions usually test what core idea?",
+      "opts": [
+        "How investment funds are priced",
+        "How an estate may be distributed when no valid will exists",
+        "How insurers set premiums",
+        "How the PRA sets capital rules"
+      ],
+      "a": 1,
+      "ex": "Intestacy is about what happens when a person dies without a valid will, including who may inherit under the rules."
+    },
+    {
+      "id": "qdt-020",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "tax"
+      ],
+      "q": "Why are residence and domicile important in CeMAP 1 tax questions?",
+      "opts": [
+        "They affect tax treatment",
+        "They decide complaint jurisdiction only",
+        "They set mortgage interest rates",
+        "They replace estate planning"
+      ],
+      "a": 0,
+      "ex": "Residence and domicile are tax-status concepts. They matter because tax exposure can vary depending on status and circumstances."
+    },
+    {
+      "id": "qdt-021",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "regulation",
+        "consumer-protection"
+      ],
+      "q": "Which Consumer Duty outcome is most closely linked to helping retail customers make effective, timely and informed decisions?",
+      "opts": [
+        "Consumer understanding",
+        "Consumer support",
+        "Products and services",
+        "Price and value"
+      ],
+      "a": 0,
+      "ex": "Consumer understanding is the outcome that focuses on communications supporting effective, timely and properly informed decisions."
+    },
+    {
+      "id": "qdt-022",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "regulation"
+      ],
+      "q": "If an unauthorised firm wants a financial promotion communicated lawfully, what is the key exam clue?",
+      "opts": [
+        "It only needs to look professional",
+        "It must be approved by an authorised person",
+        "It must mention the FSCS",
+        "It must avoid all product comparisons"
+      ],
+      "a": 1,
+      "ex": "A classic promotions point is that approval by an authorised person may be needed before communication by an unauthorised person."
+    },
+    {
+      "id": "qdt-023",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection",
+        "regulation"
+      ],
+      "q": "A customer complaint about a firm’s service is most closely associated with which route if unresolved internally?",
+      "opts": [
+        "PRA capital rules",
+        "FSCS deposit protection",
+        "Financial Ombudsman Service",
+        "Monetary Policy Committee"
+      ],
+      "a": 2,
+      "ex": "Service complaints and redress are linked with the Financial Ombudsman Service, not with prudential regulation or failure compensation."
+    },
+    {
+      "id": "qdt-024",
+      "sourceTag": "textbook-test",
+      "sourceLabel": "Textbook / extracted quick-check",
+      "kind": "adapted",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "An employee who spots suspicious activity should normally do what first within the firm process?",
+      "opts": [
+        "Confront the client immediately",
+        "Use the internal AML reporting route to the MLRO",
+        "Send the file to the FSCS",
+        "Delete the records to avoid a breach"
+      ],
+      "a": 1,
+      "ex": "CeMAP rewards process discipline here: internal reporting and MLRO escalation, not improvisation."
+    },
+    {
+      "id": "src-001",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "The main function of the financial services industry is to:",
+      "opts": [
+        "Regulate banks",
+        "Transfer funds between individuals, businesses and government",
+        "Issue government bonds",
+        "Set interest rates"
+      ],
+      "a": 1,
+      "ex": "The FS industry transfers funds between those with surplus capital and those who need it."
+    },
+    {
+      "id": "src-002",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "Which of the following is a retail banking institution?",
+      "opts": [
+        "Investment bank",
+        "Building society",
+        "Wholesale bank",
+        "Pension fund"
+      ],
+      "a": 1,
+      "ex": "Building societies are retail banks owned by members, focusing on private customers."
+    },
+    {
+      "id": "src-003",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "Peer-to-Peer lending is an example of:",
+      "opts": [
+        "Disintermediation",
+        "Intermediation",
+        "Bank intermediation",
+        "Wholesale banking"
+      ],
+      "a": 0,
+      "ex": "P2P bypasses traditional banks = disintermediation (direct lender-borrower connection)."
+    },
+    {
+      "id": "src-004",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "Credit unions are regulated by which body?",
+      "opts": [
+        "PRA",
+        "FCA",
+        "Bank of England",
+        "HMTreasury"
+      ],
+      "a": 1,
+      "ex": "Credit unions are regulated by the FCA under the Credit Unions Act 1979."
+    },
+    {
+      "id": "src-005",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "The Bank of England acts as Lender of Last Resort to:",
+      "opts": [
+        "Individual borrowers",
+        "Commercial banks",
+        "Retail customers",
+        "Government departments"
+      ],
+      "a": 1,
+      "ex": "BoE provides emergency liquidity to banks via the Discount Window Facility."
+    },
+    {
+      "id": "src-006",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "Which body sets the Bank of England base rate?",
+      "opts": [
+        "FCA",
+        "MPC (Monetary Policy Committee)",
+        "PRA",
+        "HM Treasury"
+      ],
+      "a": 1,
+      "ex": "The MPC meets 8 times/year to set Bank Rate for the UK's monetary policy."
+    },
+    {
+      "id": "src-007",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "The inflation target set by the UK government for the MPC is:",
+      "opts": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "a": 1,
+      "ex": "MPC targets 2% CPI inflation. If inflation deviates >1% from target, MPC must write to Chancellor."
+    },
+    {
+      "id": "src-008",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Government securities (Gilts) are traded in the:",
+      "opts": [
+        "Money market",
+        "Capital market",
+        "Retail market",
+        "Interbank market"
+      ],
+      "a": 1,
+      "ex": "Gilts are long-term government bonds traded in the capital market (FTSE)."
+    },
+    {
+      "id": "src-009",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "industry"
+      ],
+      "q": "Which of the following is NOT a money market instrument?",
+      "opts": [
+        "Treasury Bill",
+        "Commercial Paper",
+        "UK Government Gilt",
+        "Bank Deposit"
+      ],
+      "a": 2,
+      "ex": "Gilts are capital market instruments (long-term >1yr); Treasury Bills are money market."
+    },
+    {
+      "id": "src-010",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "A corporate bond with a fixed rate of interest paid semi-annually is called a:",
+      "opts": [
+        "Equity",
+        "Eurobond",
+        "Convertible bond",
+        "Index-linked gilt"
+      ],
+      "a": 1,
+      "ex": "Eurobonds are international bonds, often fixed-rate, issued outside the borrower's home country."
+    },
+    {
+      "id": "src-011",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "The main advantage of investing in equities is:",
+      "opts": [
+        "Guaranteed income",
+        "Capital growth potential",
+        "Low risk",
+        "Tax efficiency"
+      ],
+      "a": 1,
+      "ex": "Equities offer capital growth (and dividends) but carry higher risk than bonds."
+    },
+    {
+      "id": "src-012",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Commercial property is classified as what type of investment?",
+      "opts": [
+        "Cash",
+        "Bonds",
+        "Real estate",
+        "Collective investment"
+      ],
+      "a": 2,
+      "ex": "Residential and commercial property are direct real estate investments."
+    },
+    {
+      "id": "src-013",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products",
+        "tax"
+      ],
+      "q": "An ISA (Individual Savings Account) wrapper provides:",
+      "opts": [
+        "Higher returns than normal accounts",
+        "Tax-free returns",
+        "Government guarantee",
+        "Fixed interest rates"
+      ],
+      "a": 1,
+      "ex": "ISAs provide a tax-free environment for savings (Cash ISA) and investments (Stocks & Shares ISA)."
+    },
+    {
+      "id": "src-014",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products",
+        "tax"
+      ],
+      "q": "The annual ISA subscription limit for 2024/25 is:",
+      "opts": [
+        "£10,000",
+        "£15,000",
+        "£20,000",
+        "£25,000"
+      ],
+      "a": 2,
+      "ex": "The adult ISA subscription limit is £20,000 for 2024/25 (all types combined)."
+    },
+    {
+      "id": "src-015",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "A With-Profits endowment policy aims to:",
+      "opts": [
+        "Provide maximum returns immediately",
+        "Smooth returns via bonuses",
+        "Provide pure protection",
+        "Eliminate investment risk"
+      ],
+      "a": 1,
+      "ex": "With-profits policies smooth investment returns through regular and final bonuses."
+    },
+    {
+      "id": "src-016",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Unit-linked endowment policies are also known as:",
+      "opts": [
+        "With-profits",
+        "Non-profit",
+        "Investment-linked",
+        "Capital guaranteed"
+      ],
+      "a": 2,
+      "ex": "Unit-linked = value moves with underlying fund; charges are higher but potential returns greater."
+    },
+    {
+      "id": "src-017",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "The State Pension age in the UK is currently:",
+      "opts": [
+        "60 (women), 65 (men)",
+        "66 for both",
+        "67 for both",
+        "68 for both"
+      ],
+      "a": 2,
+      "ex": "State Pension age is 66 for both men and women (2020-2026), rising to 67 by 2028."
+    },
+    {
+      "id": "src-018",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "A critical illness policy pays out:",
+      "opts": [
+        "Monthly income on disability",
+        "A lump sum on diagnosis of a specified illness",
+        "Annuity payments",
+        "Death benefit only"
+      ],
+      "a": 1,
+      "ex": "Critical Illness Cover pays a lump sum on diagnosis of specified serious illness (e.g., cancer, heart attack)."
+    },
+    {
+      "id": "src-019",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "The FCA's primary operational objective is:",
+      "opts": [
+        "Maximum profit for banks",
+        "Market integrity + Consumer protection",
+        "Low interest rates",
+        "Economic growth"
+      ],
+      "a": 1,
+      "ex": "FCA has three operational objectives: Consumer Protection, Market Integrity, and Competition."
+    },
+    {
+      "id": "src-020",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "The PRA's primary objective is:",
+      "opts": [
+        "Consumer protection",
+        "Safety and soundness of firms",
+        "Competition in markets",
+        "Financial inclusion"
+      ],
+      "a": 1,
+      "ex": "PRA (Prudential Regulation Authority) focuses on safety and soundness of deposit-takers."
+    },
+    {
+      "id": "src-021",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "SMCR applies to:",
+      "opts": [
+        "All financial services firms",
+        "Banks only",
+        "Insurance companies only",
+        "Investment firms only"
+      ],
+      "a": 0,
+      "ex": "Senior Managers & Certification Regime applies to all FCA/PRA regulated firms."
+    },
+    {
+      "id": "src-022",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Under SMCR, a Senior Manager must have a:",
+      "opts": [
+        "Annual bonus",
+        "Statement of Responsibilities",
+        "FCA approval number",
+        "Professional indemnity insurance"
+      ],
+      "a": 1,
+      "ex": "Senior Managers must have a Statement of Responsibilities, approved by the FCA."
+    },
+    {
+      "id": "src-023",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "The Consumer Duty requires firms to act to deliver:",
+      "opts": [
+        "Maximum profits",
+        "Good outcomes for retail customers",
+        "Best execution only",
+        "Lowest costs always"
+      ],
+      "a": 1,
+      "ex": "Consumer Duty has 4 outcomes: Products & Services, Price & Value, Consumer Understanding, Consumer Support."
+    },
+    {
+      "id": "src-024",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "A financial promotion must be:",
+      "opts": [
+        "Approved by the FCA before publication",
+        "Clear, fair and not misleading",
+        "Written in legal jargon",
+        "Filed with Companies House"
+      ],
+      "a": 1,
+      "ex": "FSMA 2000 requires all financial promotions to be clear, fair and not misleading."
+    },
+    {
+      "id": "src-025",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "The FSCS deposit protection limit is:",
+      "opts": [
+        "£50,000",
+        "£75,000",
+        "£85,000",
+        "£100,000"
+      ],
+      "a": 2,
+      "ex": "FSCS protects deposits up to £85,000 per person per institution (from 2016)."
+    },
+    {
+      "id": "src-026",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "The FOS compensation limit for claims is:",
+      "opts": [
+        "£250,000",
+        "£350,000",
+        "£430,000",
+        "£500,000"
+      ],
+      "a": 2,
+      "ex": "FOS compensation limit is £430,000 (from April 2024) per upheld claim."
+    },
+    {
+      "id": "src-027",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "A vulnerability flag in a factfind indicates:",
+      "opts": [
+        "The client is fraudulent",
+        "The client may need additional support or protection",
+        "The advisor must reject the client",
+        "The case needs special pricing"
+      ],
+      "a": 1,
+      "ex": "Vulnerable clients (health, life events, financial difficulty) need additional care under Consumer Duty."
+    },
+    {
+      "id": "src-028",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "The Consumer Rights Act 2015 covers:",
+      "opts": [
+        "Financial services only",
+        "Goods, services and digital content",
+        "Mortgages only",
+        "Insurance only"
+      ],
+      "a": 1,
+      "ex": "Consumer Rights Act covers goods, services, and digital content — not financial services."
+    },
+    {
+      "id": "src-029",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "A regulated mortgage contract must be for:",
+      "opts": [
+        "Business purposes only",
+        "Purchase or redemption of land",
+        "Speculation only",
+        "Car finance only"
+      ],
+      "a": 1,
+      "ex": "A regulated mortgage (MCOB) requires: credit + land + borrower is an individual/trustee."
+    },
+    {
+      "id": "src-030",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "The Consumer Credit Act 1974 covers loans below:",
+      "opts": [
+        "£10,000",
+        "£25,000",
+        "£50,000",
+        "£100,000"
+      ],
+      "a": 1,
+      "ex": "CCA 1974 regulates consumer credit agreements below £25,000 (and all consumer hires)."
+    },
+    {
+      "id": "src-031",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products",
+        "tax"
+      ],
+      "q": "Class 2 National Insurance Contributions for self-employed were:",
+      "opts": [
+        "Still required at £3.45/week",
+        "Abolished from 2024/25",
+        "Set at £12.50/week",
+        "Voluntary only"
+      ],
+      "a": 1,
+      "ex": "Class 2 NICs abolished from 6 April 2024; self-employed still pay Class 4."
+    },
+    {
+      "id": "src-032",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "The CGT annual exempt amount for 2024/25 is:",
+      "opts": [
+        "£6,000",
+        "£10,300",
+        "£12,300",
+        "£15,000"
+      ],
+      "a": 2,
+      "ex": "CGT AEA is £12,300 for 2024/25 (basic rate taxpayer; lower for higher rate)."
+    },
+    {
+      "id": "src-033",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "The IHT nil-rate band is:",
+      "opts": [
+        "£125,000",
+        "£250,000",
+        "£325,000",
+        "£500,000"
+      ],
+      "a": 2,
+      "ex": "IHT nil-rate band is £325,000; above this, rate is 40% (25% on certain trusts)."
+    },
+    {
+      "id": "src-034",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "Inheritance Tax is charged at 40% on the value of an estate above the:",
+      "opts": [
+        "Annual exempt amount",
+        "Nil-rate band",
+        "Available nil-rate band",
+        "Residence nil-rate band"
+      ],
+      "a": 1,
+      "ex": "IHT at 40% applies to estate value above the nil-rate band of £325,000."
+    },
+    {
+      "id": "src-035",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "The SDLT first-time buyer relief raises the threshold to:",
+      "opts": [
+        "£300,000",
+        "£425,000",
+        "£500,000",
+        "£625,000"
+      ],
+      "a": 1,
+      "ex": "FTB relief: no SDLT on first £425,000 (max £625,000 property), 5% on £425k-£625k."
+    },
+    {
+      "id": "src-036",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products",
+        "tax"
+      ],
+      "q": "Capital Gains Tax on residential property is now charged at:",
+      "opts": [
+        "18% and 28%",
+        "20% and 28%",
+        "24%",
+        "10% and 20%"
+      ],
+      "a": 0,
+      "ex": "Residential property CGT: 18% (basic) and 28% (higher/additional rate) from 2024/25."
+    },
+    {
+      "id": "src-037",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Annuities provide:",
+      "opts": [
+        "A guaranteed lump sum",
+        "Income for a set term or lifetime",
+        "Capital growth",
+        "Tax-free withdrawals"
+      ],
+      "a": 1,
+      "ex": "An annuity pays income for life or a set term; once purchased, most are irrevocable."
+    },
+    {
+      "id": "src-038",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "A relevant life assurance policy is:",
+      "opts": [
+        "A personal policy",
+        "A business policy paying to the employer",
+        "A state benefit",
+        "A pension contribution"
+      ],
+      "a": 1,
+      "ex": "Relevant Life Assurance is a death-in-service benefit paid to the employer (then to dependants)."
+    },
+    {
+      "id": "src-039",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Which is NOT a vulnerable client indicator?",
+      "opts": [
+        "Health conditions affecting finances",
+        "Recent bereavement",
+        "Stable employment",
+        "Cognitive decline"
+      ],
+      "a": 2,
+      "ex": "Stable employment is generally positive; vulnerability flags include health, life events, financial stress."
+    },
+    {
+      "id": "src-040",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "GDPR requires data breaches to be reported to ICO within:",
+      "opts": [
+        "24 hours",
+        "48 hours",
+        "72 hours",
+        "7 days"
+      ],
+      "a": 2,
+      "ex": "GDPR: report to ICO within 72 hours of becoming aware of a personal data breach."
+    },
+    {
+      "id": "src-041",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "GDPR maximum fine is the greater of:",
+      "opts": [
+        "£500,000 or 1% global turnover",
+        "£10m or 2% global turnover",
+        "£17.5m or 4% global turnover",
+        "£1m or 0.5% global turnover"
+      ],
+      "a": 2,
+      "ex": "GDPR Tier 2: up to £17.5m or 4% of total annual worldwide turnover."
+    },
+    {
+      "id": "src-042",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "FCA的兩個法定目標是什麼？",
+      "opts": [
+        "Market integrity + Consumer protection",
+        "Price stability + Economic growth",
+        "Safety + Soundness",
+        "Competition + Innovation"
+      ],
+      "a": 0,
+      "ex": "<strong>答案：Market integrity + Consumer protection</strong><br>FCA法定目標：①市場誠信 ②消費者保護。PRA目標才是Safety and soundness。 [From RG MCQ]"
+    },
+    {
+      "id": "src-043",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Consumer Duty包含多少個 Outcomes？",
+      "opts": [
+        "2個",
+        "3個",
+        "4個",
+        "5個"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：4個 Outcomes</strong><br>Consumer Duty（2023年7月生效）4個outcomes：①Products & Services ②Price & Value ③Consumer Understanding ④Consumer Support。 [From RG MCQ]"
+    },
+    {
+      "id": "src-044",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "regulation"
+      ],
+      "q": "SMCR中，Senior Managers需要準備什麼文件？",
+      "opts": [
+        "Compliance statement",
+        "Statement of Responsibilities",
+        "Conduct rules certification",
+        "Regulatory business plan"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：Statement of Responsibilities</strong><br>Senior Managers必須有Statement of Responsibilities，明確列出負責的監管職能。 [From RG MCQ]"
+    },
+    {
+      "id": "src-045",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "FOS對金融投訴的最高補償限額是多少？",
+      "opts": [
+        "£150,000",
+        "£350,000",
+        "£430,000",
+        "£500,000"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：£430,000（2024年4月起）</strong><br>FOS最高補償上限£430,000。FSCS存款保障上限£85,000。 [From RG MCQ]"
+    },
+    {
+      "id": "src-046",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "FSCS存款保障計劃的上限是多少？",
+      "opts": [
+        "£50,000",
+        "£75,000",
+        "£85,000",
+        "£100,000"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：£85,000 per person</strong><br>FSCS對存款保障上限£85,000 per person（每個金融機構）。 [From RG MCQ]"
+    },
+    {
+      "id": "src-047",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "GDPR最高罰款是多少？",
+      "opts": [
+        "£5 million",
+        "£10 million",
+        "£17.5 million or 4% 全球營業額",
+        "£50 million"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：£17.5 million 或 4% 全球營業額（以較高者為準）</strong><br>GDPR兩級罰款：最高級£17.5m/4%營業額；較低級£8.7m/2%營業額。 [From RG MCQ]"
+    },
+    {
+      "id": "src-048",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "POCA 2002中，MLRO的職責是什麼？",
+      "opts": [
+        "Marketing compliance",
+        "Money Laundering Reporting Officer（洗黑錢舉報主任）",
+        "Mortgages product layout",
+        "Regulatory capital management"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：Money Laundering Reporting Officer（MLRO）</strong><br>POCA 2002要求任命MLRO，負責監督反洗黑錢合規、接收內部SAR、向外匯報可疑交易。 [From RG MCQ]"
+    },
+    {
+      "id": "src-049",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "2024/25 Income Tax Personal Allowance 是多少？",
+      "opts": [
+        "£10,570",
+        "£12,570",
+        "£14,570",
+        "£12,500"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：£12,570</strong><br>2024/25年度Personal Allowance為£12,570。收入超過£100,000，PA按每£2收入減少£1遞減。 [From RG MCQ]"
+    },
+    {
+      "id": "src-050",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "CGT Annual Exempt Amount 是多少？",
+      "opts": [
+        "£6,000",
+        "£12,300",
+        "£24,600",
+        "£3,000"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：£12,300</strong><br>CGT年度免稅額£12,300（2024/25）。基本稅率納稅人18%，高薪納稅人28%。 [From RG MCQ]"
+    },
+    {
+      "id": "src-051",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "IHT Nil-Rate Band 是多少？",
+      "opts": [
+        "£162,500",
+        "£250,000",
+        "£325,000",
+        "£500,000"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：£325,000</strong><br>IHT零稅率帶£325,000。超過部分40%稅率。Residence Nil-Rate Band額外£175,000。 [From RG MCQ]"
+    },
+    {
+      "id": "src-052",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "tax"
+      ],
+      "q": "SDLT首置免稅額是多少？",
+      "opts": [
+        "£125,000",
+        "£250,000",
+        "£425,000",
+        "£500,000"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：£250,000</strong><br>首置買家SDLT免稅額£250,000（房產價值£425,000以下部分）。 [From RG MCQ]"
+    },
+    {
+      "id": "src-053",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products",
+        "tax"
+      ],
+      "q": "2024/25 ISA 訂閱上限是多少？",
+      "opts": [
+        "£15,000",
+        "£17,000",
+        "£20,000",
+        "£25,000"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：£20,000</strong><br>2024/25年度ISA訂閱上限£20,000。Cash ISA/Stocks & Shares ISA/Innovative Finance ISA可自由分配。 [From RG MCQ]"
+    },
+    {
+      "id": "src-054",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "以下哪種產品不受 FSCS 保障？",
+      "opts": [
+        "銀行存款",
+        "政府債券",
+        "P2P借貸",
+        "人壽保險"
+      ],
+      "a": 2,
+      "ex": "<strong>答案：P2P借貸</strong><br>P2P借貸不受FSCS保障。銀行存款受£85,000保障，政府債券由政府擔保。 [From RG MCQ]"
+    },
+    {
+      "id": "src-055",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Critical Illness Cover 的主要特點是？",
+      "opts": [
+        "每月支付固定金額直到死亡",
+        "確診指定疾病即時支付一筆過款項",
+        "支付醫療費用實報實銷",
+        "只保障意外死亡"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：確診指定疾病即時支付一筆過款項</strong><br>Critical Illness Cover確診指定嚴重疾病時一次性支付款項。建議以Trust形式寫入。 [From RG MCQ]"
+    },
+    {
+      "id": "src-056",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "Annuity（年金）的主要特點是？",
+      "opts": [
+        "永久支付直到投保人死亡",
+        "支付固定年期",
+        "可隨時提取",
+        "投資性質為主"
+      ],
+      "a": 0,
+      "ex": "<strong>答案：永久支付直到投保人死亡</strong><br>Annuity在投保人生存期間支付，死亡後停止（除非有保證期）。 [From RG MCQ]"
+    },
+    {
+      "id": "src-057",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "products"
+      ],
+      "q": "With-Profits Endowment 的紅利分配方式是？",
+      "opts": [
+        "固定利率",
+        "平滑回報（smoothing）",
+        "每年遞增",
+        "與通脹掛鉤"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：平滑回報（smoothing）</strong><br>With-Profits Endowment通過平滑機制分配紅利，減少回報波動。 [From RG MCQ]"
+    },
+    {
+      "id": "src-058",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Consumer Insurance Act 2012的主要改變是？",
+      "opts": [
+        "強制所有保險使用標準表格",
+        "消費者只需回答被問及的問題",
+        "所有保費必須公開",
+        "保險投訴時效延長至3年"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：消費者只需回答被問及的問題</strong><br>Consumer Insurance Act 2012改變了披露責任：消費者只需如實回答被問及的問題。 [From RG MCQ]"
+    },
+    {
+      "id": "src-059",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "Consumer Credit Act 1974監管的信貸協議是？",
+      "opts": [
+        "所有公司借貸",
+        "非公司借款人 + 信用額低於 £25,000",
+        "所有住宅按揭",
+        "所有商業貸款"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：非公司借款人 + 信用額低於 £25,000</strong><br>CCA 1974監管：借款人是個人 + 信用額低於£25,000。住宅按揭受FSMA + MCOB監管。 [From RG MCQ]"
+    },
+    {
+      "id": "src-060",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "Consumer Credit Act 1974監管的信貸協議門檻是？",
+      "opts": [
+        "£10,000",
+        "£25,000",
+        "£50,000",
+        "£100,000"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：£25,000</strong><br>CCA 1974監管信用額低於£25,000的非公司借款人信貸協議。 [From RG MCQ]"
+    },
+    {
+      "id": "src-061",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "source-derived",
+      "tags": [
+        "legal"
+      ],
+      "q": "Intestacy（無遺囑）下，配偶優先繼承權是多少？",
+      "opts": [
+        "全部遺產",
+        "第一 £250,000 + 一半剩餘",
+        "一半遺產",
+        "£125,000"
+      ],
+      "a": 1,
+      "ex": "<strong>答案：第一 £250,000 + 一半剩餘</strong><br>配偶優先：第一£250,000遺產 + 剩餘財產的一半。另一半由子女均分。 [From RG MCQ]"
+    },
+    {
+      "id": "src-062",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "Which rule comes into effect when it could be inferred that an independent intermediary has a vested interest in a product being sold?",
+      "opts": [
+        "Best advice.",
+        "Reason why.",
+        "Better than best advice.",
+        "Know your customer."
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q62."
+    },
+    {
+      "id": "src-063",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "258  Who would be most likely to be affected by the ‘best execution’ rule?",
+      "opts": [
+        "Stockbrokers.",
+        "Independent intermediaries.",
+        "Company representatives.",
+        "Tied agents  2024/2025  \fSpecimen Exam"
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q63."
+    },
+    {
+      "id": "src-064",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "The frequency of compliance visits by the FCA' s officers to a particular firm depends on the:",
+      "opts": [
+        "A number of approved individuals employed by the firm.",
+        "size of the firm, measured by its gross income.",
+        "type of firm.",
+        "regulator's risk assessment of the firm."
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q64."
+    },
+    {
+      "id": "src-065",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "As a restricted adviser, you find that your clients need a product that your company cannot provide. To ensure that our clients are best served you",
+      "opts": [
+        "Refer them to a tied agent of a company who have the right product",
+        "Offer the best alternative product you have in your product range",
+        "Refer them to an independent adviser",
+        "Refer them to a tied representative providing you have a formal referral agreement"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q65."
+    },
+    {
+      "id": "src-066",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "James works as an IFA for Hedge Advisers and is managed by Julie. Hedge is a member of Hybrid, an IFA network. Who has to accept ultimate responsibility for James’s authorisation?",
+      "opts": [
+        "James",
+        "Julie",
+        "Hybrid",
+        "Hedge Advisers"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q66."
+    },
+    {
+      "id": "src-067",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "2024/2025  In which document will a retail client find a written explanation of advice and the possible benefits and disadvantages of entering into a transaction?",
+      "opts": [
+        "A cancellation notice.",
+        "A client agreement.",
+        "A key features document.",
+        "A suitability report.  259  \fCeMAP 1 Revision Guide"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q67."
+    },
+    {
+      "id": "src-068",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "When advising customers, a restricted single tied adviser must",
+      "opts": [
+        "only provide information on products from a panel of providers.",
+        "only provide advice on the products of the provider she represents.",
+        "provide advice on all products, but can only sell the products of the company she represents.",
+        "provide advice on and sell all products from the marketplace."
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q68."
+    },
+    {
+      "id": "src-069",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Under the Financial Services Act Cancellation Rules, if a cancellation notice is completed and returned within 14 days the client of; regular premium unit-linked life policy is entitled to;",
+      "opts": [
+        "The bid value of units",
+        "The offer price, less any shortfall between the investment and cancellation dates",
+        "A full refund of premiums",
+        "Nothing"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q69."
+    },
+    {
+      "id": "src-070",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "An execution-only sale is one where",
+      "opts": [
+        "The adviser has to deal in investment at a price that is no worse than the best available for the size of deal",
+        "The client requests advice in a specific investment are and instructs the adviser to select the best product in that area",
+        "The adviser recommends the best policy available, but the client requests that no information on this circumstances is documented",
+        "The client requests a specific product, and no advice is requested or received"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q70."
+    },
+    {
+      "id": "src-071",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "A large firm of advisers is required to have all of the following EXCEPT?",
+      "opts": [
+        "Complaints officer",
+        "Training & Competence Scheme Officer",
+        "Compliance officer",
+        "Money Laundering Reporting Officer"
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q71."
+    },
+    {
+      "id": "src-072",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "260  Which of the following is NOT correct in respect of client money",
+      "opts": [
+        "Is must be held in a separate bank account",
+        "It must be held at an approved bank",
+        "It must be held on trust for the client",
+        "It must be in the name of the firm but include “trust account” in the title  2024/2025  \fSpecimen Exam"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q72."
+    },
+    {
+      "id": "src-073",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "“Better than best advice” must be given when",
+      "opts": [
+        "A restricted adviser recommends a product of one company over another",
+        "Independent intermediaries recommend a product with which they are a ‘connected person.’",
+        "A tied agent introduces a client to an independent financial advisor",
+        "An independent intermediary recommends an insurer which has good investment performance but poor administration"
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q73."
+    },
+    {
+      "id": "src-074",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "The requirement that an investment adviser should not unreasonably churn a customer’s investment or unnecessarily switch a customer’s policies is",
+      "opts": [
+        "One of the FCA’s statements of principle",
+        "One of the FCA’s conduct of business rules",
+        "An ethical principle with no standing in law",
+        "A professional code of practice"
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q74."
+    },
+    {
+      "id": "src-075",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Which one of the following criteria is not one that must be satisfied by an advertisement in order to comply with the Financial Conduct Authority's guidelines on advertising?",
+      "opts": [
+        "It must be fair and not misleading.",
+        "It must be authorised by the Financial Conduct Authority.",
+        "It must be tailored to the likely level of sophistication of the reader.",
+        "It must clearly state the tax position in respect of contributions and benefits."
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q75."
+    },
+    {
+      "id": "src-076",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "2024/2025  An appointed representative gives bad financial advice to a customer as a result of which she suffers loss. To complain, she should approach in the first instance",
+      "opts": [
+        "The company to whom the appointed representative is tied",
+        "The Financial Services Compensation Scheme",
+        "The Treasury",
+        "The FCA  261  \fCeMAP 1 Revision Guide"
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q76."
+    },
+    {
+      "id": "src-077",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "The Financial Services Compensation Scheme is available to investors who",
+      "opts": [
+        "Have suffered financial loss through adverse movement in market prices",
+        "Have suffered loss from an authorised firm which has ceased business or is likely to do so",
+        "Have suffered loss due to receiving bad advice from an unauthorised firm",
+        "Have received bad advice from an authorised adviser who has no professional indemnity insurance"
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q77."
+    },
+    {
+      "id": "src-078",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Marcus is a financial adviser with an IFA firm. Why is he NOT required to undertake a programme of Continuing Professional Development (CPD)?",
+      "opts": [
+        "The firm has nine or less designated individuals.",
+        "The firm is the IFA arm of a building society.",
+        "He has yet to attain competent status.",
+        "He only advises on corporate products."
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q78."
+    },
+    {
+      "id": "src-079",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Which of the following complaint related statements is NOT true?",
+      "opts": [
+        "Copies should be kept on file of all investment complaint correspondence.",
+        "Telephone complaints are more serious than written complaints.",
+        "Complaints must be acknowledged immediately, dealt with promptly and recorded.",
+        "The complaints record is examined as part of compliance visits."
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q79."
+    },
+    {
+      "id": "src-080",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "262  How are the costs of the Financial Services Compensation Scheme funded?",
+      "opts": [
+        "A levy on authorised firms.",
+        "By contingency insurance arrangements.",
+        "By direct funding from the Treasury.",
+        "By levying a fixed charge on every policy issued.  2024/2025  \fSpecimen Exam"
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q80."
+    },
+    {
+      "id": "src-081",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "A client has invested £50,000 in the Insecure Bank Ltd, which is now become unable to meet its liabilities. What is the maximum he would receive from the deposit fund of the Financial Services Compensation Scheme?",
+      "opts": [
+        "£31,700",
+        "£33,000",
+        "£50,000",
+        "£85,000"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q81."
+    },
+    {
+      "id": "src-082",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Which of the following could NOT be used to demonstrate an appropriate level of an adviser’s generic knowledge?",
+      "opts": [
+        "The CeFA qualification",
+        "The CF qualification",
+        "A CPD log",
+        "CeMAP 1"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q82."
+    },
+    {
+      "id": "src-083",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Under the Money Laundering regulations, it is an offence to:",
+      "opts": [
+        "Accept any investment business without proof of identity.",
+        "Make a malicious report on a suspect.",
+        "Tip-off a suspect that an investigation is being held.",
+        "Appoint a money laundering officer with a criminal record."
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q83."
+    },
+    {
+      "id": "src-084",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "Under the Money Laundering regulations, where a member of staff suspects a client of money laundering he/she",
+      "opts": [
+        "Must immediately suspend activities on the client's account.",
+        "Cannot take any action until firm evidence is received.",
+        "Is obliged to investigate the matter further.",
+        "Has a legal obligation to report the details."
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q84."
+    },
+    {
+      "id": "src-085",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "2024/2025  The money laundering regulations require all life offices to put in place a money laundering",
+      "opts": [
+        "Telephone helpline.",
+        "Training programme.",
+        "Indemnity scheme.",
+        "Investigations department.  263  \fCeMAP 1 Revision Guide"
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q85."
+    },
+    {
+      "id": "src-086",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "In pointing out the merits of an investment he is recommending, a salesperson must",
+      "opts": [
+        "Explain every detail of the product he recommends",
+        "Merely highlight the benefits of his proposal and how they meet his client’s needs",
+        "Show how the benefits meet the client’s needs but also make sure the client understands the product",
+        "Gloss over the less attractive elements of the product to his client"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q86."
+    },
+    {
+      "id": "src-087",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Jane is arranging a loan secured on her residential property, post-October 2004, but which is not subject to Financial Conduct Authority regulation. This is because:",
+      "opts": [
+        "The loan is a business Buy to Let.",
+        "The loan is for a purpose other than house purchase.",
+        "The security for the loan is a second charge.",
+        "The term of the loan is less than ten years."
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q87."
+    },
+    {
+      "id": "src-088",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "To whom must the compliance manual be available for inspection?",
+      "opts": [
+        "All employees.",
+        "All employed representatives only.",
+        "All employed and self-employed representatives only.",
+        "All employees and representatives."
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q88."
+    },
+    {
+      "id": "src-089",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "If you work for an insurance company and give bad financial advice to Mrs Telford, as a result of which she suffers loss, she should approach in the first instance the:",
+      "opts": [
+        "Company that employs you.",
+        "Investors Compensation Scheme.",
+        "Insurance Ombudsman.",
+        "Trading Standards Office."
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q89."
+    },
+    {
+      "id": "src-090",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "264  Under the Proceeds of Crime Act 2002, where money laundering is suspected, disclosure must be made either to the firm’s Money Laundering Reporting Officer or to the",
+      "opts": [
+        "Department for Business Innovation & Skills.",
+        "Joint Money Laundering Steering Group.",
+        "National Crime Agency.",
+        "Treasury Select Committee  2024/2025  \fSpecimen Exam"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q90."
+    },
+    {
+      "id": "src-091",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "Mortgage 4 U Ltd has found that their primary method of obtaining new business is NOT permitted under Financial Conduct Authority regulation. This means that they must have been using which of the following methods?",
+      "opts": [
+        "TV Advertising.",
+        "Cold calling.",
+        "Mortgage Introducers.",
+        "Radio Advertising."
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q91."
+    },
+    {
+      "id": "src-092",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "products"
+      ],
+      "q": "Sam has received a personalised key facts illustration containing more elements than usual relating to the specific nature of the product and its additional risks. What type of mortgage product must she be arranging?",
+      "opts": [
+        "A lifetime mortgage.",
+        "A cash-back mortgage",
+        "A re-mortgage.",
+        "A further advance."
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q92."
+    },
+    {
+      "id": "src-093",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "When is a Council Tax bill acceptable as a valid proof of address?",
+      "opts": [
+        "If it is accompanied by proof of payment.",
+        "If it is signed and dated by a current council officer.",
+        "It is always acceptable.",
+        "If it is valid for the current tax year"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q93."
+    },
+    {
+      "id": "src-094",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "consumer-protection"
+      ],
+      "q": "The Financial Ombudsman Service",
+      "opts": [
+        "Has replaced the Pensions Ombudsman",
+        "Has replaced the Insurance Ombudsman",
+        "Can make awards binding on authorised firms without limits",
+        "Can make awards binding on the complainant"
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q94."
+    },
+    {
+      "id": "src-095",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "2024/2025  On what basis must an IFA report, to their regulator, detail all sums of money received from clients?",
+      "opts": [
+        "Daily",
+        "Monthly",
+        "Annually",
+        "Every 5 years  265  \fCeMAP 1 Revision Guide"
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q95."
+    },
+    {
+      "id": "src-096",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "legal"
+      ],
+      "q": "In relation to the Data Protection Act 1998, which one of the following is INCORRECT?",
+      "opts": [
+        "It requires anyone holding computerised data on individuals to be registered.",
+        "It gives individuals the right of access to data relating to them.",
+        "It applies only to records held on computer.",
+        "It requires anyone holding data to have a data protection policy."
+      ],
+      "a": 2,
+      "ex": "Correct answer: C. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q96."
+    },
+    {
+      "id": "src-097",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "legal"
+      ],
+      "q": "In addition to the names and addresses of all data controllers who have registered, what other information is included in the Register of Data Controllers?",
+      "opts": [
+        "Broad details of the data they process in terms of type, purpose and the people to whom they want to give information.",
+        "Specific details of the data they process in terms of names, National Insurance numbers and dates of birth.",
+        "Broad details of the data they process on individuals’ credit rating and other personal details.",
+        "Specific details of data they process on individuals’ tax liabilities and bank deposit accounts held."
+      ],
+      "a": 0,
+      "ex": "Correct answer: A. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q97."
+    },
+    {
+      "id": "src-098",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "legal"
+      ],
+      "q": "266  Which ONE of the following contracts would be subject to the provisions of the Unfair Terms in Consumer Contracts Regulations 1999?",
+      "opts": [
+        "A contract between two businesses for the supply of gas piping.",
+        "A contract for the sale of a house between a private seller and private buyer.",
+        "An individually negotiated contract for the sale of a fitted kitchen.",
+        "A standard service contract between an electrical company and a consumer.  2024/2025  \fSpecimen Exam"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q98."
+    },
+    {
+      "id": "src-099",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "advice-process"
+      ],
+      "q": "Kevin has approached Colin to discuss pensions following a referral from Kevin's client Darren. Colin asks who suggested that he might be interested in pensions. What should Kevin do?",
+      "opts": [
+        "Decline to answer as he has been requested not to divulge Darren's name",
+        "Give Darren's name having obtained his permission at the outset to do so.",
+        "Give Darren's name and explain briefly the nature of Darren's business with the company.",
+        "State that he must first obtain the clients permission to reveal his name."
+      ],
+      "a": 1,
+      "ex": "Correct answer: B. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q99."
+    },
+    {
+      "id": "src-100",
+      "sourceTag": "revision-guide",
+      "sourceLabel": "Revision guide / extracted study bank",
+      "kind": "mcq",
+      "tags": [
+        "regulation"
+      ],
+      "q": "2024/2025  What is 'better than best' advice?",
+      "opts": [
+        "Advice which shows a product to be better than any other.",
+        "Advice for which an adviser shares his remuneration,",
+        "A recommendation by a tied agent that a client should consult an IFA.",
+        "Extra careful advice arising from a conflict of interest.  267  \fCeMAP 1 Revision Guide  Answers"
+      ],
+      "a": 3,
+      "ex": "Correct answer: D. CeMAP 1 Revision Guide 2024/2025 Specimen Exam Q100."
     }
   ],
   "studyModes": {
