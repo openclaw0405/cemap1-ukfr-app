@@ -793,6 +793,10 @@ function setActiveTab(tab, options = {}) {
     btn.classList.toggle('on', on);
     btn.classList.toggle('alt', !on);
   });
+  // Sync bottom nav active state (mobile)
+  document.querySelectorAll('.bnav-item').forEach(b => {
+    b.classList.toggle('active', b.dataset.tab === tab);
+  });
   document.querySelectorAll('.section').forEach(sec => sec.classList.toggle('on', sec.id === tab));
   updateHash();
   renderAll();
@@ -820,6 +824,11 @@ function escapeHtml(str) {
 }
 
 document.querySelectorAll('.tabbtn').forEach(btn => {
+  btn.addEventListener('click', () => setActiveTab(btn.dataset.tab));
+});
+
+// Wire bottom navigation (mobile)
+document.querySelectorAll('.bnav-item').forEach(btn => {
   btn.addEventListener('click', () => setActiveTab(btn.dataset.tab));
 });
 
