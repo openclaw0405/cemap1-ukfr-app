@@ -32,7 +32,7 @@ window.CEMAP1_DATA = {
         "industry"
       ],
       "hours": "75-90 mins",
-      "summary": "Start with how the UK financial-services industry moves money, the role of institutions, and the Bank of England backdrop.",
+      "summary": "How the UK financial services industry channels money from savers to borrowers, and the key institutions involved.",
       "learn": [
         "Learn the industry as a flow of funds from savers to borrowers and wider users of capital.",
         "Know the difference between retail institutions, wholesale markets, mutuals and proprietary firms.",
@@ -110,13 +110,13 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "F = Funds (surplus to deficit); L = Lenders/institutions; O = Official policy (BoE/MPC); W = Wider economy",
+        "BoE lender of last resort = EMERGENCY funding only — NOT normal business lending",
+        "Money market <1yr; Capital market = gilts, bonds, equities (longer-term)",
         "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Credit unions: reserve = £50,000 or 5% assets whichever greater + common bond",
+        "MPC: 9 members, 8 meetings/year, Bank Rate = inflation target 2%±1%",
+        "Four transformations: GAPS (Geographic, Aggregation, Maturity, Risk)"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -126,11 +126,9 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
+        "BoE = Bank Rate/MPC + Lender of last resort + Reserves",
         "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Money market <1yr; Capital market >1yr"
       ],
       "jumpTargets": {
         "prevDay": null,
@@ -138,7 +136,38 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "industry"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Retail banking",
+          "Personal customers — current accounts, mortgages, loans"
+        ],
+        [
+          "Wholesale banking",
+          "Other FIs and large corporates — interbank, corporate finance"
+        ],
+        [
+          "Money market",
+          "Short-term <1yr — Treasury bills, interbank, commercial paper"
+        ],
+        [
+          "Capital market",
+          "Longer-term — gilts, corporate bonds, equities"
+        ],
+        [
+          "Mutual",
+          "Owned by members (savers/borrowers/policyholders)"
+        ],
+        [
+          "Proprietary",
+          "Owned by shareholders (PLC, banks)"
+        ]
+      ],
+      "memoryAids": [
+        "FLOW = Funds → Lenders → Official policy → Wider economy",
+        "BoE roles: BLoR = Bank Rate + Lender of last resort + Reserves",
+        "GAPS for transformations: Geographic, Aggregation, Maturity, Risk"
+      ]
     },
     {
       "day": 2,
@@ -224,13 +253,12 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Monetary policy = BoE/Bank Rate/inflation control",
+        "Fiscal policy = Government tax/spending decisions",
+        "Bank Rate target = 2% inflation ±1% (CPI)",
+        "BoE must explain to Chancellor if inflation strays >1% from target",
+        "Lower Bank Rate = stimulates economy = higher inflation risk",
+        "EU Regulation = directly applicable; Directive = implementation varies"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -240,11 +268,8 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Monetary = BoE/Bank Rate; Fiscal = Government tax/spending",
+        "Inflation target 2%±1% (CPI); 9 MPC members, 8 meetings/year"
       ],
       "jumpTargets": {
         "prevDay": 1,
@@ -252,7 +277,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "industry"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Monetary policy",
+          "BoE/Bank Rate — controls money supply and interest rates"
+        ],
+        [
+          "Fiscal policy",
+          "Government tax/spending — affects aggregate demand"
+        ],
+        [
+          "EU Regulation",
+          "Directly applicable — binding in entirety"
+        ],
+        [
+          "EU Directive",
+          "Binding as to outcome — implementation varies"
+        ]
+      ],
+      "memoryAids": [
+        "Monetary = BoE/MPC/Bank Rate; Fiscal = Government tax/spending",
+        "BoE explains deviations to Chancellor if CPI strays >1% from 2%"
+      ]
     },
     {
       "day": 3,
@@ -343,14 +390,12 @@ window.CEMAP1_DATA = {
         "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k",
-        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
-        "ISA transfers between providers don't count toward annual limit",
-        "Personal allowance vs marriage allowance vs blind person's allowance"
+        "UK residence: 183+ days in tax year OR sole UK place OR 365+ day work contract",
+        "Domicile: country of permanent home — UK domicile = IHT on worldwide assets",
+        "Personal Allowance = £12,570; reduces £1 per £2 above £100k; gone at £125,140+",
+        "Basic rate 20% (£12,571-£50,270); Higher 40% (£50,271-£125,140); Additional 45% >£125,140",
+        "Savings Allowance: Basic £1,000; Higher £500; Additional £0",
+        "Dividend Allowance: £500 tax-free; then 8.75%/33.75%/39.35%"
       ],
       "commonMistakes": [
         "Dividend rules ≠ savings rules — keep completely separate",
@@ -361,11 +406,8 @@ window.CEMAP1_DATA = {
         "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k"
+        "PA = £12,570; reduces above £100k; gone at £125,140+",
+        "Residence = 183 days rule; Domicile = IHT on worldwide assets (UK domicile)"
       ],
       "jumpTargets": {
         "prevDay": 2,
@@ -373,7 +415,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "tax"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Residence",
+          "Physical presence in UK — 183-day rule — affects Income Tax, CGT"
+        ],
+        [
+          "Domicile",
+          "Permanent home country — affects IHT on worldwide assets"
+        ],
+        [
+          "Arising basis",
+          "Taxed when income/gains arise — regardless of where received"
+        ],
+        [
+          "Remittance basis",
+          "Taxed only when remitted to UK — non-doms only"
+        ]
+      ],
+      "memoryAids": [
+        "183 days = UK resident; Domicile = IHT scope: UK domicile = worldwide IHT",
+        "PA reduction: £100k+ = lose £1 in £2 until gone at £125,140"
+      ]
     },
     {
       "day": 4,
@@ -455,14 +519,12 @@ window.CEMAP1_DATA = {
         "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k",
-        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
-        "ISA transfers between providers don't count toward annual limit",
-        "Personal allowance vs marriage allowance vs blind person's allowance"
+        "Tax year: 6 April to 5 April",
+        "Self-assessment deadlines: 31 January (online return + payment); 31 October (paper return)",
+        "Taxable income = Gross - Reliefs - Allowances",
+        "PA = £12,570; marriage allowance transfer = £1,260; blind person's = £2,870",
+        "Child Benefit charge: income £60k-£80k = gradual reduction; £80k+ = all lost",
+        "Tax avoidance = legal but aggressive; Tax evasion = illegal"
       ],
       "commonMistakes": [
         "Dividend rules ≠ savings rules — keep completely separate",
@@ -473,11 +535,8 @@ window.CEMAP1_DATA = {
         "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k"
+        "PA = £12,570; tax year 6 April to 5 April",
+        "Self-assessment: 31 Jan (online/payment), 31 Oct (paper)"
       ],
       "jumpTargets": {
         "prevDay": 3,
@@ -485,7 +544,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "tax"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Tax avoidance",
+          "Legal but aggressive — HMRC may challenge"
+        ],
+        [
+          "Tax evasion",
+          "Illegal — criminal offence"
+        ],
+        [
+          "PAYE",
+          "Employer deducts tax at source"
+        ],
+        [
+          "Self-assessment",
+          "Individual files return — for complex affairs"
+        ]
+      ],
+      "memoryAids": [
+        "Self-assessment: 31 Jan = online + payment; 31 Oct = paper return",
+        "Child Benefit charge: £60k+ starts losing, £80k+ all gone"
+      ]
     },
     {
       "day": 5,
@@ -576,14 +657,12 @@ window.CEMAP1_DATA = {
         "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k",
-        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
-        "ISA transfers between providers don't count toward annual limit",
-        "Personal allowance vs marriage allowance vs blind person's allowance"
+        "CGT annual exempt = £3,000; chattels exempt if ≤£6,000",
+        "IHT NRB = £325,000; taper 3-4=32%, 4-5=16%, 5-6=8%, 6-7=0%; excess taxed at 40%",
+        "IHT exemptions: £3,000 annual + previous year; wedding £5k/£2.5k/£1k",
+        "SDLT: 0%/5%/10%/12% bands (residential); FTB: 0% £425k, 5% £425-625k",
+        "Corporation Tax: 25% standard; 19% small profits <£50k; marginal relief £50k-£250k",
+        "CGT rates: 10%/20% (other assets); 18%/24% (residential property)"
       ],
       "commonMistakes": [
         "Dividend rules ≠ savings rules — keep completely separate",
@@ -594,11 +673,9 @@ window.CEMAP1_DATA = {
         "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k"
+        "CGT exempt = £3,000/year; Chattels ≤£6,000 exempt",
+        "IHT NRB = £325,000; taper 3-4=32%, 4-5=16%, 5-6=8%, 6-7=0%",
+        "SDLT: 0/5/10/12% (resi); FTB: 0/5% on £425k/£625k"
       ],
       "jumpTargets": {
         "prevDay": 4,
@@ -606,7 +683,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "tax"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "CGT on other assets",
+          "Basic rate 10%, Higher/Additional 20%"
+        ],
+        [
+          "CGT on residential property",
+          "Basic rate 18%, Higher/Additional 24%"
+        ],
+        [
+          "IHT taper relief",
+          "3-4yr=32%, 4-5=16%, 5-6=8%, 6-7=0% of excess"
+        ],
+        [
+          "SDLT residential",
+          "0%/5%/10%/12% based on price bands"
+        ]
+      ],
+      "memoryAids": [
+        "IHT taper: \"4321\" percentages = 32%, 16%, 8%, 0%",
+        "SDLT bands: 250k/925k/1.5m — remember the middle thresholds"
+      ]
     },
     {
       "day": 6,
@@ -698,16 +797,12 @@ window.CEMAP1_DATA = {
         "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
-        "Income protection = monthly income, deferred period, until recovery/retirement",
-        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
-        "DC = contributions+returns = fund value; DB = final salary × service fraction",
-        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
-        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
+        "Cash: low risk, FSCS £85,000, liquid BUT inflation erodes real value",
+        "Gilts: UK government bonds = low risk, stable capital at maturity, income from coupon",
+        "Corporate bonds: higher yield than gilts = higher risk (risk/reward)",
+        "Equities: ownership, no guaranteed dividend, LAST in insolvency queue",
+        "Direct equity = high risk, hard to diversify",
+        "Bond price ↑ when interest rates ↓ (inverse relationship)"
       ],
       "commonMistakes": [
         "Critical illness = lump sum for specified conditions (not monthly income)",
@@ -719,11 +814,8 @@ window.CEMAP1_DATA = {
         "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
+        "Gilts = low risk government bonds; Corporate bonds = higher yield = higher risk",
+        "Equities: ownership, no guaranteed dividend, last in insolvency"
       ],
       "jumpTargets": {
         "prevDay": 5,
@@ -731,7 +823,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "products"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Cash/deposits",
+          "Low risk, FSCS protected, liquid, inflation risk"
+        ],
+        [
+          "Gilts",
+          "UK government = very low risk, stable income, capital stable at maturity"
+        ],
+        [
+          "Corporate bonds",
+          "Higher yield than gilts = higher company default risk"
+        ],
+        [
+          "Equities",
+          "Ownership shares, high risk, no guaranteed dividend, last in insolvency"
+        ]
+      ],
+      "memoryAids": [
+        "Bonds = loans (debt); Equities = ownership",
+        "When interest rates rise, bond prices fall; when rates fall, bond prices rise"
+      ]
     },
     {
       "day": 7,
@@ -830,16 +944,12 @@ window.CEMAP1_DATA = {
         "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
-        "Income protection = monthly income, deferred period, until recovery/retirement",
-        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
-        "DC = contributions+returns = fund value; DB = final salary × service fraction",
-        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
-        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
+        "Unit trust: trust/open-ended/bid-offer spread; OEIC: company/single price/no bid-offer",
+        "Investment trust: closed-ended company/fixed shares/can gear/trades at premium or discount",
+        "ISA = WRAPPER not asset class — changes tax treatment, NOT risk",
+        "ISA limits 2024/25: Adult £20,000; Junior £9,000; Lifetime £4,000 + 25% bonus",
+        "ISA transfers between providers don't count toward annual limit",
+        "Tracker funds: passive, low cost, matches index; Active funds: higher cost, aims to beat market"
       ],
       "commonMistakes": [
         "Critical illness = lump sum for specified conditions (not monthly income)",
@@ -851,11 +961,8 @@ window.CEMAP1_DATA = {
         "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
+        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price",
+        "ISA limits: Adult £20k, Junior £9k, Lifetime £4k + 25% bonus"
       ],
       "jumpTargets": {
         "prevDay": 6,
@@ -864,7 +971,33 @@ window.CEMAP1_DATA = {
           "products",
           "tax"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Unit trust",
+          "Trust structure, open-ended, bid-offer spread, FCA diversification rules"
+        ],
+        [
+          "OEIC",
+          "Company structure, single price, no bid-offer spread"
+        ],
+        [
+          "Investment trust",
+          "Closed-ended company, fixed shares, can gear, premium/discount to NAV"
+        ],
+        [
+          "Active management",
+          "Manager chooses investments to beat benchmark; higher charges"
+        ],
+        [
+          "Passive/tracker",
+          "Matches index; lower charges"
+        ]
+      ],
+      "memoryAids": [
+        "ISA = WRAPPER = tax-efficient container; doesn't change investment risk",
+        "OEIC = single price (One price)"
+      ]
     },
     {
       "day": 8,
@@ -959,16 +1092,12 @@ window.CEMAP1_DATA = {
         "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
+        "Term = fixed period; Whole of life = lifetime; level/decreasing = payout amount type",
+        "Critical illness = lump sum for SPECIFIED conditions only — not income",
         "Income protection = monthly income, deferred period, until recovery/retirement",
-        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
-        "DC = contributions+returns = fund value; DB = final salary × service fraction",
-        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
-        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
+        "MPPI/ASU = mortgage payments only, short-term (12-24 months)",
+        "Buildings = structure (rebuild cost); Contents = belongings (replace as new)",
+        "Family income benefit = monthly income to dependents (not lump sum)"
       ],
       "commonMistakes": [
         "Critical illness = lump sum for specified conditions (not monthly income)",
@@ -980,11 +1109,8 @@ window.CEMAP1_DATA = {
         "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
+        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum specified conditions",
+        "Income protection = monthly income until recovery; MPPI = mortgage payments only"
       ],
       "jumpTargets": {
         "prevDay": 7,
@@ -992,7 +1118,32 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "products"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Term assurance",
+          "Fixed period, lump sum on death within term, no investment"
+        ],
+        [
+          "Whole of life",
+          "Lifetime cover, guaranteed sum + bonuses, more expensive"
+        ],
+        [
+          "Critical illness",
+          "Lump sum, specified conditions only, not income replacement"
+        ],
+        [
+          "Income protection",
+          "Monthly income, deferred period, until recovery/retirement"
+        ],
+        [
+          "MPPI",
+          "Mortgage payments only, short-term (12-24 months)"
+        ]
+      ],
+      "memoryAids": [
+        "Critical illness = lump sum DIAGNOSIS of specified conditions; Income protection = monthly INCOME when unable to work"
+      ]
     },
     {
       "day": 9,
@@ -1093,16 +1244,12 @@ window.CEMAP1_DATA = {
         "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
-        "Income protection = monthly income, deferred period, until recovery/retirement",
-        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
-        "DC = contributions+returns = fund value; DB = final salary × service fraction",
-        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
-        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
+        "DC = contributions + returns = fund value (no guaranteed income); DB = final salary × service (guaranteed income)",
+        "State pension age: 66 (rising to 67 by 2028). 35 years NI contributions for full rate.",
+        "Auto-enrolment: 22 to SPA, £10k+ earnings, minimum 8% total (employer 3% + employee 5% + 1% tax relief = 9%)",
+        "Annuity: lifetime = pays life only (die early = bad); fixed term = pays for period (die early = good)",
+        "Tax-free cash = 25% of pension fund; remaining 75% taxed as income",
+        "Annual allowance = £60,000; can carry forward previous 3 years unused"
       ],
       "commonMistakes": [
         "Critical illness = lump sum for specified conditions (not monthly income)",
@@ -1114,11 +1261,7 @@ window.CEMAP1_DATA = {
         "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
+        "DC = contributions+returns; DB = final salary × service; Auto-enrolment 22-SPA £10k+ 8%"
       ],
       "jumpTargets": {
         "prevDay": 8,
@@ -1126,7 +1269,28 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "products"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "DC pension",
+          "Contributions + returns = fund value; no guaranteed income; employee risk"
+        ],
+        [
+          "DB pension",
+          "Final salary × service = guaranteed income; employer risk"
+        ],
+        [
+          "Lifetime annuity",
+          "Pays for life only; die early = poor value"
+        ],
+        [
+          "Fixed term annuity",
+          "Pays for set period; die early = good value for heirs"
+        ]
+      ],
+      "memoryAids": [
+        "DC = Defined Contribution = fund value at retirement = YOUR risk; DB = Defined Benefit = guaranteed income = EMPLOYER risk"
+      ]
     },
     {
       "day": 10,
@@ -1227,16 +1391,13 @@ window.CEMAP1_DATA = {
         "Annuity: converts pension fund to retirement income. Lifetime annuity: pays for life only — die early = poor value. Fixed term annuity: pays for set period — die early = good value (payments continue to heirs)."
       ],
       "mustKnow": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only",
-        "Income protection = monthly income, deferred period, until recovery/retirement",
-        "MPPI = mortgage payments only, short-term; Buildings = structure; Contents = belongings",
-        "DC = contributions+returns = fund value; DB = final salary × service fraction",
-        "Auto-enrolment: 22-SPA, £10k+, 3%+5%+1%=9% total minimum",
-        "ISA limits: Adult £20,000; Junior £9,000; Lifetime £4,000"
+        "Insurable interest: must exist at policy inception (life/health insurance)",
+        "Indemnity: cannot profit from loss; sum insured = actual value",
+        "Contribution: two policies = proportionate share each",
+        "Subrogation: insurer can pursue third party after paying claim",
+        "Proximate cause: dominant cause determines if claim paid",
+        "Average clause: underinsurance = proportionate claim reduction",
+        "MPPI: mortgage payments only, 12-24 months, short-term"
       ],
       "commonMistakes": [
         "Critical illness = lump sum for specified conditions (not monthly income)",
@@ -1248,11 +1409,7 @@ window.CEMAP1_DATA = {
         "Assuming low starting payments = affordable long-term commitment"
       ],
       "examSprint": [
-        "Corporate bonds: higher yield than gilts because risk is higher",
-        "Equities: ownership, no guaranteed dividend, LAST in insolvency",
-        "Unit trust: trust/open-ended/bid-offer; OEIC: company/single price; Investment trust: company/closed/can gear",
-        "ISA = WRAPPER not asset class — changes tax treatment, not risk",
-        "Term = fixed period; Whole of life = lifetime; Critical illness = lump sum SPECIFIED conditions only"
+        "Insurable interest: at inception; Indemnity: no profit; Contribution: shared; Subrogation: insurer pursues"
       ],
       "jumpTargets": {
         "prevDay": 9,
@@ -1260,7 +1417,28 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "products"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Insurable interest",
+          "Must exist at policy inception"
+        ],
+        [
+          "Indemnity",
+          "Cannot profit from loss"
+        ],
+        [
+          "Contribution",
+          "Two policies = proportionate share"
+        ],
+        [
+          "Subrogation",
+          "Insurer steps into your shoes after paying claim"
+        ]
+      ],
+      "memoryAids": [
+        "Indemnity = can't profit; Contribution = shared claim; Subrogation = insurer steps into your shoes"
+      ]
     },
     {
       "day": 11,
@@ -1349,14 +1527,12 @@ window.CEMAP1_DATA = {
         "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
+        "Factfind FIRST — never recommend before understanding client needs",
+        "ATR = willingness (subjective); CFL = financial ability (objective)",
+        "ATR and CFL must be assessed SEPARATELY — they can conflict",
         "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market",
-        "Ongoing reviews: circumstances/products/suitability all change over time",
-        "Vulnerable: adapt process, don't assume incapacity",
-        "CPD = 35 hours/year minimum for SPS holders"
+        "Execution-only: client chooses, no suitability needed",
+        "Restricted = tied/multi-tied products; Independent = whole of market"
       ],
       "commonMistakes": [
         "Recommending before factfind is complete",
@@ -1367,11 +1543,7 @@ window.CEMAP1_DATA = {
         "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
-        "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market"
+        "Factfind first; ATR and CFL SEPARATE; Suitability report after personal recommendation"
       ],
       "jumpTargets": {
         "prevDay": 10,
@@ -1379,7 +1551,32 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "advice-process"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Suitability",
+          "Personal recommendation = full factfind + written suitability report"
+        ],
+        [
+          "Appropriateness",
+          "Non-advised sale of complex products = basic knowledge assessment"
+        ],
+        [
+          "Execution-only",
+          "Client chooses without advice, no suitability needed"
+        ],
+        [
+          "Independent",
+          "Whole of market, unbiased recommendation"
+        ],
+        [
+          "Restricted",
+          "Limited to certain products/providers (tied/multi-tied)"
+        ]
+      ],
+      "memoryAids": [
+        "Factfind = BEFORE recommendation; ATR = willingness; CFL = ability to absorb loss"
+      ]
     },
     {
       "day": 12,
@@ -1469,14 +1666,11 @@ window.CEMAP1_DATA = {
         "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
-        "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market",
-        "Ongoing reviews: circumstances/products/suitability all change over time",
-        "Vulnerable: adapt process, don't assume incapacity",
-        "CPD = 35 hours/year minimum for SPS holders"
+        "Suitability: personal recommendation = factfind + written suitability report",
+        "ATR = willingness to take risk (subjective); CFL = ability to absorb loss (objective)",
+        "When ATR/CFL conflict: follow more conservative, document reasoning",
+        "Ongoing reviews: circumstances/products/markets all change",
+        "Vulnerability: adapt process, don't assume incapacity"
       ],
       "commonMistakes": [
         "Recommending before factfind is complete",
@@ -1487,11 +1681,7 @@ window.CEMAP1_DATA = {
         "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
-        "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market"
+        "ATR and CFL SEPARATE; Reviews because circumstances change; Vulnerability ≠ incapacity"
       ],
       "jumpTargets": {
         "prevDay": 11,
@@ -1499,7 +1689,28 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "advice-process"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "ATR",
+          "Willingness to take risk (subjective, client's view)"
+        ],
+        [
+          "CFL",
+          "Financial ability to absorb loss (objective assessment)"
+        ],
+        [
+          "Ongoing review",
+          "Circumstances change — income, family, objectives, products"
+        ],
+        [
+          "Vulnerable client",
+          "May need adapted process — not automatically lacking capacity"
+        ]
+      ],
+      "memoryAids": [
+        "ATR = how much VOLATILITY can you sleep with; CFL = how much LOSS can you afford"
+      ]
     },
     {
       "day": 13,
@@ -1586,14 +1797,11 @@ window.CEMAP1_DATA = {
         "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
+        "Will = directs estate distribution on death; must be signed + 2 witnesses (witnesses cannot benefit)",
         "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially",
-        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
-        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
-        "TPA 1999: third party can enforce contract term that specifically benefits them"
+        "Joint tenancy: ROS, cannot leave share by will; Tenants in common: defined share, CAN leave by will",
+        "Executor = named in will; Probate = proving will validity; PR = administers estate",
+        "Spouse intestacy: personal belongings + £322,000 + half of rest"
       ],
       "commonMistakes": [
         "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
@@ -1603,11 +1811,7 @@ window.CEMAP1_DATA = {
         "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially"
+        "Will needs 2 witnesses who cannot benefit; Joint tenancy ROS; Intestacy priority: spouse→children→parents→siblings→Crown"
       ],
       "jumpTargets": {
         "prevDay": 12,
@@ -1615,7 +1819,28 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "legal"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Joint tenancy",
+          "ROS, whole property to survivor, cannot leave share by will"
+        ],
+        [
+          "Tenants in common",
+          "Defined shares, each share CAN be left by will"
+        ],
+        [
+          "Executor",
+          "Named in will to administer estate"
+        ],
+        [
+          "Administrator",
+          "Court-appointed when intestate (no valid will)"
+        ]
+      ],
+      "memoryAids": [
+        "Joint tenancy: ROS = one dies, other automatically gets it; Tenants in common: share can be WILLed"
+      ]
     },
     {
       "day": 14,
@@ -1693,14 +1918,12 @@ window.CEMAP1_DATA = {
         "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
-        "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially",
-        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
-        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
-        "TPA 1999: third party can enforce contract term that specifically benefits them"
+        "LPA Health&Welfare: ONLY when LACKS capacity; LPA Property&Financial: can use while capable",
+        "LPA must be registered with OPG before use",
+        "EPA: old-style, property/financial only, can still be used if created pre-Oct 2007",
+        "Apparent authority: principal leads third party to believe agent has authority",
+        "Trustee: holds trust assets for beneficiaries, must follow trust terms, act impartially",
+        "PR = executor (named in will) or administrator (intestacy court appointment)"
       ],
       "commonMistakes": [
         "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
@@ -1710,11 +1933,7 @@ window.CEMAP1_DATA = {
         "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially"
+        "LPA H&W only when lacks capacity; Apparent authority can bind principal; Trustee holds for beneficiaries"
       ],
       "jumpTargets": {
         "prevDay": 13,
@@ -1722,7 +1941,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "legal"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "LPA Health&Welfare",
+          "Welfare decisions, ONLY when donor lacks capacity"
+        ],
+        [
+          "LPA Property&Financial",
+          "Property/finances, CAN use while donor capable"
+        ],
+        [
+          "Actual authority",
+          "Explicitly agreed between principal and agent"
+        ],
+        [
+          "Apparent authority",
+          "Principal leads third party to believe agent has authority"
+        ]
+      ],
+      "memoryAids": [
+        "LPA H&W = only when INCAPABLE; LPA P&F = can use while CAPABLE",
+        "EPA = Enduring = old-style, pre-Oct 2007"
+      ]
     },
     {
       "day": 15,
@@ -1800,14 +2041,11 @@ window.CEMAP1_DATA = {
         "Unfair Terms in Consumer Contracts 1999: applies to consumer contracts. Term unfair if = significant imbalance in parties' rights to consumer's detriment. Does NOT apply to core terms defining price/subject matter."
       ],
       "mustKnow": [
-        "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially",
-        "Unfair Terms: unfair if significant imbalance to consumer's detriment",
-        "PR (executor/admin): collects assets, pays debts/tax, distributes to beneficiaries",
-        "TPA 1999: third party can enforce contract term that specifically benefits them"
+        "Scope = check if rule applies BEFORE answering details",
+        "Bankruptcy: assets realised, distributed to creditors, usually 12-month discharge",
+        "IVA: agreement with creditors, 5-6 years, alternative to bankruptcy",
+        "DRO: low income/few assets, debt <£30,000, 12-month write off",
+        "Unfair Terms: unfair if significant imbalance to consumer's detriment; doesn't cover core terms"
       ],
       "commonMistakes": [
         "Confusing who has authority to act (attorney/PR) with who benefits (beneficiary)",
@@ -1817,11 +2055,7 @@ window.CEMAP1_DATA = {
         "A true legal statement can still be wrong answer if it addresses wrong issue"
       ],
       "examSprint": [
-        "Intestacy = dying without valid will — detailed priority order applies",
-        "Joint tenancy: ROS, cannot will share; Tenants in common: defined share, CAN will",
-        "LPA Health&Welfare: only when LACKS capacity; LPA Property&Financial: can use while capable",
-        "Apparent authority: principal leads third party to reasonably believe agent has authority",
-        "Trustee: holds trust assets, must follow trust terms, act impartially"
+        "Bankruptcy/IVA/DRO all write off debts; scope = check if rule applies first"
       ],
       "jumpTargets": {
         "prevDay": 14,
@@ -1830,7 +2064,24 @@ window.CEMAP1_DATA = {
           "legal",
           "consumer-protection"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Bankruptcy",
+          "Formal process, assets sold, distributed to creditors, usually 12-month discharge"
+        ],
+        [
+          "IVA",
+          "Agreement to pay creditors over 5-6 years, avoids bankruptcy"
+        ],
+        [
+          "DRO",
+          "Low income/few assets, debt <£30k, 12-month write off"
+        ]
+      ],
+      "memoryAids": [
+        "Scope = CHECK if rule applies before diving into detail"
+      ]
     },
     {
       "day": 16,
@@ -1929,16 +2180,12 @@ window.CEMAP1_DATA = {
         "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included",
-        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
-        "Suitability: personal recommendation = factfind + suitability report",
-        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
-        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
-        "MCOB: regulated mortgages need suitability + adequate explanation"
+        "FCA strategic: market integrity + consumer protection; operational: consumer protection + competition",
+        "PRA objective: safety and soundness (prudential supervision)",
+        "FCA = conduct + consumer outcomes; PRA = prudential safety",
+        "Authorisation = permission needed before carrying on regulated activities",
+        "Regulated activities = accepting deposits, insurance, dealing, managing, advising, arranging",
+        "Dual regulation: FCA + PRA both regulate insurers, large banks, credit unions"
       ],
       "commonMistakes": [
         "FOS and FSCS are NOT regulators — FCA/PRA are",
@@ -1949,11 +2196,7 @@ window.CEMAP1_DATA = {
         "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included"
+        "FCA = conduct/consumer; PRA = prudential; FOS = complaints; FSCS = firm failure compensation"
       ],
       "jumpTargets": {
         "prevDay": 15,
@@ -1961,7 +2204,25 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "regulation"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "FCA",
+          "Conduct, consumer protection, market integrity, competition"
+        ],
+        [
+          "PRA",
+          "Prudential safety and soundness of firms"
+        ],
+        [
+          "FCA + PRA",
+          "Dual regulation: FCA conduct + PRA prudential for some firms"
+        ]
+      ],
+      "memoryAids": [
+        "FCA = conduct/consumer protection; PRA = prudential/safety",
+        "FOS = complaints; FSCS = failure compensation; neither is a regulator"
+      ]
     },
     {
       "day": 17,
@@ -2066,16 +2327,10 @@ window.CEMAP1_DATA = {
         "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
+        "Consumer Duty 4 outcomes: products/services, price/value, understanding, support (PPUS)",
         "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included",
-        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
-        "Suitability: personal recommendation = factfind + suitability report",
-        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
-        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
-        "MCOB: regulated mortgages need suitability + adequate explanation"
+        "SMCR: senior manager accountability + Statement of Responsibilities",
+        "FCA can take action against individuals PERSONALLY under SMCR"
       ],
       "commonMistakes": [
         "FOS and FSCS are NOT regulators — FCA/PRA are",
@@ -2086,11 +2341,7 @@ window.CEMAP1_DATA = {
         "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included"
+        "Consumer Duty 4 outcomes; SMCR accountability; PRIN 11 Principles"
       ],
       "jumpTargets": {
         "prevDay": 16,
@@ -2098,7 +2349,29 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "regulation"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Consumer Duty products/services",
+          "Fit for purpose, meet stated needs"
+        ],
+        [
+          "Consumer Duty price/value",
+          "Fair value for costs charged"
+        ],
+        [
+          "Consumer Duty understanding",
+          "Clear, fair, not misleading communications"
+        ],
+        [
+          "Consumer Duty support",
+          "Adequate support when needed"
+        ]
+      ],
+      "memoryAids": [
+        "Consumer Duty: PPUS = Products, Price, Understanding, Support",
+        "SMCR = senior managers MUST have Statement of Responsibilities"
+      ]
     },
     {
       "day": 18,
@@ -2195,15 +2468,10 @@ window.CEMAP1_DATA = {
         "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included",
+        "Financial promotion: must be clear, fair, not misleading; social media included",
         "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
         "Suitability: personal recommendation = factfind + suitability report",
-        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
-        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
+        "Appropriateness: non-advised complex product = basic knowledge assessment",
         "MCOB: regulated mortgages need suitability + adequate explanation"
       ],
       "commonMistakes": [
@@ -2215,11 +2483,7 @@ window.CEMAP1_DATA = {
         "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included"
+        "Financial promotion: clear, fair, not misleading; Best execution = best result; Suitability vs appropriateness"
       ],
       "jumpTargets": {
         "prevDay": 17,
@@ -2228,7 +2492,25 @@ window.CEMAP1_DATA = {
           "regulation",
           "consumer-protection"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Suitability",
+          "Personal recommendation = full factfind + written suitability report"
+        ],
+        [
+          "Appropriateness",
+          "Non-advised complex product = basic knowledge assessment"
+        ],
+        [
+          "Best execution",
+          "Best RESULT considering price, costs, speed, likelihood..."
+        ]
+      ],
+      "memoryAids": [
+        "Best execution = best RESULT not best PRICE",
+        "Suitability = advice (full); Appropriateness = non-advised (basic)"
+      ]
     },
     {
       "day": 19,
@@ -2327,16 +2609,10 @@ window.CEMAP1_DATA = {
         "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
-        "MLRO: ML reporting officer; receives SARs, reports to NCA",
-        "Tipping off = criminal offence — don't alert suspect to investigation",
-        "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
-        "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
-        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
-        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
+        "FOS: complaints, max £430,000 (Apr 2024), binding on firm if complainant accepts",
+        "FOS eligible: private individuals, small businesses (<£6.5m turnover, <50 staff)",
+        "FSCS: firm failure, £85,000 deposits/investments, 100% life/pensions",
+        "FSCS is NOT complaints — FOS handles complaints; FSCS handles failure compensation"
       ],
       "commonMistakes": [
         "FSCS handles firm failure compensation — NOT complaints (FOS does)",
@@ -2347,11 +2623,7 @@ window.CEMAP1_DATA = {
         "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
-        "MLRO: ML reporting officer; receives SARs, reports to NCA"
+        "FOS: complaints, £430k max; FSCS: failure, £85k deposits; Both NOT regulators"
       ],
       "jumpTargets": {
         "prevDay": 18,
@@ -2359,7 +2631,20 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "consumer-protection"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "FOS",
+          "Complaints resolution, up to £430,000, NOT a regulator"
+        ],
+        [
+          "FSCS",
+          "Firm failure compensation, £85,000 deposits/investments, NOT complaints"
+        ]
+      ],
+      "memoryAids": [
+        "FOS = complaints (F for complaints); FSCS = failure compensation (S for Solvency)"
+      ]
     },
     {
       "day": 20,
@@ -2455,16 +2740,10 @@ window.CEMAP1_DATA = {
         "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
-        "MLRO: ML reporting officer; receives SARs, reports to NCA",
-        "Tipping off = criminal offence — don't alert suspect to investigation",
-        "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
-        "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
-        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
-        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
+        "Vulnerability: can be cognitive, physical, health, life events, financial stress",
+        "Vulnerable ≠ lacking capacity — most have full legal capacity, just need adapted service",
+        "Mental Capacity Act 2005: two-stage test for genuine lack of capacity",
+        "Adapt process for vulnerable: slower pace, clear language, written confirmation"
       ],
       "commonMistakes": [
         "FSCS handles firm failure compensation — NOT complaints (FOS does)",
@@ -2475,11 +2754,7 @@ window.CEMAP1_DATA = {
         "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
-        "MLRO: ML reporting officer; receives SARs, reports to NCA"
+        "Vulnerability can be temporary or permanent; adapt service; Mental Capacity Act two-stage test"
       ],
       "jumpTargets": {
         "prevDay": 19,
@@ -2488,7 +2763,20 @@ window.CEMAP1_DATA = {
           "consumer-protection",
           "advice-process"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "Vulnerability",
+          "May need adapted process — not automatic incapacity"
+        ],
+        [
+          "Mental capacity",
+          "Legal ability to make specific decision at specific time"
+        ]
+      ],
+      "memoryAids": [
+        "Vulnerability ≠ incapacity — adapt process, don't assume can't decide"
+      ]
     },
     {
       "day": 21,
@@ -2593,16 +2881,12 @@ window.CEMAP1_DATA = {
         "ADR (Alternative Dispute Resolution): FOS is an ADR body. Dispute resolution via adjudication, not conciliation. Adjudicator's decision binding on firm if consumer accepts."
       ],
       "mustKnow": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
+        "AML: CDD all clients, EDD high-risk (PEP, high-risk countries), SARs to MLRO → NCA",
         "MLRO: ML reporting officer; receives SARs, reports to NCA",
         "Tipping off = criminal offence — don't alert suspect to investigation",
         "POCA: concealing/arranging/acquiring/possessing/using/converting/transferring criminal property",
         "UK GDPR: 72-hour breach notification to ICO; lawful basis required",
-        "Consumer Rights Act: goods satisfactory/fitness/described; services reasonable care/skill",
-        "FOS = ADR body; adjudication not conciliation; binding on firm if consumer accepts"
+        "SAR (Subject Access Request): individual can request all data held; 1 month to respond"
       ],
       "commonMistakes": [
         "FSCS handles firm failure compensation — NOT complaints (FOS does)",
@@ -2613,11 +2897,7 @@ window.CEMAP1_DATA = {
         "Assuming FSCS covers all financial losses (specific limits per category)"
       ],
       "examSprint": [
-        "FSCS: £85,000 deposits/investments; 100% life/pensions; varies for mortgage",
-        "Complaints: firm first (5d ack, 15d/8wk response), then FOS",
-        "Vulnerability: identify AND adapt — not just incapacity",
-        "AML: CDD all clients, EDD high-risk, SARs to MLRO → NCA",
-        "MLRO: ML reporting officer; receives SARs, reports to NCA"
+        "CDD all clients; EDD high-risk; Tipping off = crime; 72-hour ICO breach notification; SAR (Subject Access) = individual data request"
       ],
       "jumpTargets": {
         "prevDay": 20,
@@ -2625,7 +2905,25 @@ window.CEMAP1_DATA = {
         "focusTags": [
           "consumer-protection"
         ]
-      }
+      },
+      "comparePairs": [
+        [
+          "CDD",
+          "Customer Due Diligence — verify identity and address on all clients"
+        ],
+        [
+          "EDD",
+          "Enhanced Due Diligence — high-risk clients (PEP, high-risk countries)"
+        ],
+        [
+          "SAR to NCA",
+          "Suspicious Activity Report to National Crime Agency via MLRO"
+        ]
+      ],
+      "memoryAids": [
+        "AML: CDD → EDD if high-risk → SAR to MLRO → NCA",
+        "Tipping off = TELLING suspect = CRIME"
+      ]
     },
     {
       "day": 22,
@@ -2642,7 +2940,7 @@ window.CEMAP1_DATA = {
         "consumer-protection"
       ],
       "hours": "60 mins",
-      "summary": "Use a mixed paper to find out what is still shaky before the final run-in.",
+      "summary": "Classification speed is key: identify topic BEFORE reading all options deeply.",
       "learn": [
         "Classify the question first.",
         "Use compare-pairs when torn between two answers."
@@ -2720,13 +3018,12 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Industry = flow of funds, institutions, BoE, monetary policy",
+        "Tax = specific numbers, bands, exemptions, classifications",
+        "Products = purpose, risk, liquidity, suitability",
+        "Legal = authority, ownership, scope",
+        "Regulation = body roles, conduct rules, permissions",
+        "Consumer protection = complaints, compensation, AML, data, vulnerability"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -2736,11 +3033,7 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "If industry: flow of funds, BoE/MPC; If tax: classify the tax type first; If regulation: FCA=conduct, PRA=prudential"
       ],
       "jumpTargets": {
         "prevDay": 21,
@@ -2837,14 +3130,11 @@ window.CEMAP1_DATA = {
         "Corporation Tax: 25% on profits over £250,000; 19% small profits under £50,000. Hybrid rules between thresholds."
       ],
       "mustKnow": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k",
-        "Dividends: 8.75%/33.75%/39.35% + £500 allowance",
-        "ISA transfers between providers don't count toward annual limit",
-        "Personal allowance vs marriage allowance vs blind person's allowance"
+        "PA = £12,570; reduces above £100k",
+        "IHT NRB = £325,000; taper relief",
+        "SDLT bands and first-time buyer relief",
+        "Term vs whole life vs critical illness vs income protection",
+        "DC vs DB pension differences"
       ],
       "commonMistakes": [
         "Dividend rules ≠ savings rules — keep completely separate",
@@ -2855,11 +3145,7 @@ window.CEMAP1_DATA = {
         "Forgetting ISA transfer rules when asked about switching providers"
       ],
       "examSprint": [
-        "Income Tax: PA = £12,570, reduces above £100k, gone at £125,140+",
-        "CGT annual exempt = £3,000; Chattels exempt ≤£6,000",
-        "IHT NRB = £325,000; taper 3-7yr; excess 40%",
-        "SDLT: 0/5/10/12% bands; FTB: 0% £425k/5% £625k",
-        "Corporation Tax: 25% standard; 19% small profits <£50k"
+        "Tax = classify first; Products = what need, what risk, how liquid"
       ],
       "jumpTargets": {
         "prevDay": 22,
@@ -2966,16 +3252,10 @@ window.CEMAP1_DATA = {
         "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included",
-        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
-        "Suitability: personal recommendation = factfind + suitability report",
-        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
-        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
-        "MCOB: regulated mortgages need suitability + adequate explanation"
+        "FCA = conduct/consumer; PRA = prudential",
+        "FOS max £430,000; FSCS £85,000 deposits",
+        "72-hour ICO breach notification",
+        "Consumer Duty 4 outcomes"
       ],
       "commonMistakes": [
         "FOS and FSCS are NOT regulators — FCA/PRA are",
@@ -2986,11 +3266,7 @@ window.CEMAP1_DATA = {
         "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included"
+        "FCA/PRA/FOS/FSCS distinct roles; Consumer Duty = outcomes not just disclosure"
       ],
       "jumpTargets": {
         "prevDay": 23,
@@ -3075,14 +3351,10 @@ window.CEMAP1_DATA = {
         "CPD: must remain competent. 35 hours minimum per year for SPS (Statement of Professional Standing) holders. Competence = ability to perform role effectively."
       ],
       "mustKnow": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
-        "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market",
-        "Ongoing reviews: circumstances/products/suitability all change over time",
-        "Vulnerable: adapt process, don't assume incapacity",
-        "CPD = 35 hours/year minimum for SPS holders"
+        "Factfind before recommendation",
+        "ATR = willingness; CFL = ability",
+        "LPA H&W only when lacks capacity",
+        "Joint tenancy: ROS; Tenants in common: defined share"
       ],
       "commonMistakes": [
         "Recommending before factfind is complete",
@@ -3093,11 +3365,7 @@ window.CEMAP1_DATA = {
         "Assuming vulnerable = lacking capacity (vulnerability ≠ incapacity)"
       ],
       "examSprint": [
-        "Factfind FIRST — never recommend before understanding client",
-        "ATR = willingness (subjectiv); CFL = financial ability (objective) — SEPARATE",
-        "Suitability report required after personal recommendation",
-        "Execution-only: client chooses, no advice, no suitability needed, but confirm understanding",
-        "Restricted = tied/multi-tied products; Independent = whole of market"
+        "Factfind first; ATR and CFL separate; LPA H&W only when incapable"
       ],
       "jumpTargets": {
         "prevDay": 24,
@@ -3191,13 +3459,8 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Build contrast cards for: FCA/PRA, FOS/FSCS, ATR/CFL, joint tenancy/tenants in common, term/whole life",
+        "Error types: knowledge gap, confusion pair, rushing"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -3207,11 +3470,7 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Mock under exam conditions; mark strictly; review wrong answers; build contrast cards"
       ],
       "jumpTargets": {
         "prevDay": 25,
@@ -3314,13 +3573,7 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Full mixed paper — all topics covered"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -3330,11 +3583,7 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Simulate exam conditions; mark strictly; review explanations"
       ],
       "jumpTargets": {
         "prevDay": 26,
@@ -3437,13 +3686,7 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "Full mixed paper; compare error patterns with Mock A"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -3453,11 +3696,7 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Mock → diagnose → target weak areas → retry"
       ],
       "jumpTargets": {
         "prevDay": 27,
@@ -3565,16 +3804,9 @@ window.CEMAP1_DATA = {
         "FSCS: pays compensation when FCA/PRA authorised firm fails. Limits: deposits £85,000; investments £85,000; insurance 100% of claim; life and pensions unlimited. NOT a complaints body."
       ],
       "mustKnow": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included",
-        "Best execution = best RESULT (price+costs+speed+likelihood+size...) not just price",
-        "Suitability: personal recommendation = factfind + suitability report",
-        "Appropriateness: non-advised complex product sale = basic knowledge assessment",
-        "FOS: complaints, max £430,000; FSCS: firm failure, £85,000 deposits/investments",
-        "MCOB: regulated mortgages need suitability + adequate explanation"
+        "FCA=conduct, PRA=prudential, FOS=complaints, FSCS=failure",
+        "Consumer Duty 4 outcomes",
+        "AML chain: CDD → EDD → SAR → MLRO → NCA"
       ],
       "commonMistakes": [
         "FOS and FSCS are NOT regulators — FCA/PRA are",
@@ -3585,11 +3817,7 @@ window.CEMAP1_DATA = {
         "Execution-only ≠ suitability (no suitability assessment needed)"
       ],
       "examSprint": [
-        "FCA: conduct + consumer protection; PRA: prudential safety and soundness",
-        "SMCR: senior manager accountability + Statement of Responsibilities",
-        "Consumer Duty: products/services, price/value, understanding, support (4 outcomes)",
-        "PRIN 11 Principles: integrity, skill, management, financial prudence, market conduct...",
-        "Financial promotion: clear, fair, not misleading; social media included"
+        "FCA/PRA/FOS/FSCS roles distinct; Consumer Duty PPUS; AML complete chain"
       ],
       "jumpTargets": {
         "prevDay": 28,
@@ -3692,13 +3920,10 @@ window.CEMAP1_DATA = {
         "Monetary policy = BoE/MPC/Bank Rate/inflation. Fiscal policy = government tax/spending. NEVER mix these."
       ],
       "mustKnow": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond",
-        "MPC: 9 members, meets 8x/year, sets Bank Rate",
-        "Sterling Operating Rate (SOR) = key BoE rate; Sonia = benchmark for short-term rates"
+        "All key numbers and thresholds",
+        "All regulatory body roles",
+        "All product comparison pairs",
+        "All legal concept distinctions"
       ],
       "commonMistakes": [
         "Confusing BoE's lender of last resort with normal bank lending",
@@ -3708,11 +3933,7 @@ window.CEMAP1_DATA = {
         "Confusing retail banking (personal customers) with wholesale (FI/large corporates)"
       ],
       "examSprint": [
-        "Four transformation functions: Geographic, Aggregation, Maturity, Risk",
-        "BoE lender of last resort = emergency funding ONLY, NOT normal business",
-        "Money market short-term (<1yr); Capital market = longer-term securities",
-        "Mutual = members; Proprietary = shareholders",
-        "Credit unions: reserve = £50,000 or 5% assets whichever greater; common bond"
+        "Classification first; contrast cards; key numbers; exam technique"
       ],
       "jumpTargets": {
         "prevDay": 29,
